@@ -1,113 +1,134 @@
 const fs = require("fs");
 const path = require("path");
-const xlsx = require("xlsx");
 
-//create a script that will extract the sales from the excel file, matches every product sold with it's corresponding description and price, and then creates a new file with the sales data, extract the ingredients from recetas.json and then calculate the cost of the sales, and then create a new file with the cost of the sales
 
-const file = "./ventasxlocal2.xlsx";
+//set current working directory using path module
 
-const trackedProducts = JSON.parse(fs.readFileSync("tracked.json", "utf8"));
 
-const diccionario = "./recetas.json";
+console.log(__dirname);
 
-const codigosProducto = JSON.parse(fs.readFileSync(diccionario, "utf8"));
 
-const getDiccionario = (codigo) => {
-  let producto = codigosProducto.find((element) => element.Codigo === codigo);
-  if (producto !== undefined) {
-    return producto.Producto;
-  } else {
-    return "error";
-  }
+
+// read the json files
+
+
+const productos = JSON.parse(fs.readFileSync("./diccionario.json", "utf8"));
+
+const recetas = JSON.parse(fs.readFileSync("./recetas.json", "utf8"));
+
+const ventas = JSON.parse(fs.readFileSync("./ventas-locales-20-01-2024.json", "utf8"));
+
+const trackedProducts = JSON.parse(fs.readFileSync("./recetas.json", "utf8"));
+
+const diccionario = JSON.parse(fs.readFileSync("./diccionario-locales.json", "utf8"));
+
+const codigosProducto = JSON.parse(fs.readFileSync("./diccionario-locales.json", "utf8"));
+
+// //get the product description from diccionario-locales.json
+
+// const getProductDescription = (productCode) =>
+//   codigosProducto.find((product) => product.codigo === productCode).descripcion;
+
+// //get the product price from diccionario-locales.json
+
+// const getProductPrice = (productCode) =>
+//   codigosProducto.find((product) => product.codigo === productCode).precio;
+
+// //get the product ingredients from recetas.json
+
+// const getProductIngredients = (productCode) =>
+//   trackedProducts.find((product) => product.codigo === productCode).ingredientes;
+
+// // get the product sales from the json file
+
+// const getProductSales = (productCode) =>
+//   ventas.find((product) => product.codigo === productCode).ventas;
+
+// // calculate how many ingredients are needed for each product
+
+// const calculateIngredientsNeeded = (productCode) =>
+//   getProductIngredients(productCode).map((ingredient) =>
+//     ingredient.cantidad * getProductSales(productCode)
+//   );
+
+// // calculate the cost of the sales
+
+// const calculateCostOfSales = (productCode) =>
+//   getProductPrice(productCode) * getProductSales(productCode);
+
+// // get the product description from diccionario-locales.json
+
+const getProductDescription = (productCode) =>
+  diccionario.find((product) => product.codigo === productCode)
+    .descripcion;
+
+// get the product price from diccionario-locales.json
+
+const getProductPrice = (productCode) =>
+  diccionario.find((product) => product.codigo === productCode).precio;
+
+//get the product ingredients from recetas.json
+
+const getProductIngredients = (productCode) =>
+  recetas.find
+    ((product) => product.codigo === productCode).ingredientes;
+
+// get the product sales from the json file
+
+const getProductSales = (productCode) =>
+  ventas.find
+    ((product) => product.codigo === productCode).ventas;
+console.log(getProductSales);
+
+// calculate how many ingredients are needed for each product
+
+const calculateIngredientsNeeded = (productCode) => {
+  const product = recetas.find((product) => product.codigo === productCode);
+  console.log(product);
+}
+
+console.log(calculateIngredientsNeeded);
+
+
+
+
+// calculate the cost of the sales
+
+const calculateCostOfSales = (productCode) =>
+  getProductPrice(productCode) * getProductSales(productCode);
+console.log(calculateCostOfSales);
+
+// aggregate the data
+
+const aggregateData = () =>
+  JSON.parse(fs.readFileSync("./recetas.json", "utf8")).map
+    ((product) =>
+    ({
+      codigo: product.codigo,
+      descripcion: getProductDescription(product.codigo),
+      precio: getProductPrice(product.codigo),
+      ingredientes
+        : getProductIngredients(product.codigo),
+
+      ventas: getProductSales(product.codigo),
+      ingredientesNecesarios: calculateIngredientsNeeded(product.codigo),
+      costoVentas: calculateCostOfSales(product.codigo)
+
+    })
+    );
+console.log(aggregateData);
+
+// write the aggregated data to a json file
+
+const writeAggregatedData = () =>
+  fs.writeFileSync("./aggregated-data.json", JSON.stringify(aggregateData(), null, 2));
+console.log(writeAggregatedData);
+
+// 
+
+const main = () => {
+  aggregateData();
+  writeAggregatedData();
 };
 
-//get tracked products from tracked.json
-
-const getTrackedProducts = (codigo) => {
-  let productos = [];
-  let producto = trackedProducts.find((element) => element.Codigo === codigo);
-  if (producto !== undefined) {
-    productos.push(producto.Producto);
-  } else {
-    return "error";
-  }
-  return productos;
-};
-
-//get the ingredient list from recetas.json
-
-// {
-//     "Codigo": "1",
-//     "Producto": "Chicken Finger",
-//     "CantidadPara": "1",
-//     "Medida": "PORC",
-//     "Ingrediente": "I. CHICKEN FINGER",
-//     "Cantidad": "1",
-//     "Precio_ingrediente": "1087"
-// },
-
-//should read the code and then compare it with the code in recetas.json and then get the list of ingredients and then calculate the cost of the product
-
-const getIngredientes = (codigo) => {
-  let ingredientes = [];
-  let producto = codigosProducto.find((element) => element.Codigo === codigo);
-  if (producto !== undefined) {
-    ingredientes.push(producto.Ingrediente);
-  } else {
-    return "error";
-  }
-  return ingredientes;
-};
-
-//check what ingredientes are int the tracked.json file products
-
-const getTrackedIngredientes = (codigo) => {
-  let ingredientes = [];
-  let producto = trackedProducts.find((element) => element.Codigo === codigo);
-  if (producto !== undefined) {
-    ingredientes.push(producto.Ingrediente);
-  } else {
-    return "error";
-  }
-  console.log(ingredientes);
-};
-
-//get the data from the excel file
-
-let data = [];
-
-const extractInfo = (filename) => {
-  const workbook = xlsx.readFile(filename);
-  const worksheets = workbook.SheetNames;
-
-  worksheets.forEach((element) => {
-    const worksheet = workbook.Sheets[element];
-    const json = xlsx.utils.sheet_to_json(worksheet, {
-      raw: false,
-      defval: null,
-      header: "A",
-      range: 1,
-    });
-    json.forEach((row) => {
-      let trackedProducts = getTrackedProducts(row["A"]);
-      let productoDesc = getDiccionario(row["A"]);
-      let ingredientes = getIngredientes(row["A"]);
-      let obj = {
-        Key: count,
-        Local: element,
-        Tracked: trackedProducts,
-        ProductDescription: productoDesc,
-        Ingredientes: ingredientes,
-      };
-      count = count++;
-      data.push(obj);
-      console.log(obj);
-    });
-    // // fs.writeFileSync(
-    // //   `ventas-locales-${date}.json`,
-    // //   JSON.stringify(data, null, 2)
-    // );
-  });
-};
-
-extractInfo(file);
+main();

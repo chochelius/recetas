@@ -2,10 +2,11 @@
   "name": "calculos-informe",
   "version": "1.0.0",
   "description": "calculos",
-  "main": "index.js",
+  "main": "./",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "calc": "node calcular-costos.js"
   },
   "author": "Javier",
   "license": "ISC",
