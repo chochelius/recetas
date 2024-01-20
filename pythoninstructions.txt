@@ -1,0 +1,3456 @@
+											
+Stock Diario Teclados N°2											
+											
+BARRA											
+Producto	Unidades	Porciones	Stock requerido	Inicio		Reposición		Inicio Turno		Final Turno	
+				Unidades	Porciones	Unidades	Porciones	Unidades	Porciones	Unidades	Porciones
+CERVEZAS											
+STELLA SIN ALCOHOL	1 UNID		10	2				2	0	0	
+BUDWEISER  	1 UNID		20	12				12	0	15	
+CORONA NORMAL  	1 UNID		48	30		18		48	0	42	
+CUSQUEÑA DARK LAGER   	1 UNID		5	0				0	0	0	
+CUSQUEÑA GOLDEN LAGER 	1 UNID		10	8				8	0	8	
+CUSQUEÑA RED LAGER 	1 UNID		5	0				0	0	0	
+CUSQUEÑA TRIGO 	1 UNID		5	0				0	0	0	
+NEGRA MODELO 	1 UNID		10	0				0	0	0	
+STELLA   	1 UNID		20	20				20	0	20	
+BATALLA											
+AMARETO BOLS	1 UNID	POR BOTELLA	2	2				2	0	2	
+BITTER 	1 UNID	POR BOTELLA	1	1				1	0	1	
+BLUE CURACAO 	1 UNID = 750 CC	POR BOTELLA	2	2				2	0	2	
+BOTELLON BODEGA UNO TINTO	1 UNID	POR BOTELLA	6	5				5	0	5	
+CACHAZA JAMEL	1 UNID = 900 CC	POR BOTELLA	3	3				3	0	3	
+CINZANO ROSSO 	1 UNID	POR BOTELLA	1	0		1		1	0	1	
+COGÑAC TRES PALOS	1 UNID	POR BOTELLA	3	3				3	0	3	
+CREMA DE CASSIS	1 UNID	POR BOTELLA	2	2				2	0	2	
+GIN BATALLA	1 UNID = 1 LT	POR BOTELLA	3	3				3	0	3	
+GRANADINA 	1 UNID	POR BOTELLA	3	3				3	0	2	
+WISKY BATALLA JAMES KING  3 AÑOS LITRO	1 UNID	POR BOTELLA	2	2				2	0	2	
+VODKA BATALLA 	1 UNID = 1 LT O 750 CC	POR BOTELLA	6	6				6	0	6	
+LICOR DE CAFÉ 	1 UNID	POR BOTELLA	2	2				2	0	2	
+LICOR DE WHISKY	1 UNID	POR BOTELLA	1	1				1	0	1	
+BRUJAS DE SALAMANCA 35°	1 UNID = 750 CC	10 PORCIONES	3	2		1		3	0	2	
+RON BLANCO  BATALLA	1 UNID= 1,5 LTS 	POR BOTELLA	20	14		6		20	0	16	
+RON DORADO BATALLA	1 UNID	POR BOTELLA	2	2				2	0	2	
+TEQUILA BATALLA	1 UNID = 1 LT	POR BOTELLA	4	3				3	0	3	
+TRIPLE SEC	1 UNID	POR BOTELLA	3	3				3	0	3	
+BEBIDAS Y AGUAS											
+AGUA MINERAL            	1 UNID = 1.6 LT		12	8		4		12	0	10	
+COCA COLA NORMAL   GR	1 UNID = 1.5 LT		6	3				3	0	3	
+COCA COLA ZERO  GR	1 UNID = 1.5 LT		6	3		3		6	0	6	
+COCACOLA 350CC	1 UNID = 350 CC		60	34				34	0	30	
+COCACOLA 220CC	1 UNID = 220 CC		24	23				23	0	21	
+COCACOLA LIGHT 350 CC	1 UNID = 350 CC		48	35		12		47	0	45	
+COCACOLA LIGHT 220CC	1 UNID = 220 CC		48	0				0	0	0	
+COCACOLA ZERO 350 CC	1 UNID = 350 CC		90	72		18		90	0	74	
+COCACOLA ZERO 220CC	1 UNID = 220 CC		50	18				18	0	31	
+FANTA 	1 UNID = 350 CC		12	10		2		12	0	9	
+FENTIMANS LIGHT TONIC WATER 	1 UNID		12	12				12	0	12	
+FENTIMANS TONIC WATER 	1 UNID		12	12				12	0	12	
+SCHWEPPES GINGER ALE 	1 UNID = 350 CC		18	16				16	0	14	
+GINGER ALE ZERO GRANDE 	1 UNID = 1.5 LT		6	3				3	0	3	
+SCHWEPPES GINGER ZERO	1 UNID = 350 CC		24	15		7		22	0	17	
+GINGER BEER	1 UNID		24	11				11	0	8	
+MINERAL VITAL VIDRIO  CON GAS	1 UNID = 330 CC		15	9		4		13	0	7	
+MINERAL VITAL VIDRIO SIN GAS 	1 UNID = 330 CC		24	21		3		24	0	15	
+SPRITE 350CC	1 UNID = 350 CC		18	13		6		19	0	15	
+SPRITE  220CC	1 UNID = 220 CC		18	16				16	0	16	
+SPRITE ZERO 350CC	1 UNID = 350 CC		24	25				25	0	19	
+SCHWEPPES TONICA	1 UNID = 350 CC		36	17				17	0	36	
+TONICA     GR                  	1 UNID = 1.5 LT		6	0		6		6	0	6	
+LONG Y PULPAS											
+PULPA FRAMBUESA	PULPA	1 PULPA = 18 PORC	4K	0		2		2	0	0	
+PULPA FRUTILLA	PULPA	1 PULPA = 16 PORC	3K	0				0	0	0	
+JUGO NARANJA TETRA 	1 UNID = 1 LT		10	8		2		10	0	10	
+JUGO PIÑA TETRA	1 UNID = 1 LT		8	6		2		8	0	9	
+PULPA MANGO	PULPA	1 PULPA = 18 PORC	4K	0				0	0	0	
+PULPA MARACUYÁ	PULPA	1 PULPA = 16 PORC	2K	0		2		2	0	0	
+PULPA LIMON 	PULPA 		10k	2		6		8	0	4	
+ENERGÉTICAS											
+MONSTER	1 UNID		10	0				0	0	0	
+RED BULL YELLOW EDITIONS 	1 UNID		30	17				17	0	17	
+RED BULL NORMAL	1 UNID		24	22				22	0	22	
+RED BULL S/A	1 UNID		18	17				17	0	17	
+VINOS Y ESPUMANTES											
+BRUT RICCADONA	1 UNID = 750 CC	POR BOTELLA 	2	3				3	0	3	
+CARMEN GRAN RESERVA CABERNET SAUV	1 UNID = 750 CC	POR BOTELLA 	2	2				2	0	2	
+MEDALLA REAL RESERVA CARMENERE	1 UNID = 750 CC	POR BOTELLA 	2	2				2	0	1	
+CARMEN GRAN RVA FRIDA KAHLO CARMENERE	1 UNID = 750 CC	POR BOTELLA 	2	2				2	0	2	
+MEDALLA REAL RESERVA BLANCO CHARDONNAY	1 UNID = 750 CC	POR BOTELLA 	2	2				2	0	1	
+CASA REAL MERLOT	1 UNID = 750 CC	POR BOTELLA 	2	2				2	0	2	
+MOSCATO ROSE  	1 UNID = 750 CC	POR BOTELLA	2	1				1	0	1	
+PROSECCO 	1 UNID = 750 CC	POR BOTELLA	2	2				2	0	2	
+CHAMPAGNE UNDURRAGA BRUT 	1 UNID = 750 CC	5 PORCIONES	12	9				9	0	9	
+MARTINI DRY	1 UNID = 750 CC	10 PORCIONES	1	1				1	0	1	
+CINZANO BIANCO	1 UNID	10 PORCIONES	1	1				1	0	1	
+VODKA											
+ABSOLUT AZUL	1 UNID	10 PORCIONES	2	1	0			1	0	1	0
+ABSOLUT MANGO	1 UNID	10 PORCIONES	2	1	9			1	9	1	9
+ABSOLUT PEPPAR	1 UNID	10 PORCIONES	2	1	3			1	3	1	3
+ABSOLUT PERA	1 UNID	10 PORCIONES	2	1	9			1	9	1	9
+ABSOLUT RAZZ	1 UNID	10 PORCIONES	3	2	1			2	1	2	1
+ABSOLUT VAINILLA	1 UNID	10 PORCIONES	2	2	0			2	0	2	0
+STOLICH 	1 UNID	10 PORCIONES	2	1	10			1	10	1	10
+SMIRNOFF	1 UNID = 1 LT	23 PORCIONES	3	1	0			1	0	1	0
+WHISKEY											
+JACK DANIELS 	1 UNID = 750 CC	10 PORCIONES	3	1	3			1	3	3	0
+JACK DANIELS FIRE	1 UNID = 750 CC	10 PORCIONES	1	1	6			1	6	1	5
+JACK DANIELS APPLE	1 UNID = 750 CC	10 PORCIONES	1	1	4			1	4	0	4
+JACK HONEY 	1 UNID	10 PORCIONES	1	0	12			0	12	1	12
+JOHNNIE NEGRO 	1 UNID = 750CC	10 PORCIONES	2	1	9			1	9	1	9
+JOHNNIE ROJO 	1 UNID = 750CC	10 PORCIONES	2	1	1			1	1	1	1
+JOHNNIE BLONDE	1 UNID = 750 CC	10 PORCIONES	1	1	7			1	7	1	7
+THE SINGLETON 12 YO 	1 UNID = 750 CC	10 PORCIONES	1	1	3			1	3	1	3
+VAT 69 	1 UNID = 750 CC	10 PORCIONES	1	2	0			2	0	2	0
+BULLEIT	1 UNID = 750 CC	10 PORCIONES	1	1	3			1	3	1	3
+TEQUILA											
+TEQUILA JIMADOR BLANCO 	1 UNID	10 PORCIONES	3	2	7			2	7	2	7
+GIN											
+GIN BIFFETER	1 UNID	10 PORCIONES	4	1	1			1	1	1	0
+GIN HENDRICKS	1 UNID	9 PORCIONES	3	1	0	2		3	0	2	4
+TANQUERAY N° TEN 	1 UNID	10 PORCIONES	1	1	4			1	4	1	4
+TANQUERAY LONDON	1 UNID	10 PORCIONES	3	3	0			3	0	2	3
+TANQUERAY SEVILLA 	1 UNID	10 PORCIONES	1	1	3			1	3	1	3
+PISCO											
+ALTO 35 º	1 UNID = 1 LT	13 PORCIONES	15	12	7			12	7	11	4
+ALTO 40º 	1 UNID = 750 CC	10 PORCIONES	3	2	8			2	8	2	8
+ALTO TRANSPARENTE 40°	1 UNID = 750 CC	10 PORCIONES	3	3	0			3	0	3	6
+BRUJAS DE SALAMANCA 35	1 UNID = 750 CC	10 PORCIONES	3	2	5			2	5	2	7
+BRUJAS DE SALAMANCA 40 ° RESERVADO 	1 UNID = 750 CC	10 PORCIONES	1	1	0			1	0	1	0
+MISTRAL 35	1 UNID	10 PORCIONES	5	3	12			3	12	3	9
+MISTRAL 40 NOBEL	1 UNID	10 PORCIONES	2	1	7			1	7	1	7
+RON											
+ZACAPA AMBAR	1 UNID	10 PORCIONES	1	1	0			1	0	1	3
+PAMPERO SELECCIÓN 	1 UNID	10 PORCIONES	1	0	0			0	0	0	7
+PAMPERO ANIVERSARIO 	1 UNID	10 PORCIONES	1	0	0			0	0	0	9
+OTROS LICORES Y CREMAS											
+APEROL 	1 UNID	10 PORCIONES	5	4	1			4	1	4	2
+CAMPARI	1 UNID	10 PORCIONES	2	1	4			1	4	1	2
+BAILEY´S ORIGINAL 	1 UNI 	10 PORCIONES	1	0	6			0	6	0	6
+DRAMBUI	1 UNID	10 PORCIONES	1	0	9			0	9	0	9
+FERNET BRANCA 	1 UNID = 1 LTS	13 PORCIONES	2	0	0			0	0	0	0
+JAGERMEISTER	1 UNID	12  PORCIONES: 750 CC	2	2	2			2	2	1	9
+RAMAZZOTTI	1 UNID	9 PORCIONES	6	4	7			4	7	4	5
+RAMAZZOTTI  VIOLETA	1 UNID	9 PORCIONES	2	1	3			1	3	1	3
+FRUTAS Y HIERBAS											
+ACEITUNA VERDE	POR UNID		8	0				0	0	0	
+ALBAHACA	1KG	10 PORCIONES	10	0				0	0	0	
+JENGIBRE	1 UNID		1	0				0	0	0	
+LIMON PICA	1 UNID		90	30				30	0	20	
+LIMÓN SUCEDANEO	1 BIDÓN = 5 LT		2	0				0	0	0	
+MANZANA VERDE  	1 UNID		8	5				5	0	3	
+MENTA 	1 KG = 22 BOLSAS DE 30 GRMS	1 BOLSA = 10 PORCIONES	22	0				0	0	0	
+NARANJA	1 UNID		8	3				3	0	10	
+PEPINO	1 UNID		2	2				2	0	1	
+PIÑA	1 UNID		1	0				0	0	0	
+POMELO			3	4				4	0	3	
+CONDIMENTOS											
+AZUCAR GRANULADA	1 KG		1	0				0	0	0	
+CANELA			1	0				0	0	0	
+CLAVO DE OLOR			1	1				1	0	1	
+ESENCIA DE COCO 	1 FRASCO		1	1				1	0	1	
+MARROSQUINOS			1	1				1	0	1	
+FRAMBUESA				0				0	0	0	
+ARANDANO				0				0	0	0	
+MERKEN	1 KG		1	1				1	0	1	
+PIMIENTA			1	1				1	0	1	
+SAL	1KG		1	0				0	0	1	
+SALSA INGLESA	1 FRASCO		1	1				1	0	1	
+TABASCO	1 FRASCO		2	1				1	0	1	
+CREMA ESPESA 	1 LITRO		2	1				1	0	1	
+JUGO TOMATE	1 UNI		1	0				0	0	0	
+OTROS BARRA											
+BOMBILLAS	1 PAQUETE = 200		2	2				2	0	2	
+PAPEL HIGIENICO	1 ROLLO GRANDE		1	2				2	0	2	
+ROLLO MAQUINA IMPRESORA	1 UNIDAD		5	4				4	0	4	
+ROLLO MAQUINA TRANSBANK	1 UNIDAD		1	1				1	0	1	
+SERVILLETAS	1 PAQUETE		5	2				2	0	0	
+TOALLA NOVA	1 ROLLO GRANDE		1	1				1	0	1	
+Stock Diario Teclados N°2										
+Fecha:    02/01/2024										
+COCINA										
+Producto	Unidades	Stock requerido	Inicio		Reposición		Inicio Turno		Final Turno	
+			Unidades	Porciones	Unidades	Porciones	Unidades	Porciones	Unidades	Porciones
+POLLO										
+CHICKEN FINGER	1 PORCIÓN 	30	28				28		20	
+FILETILLO POLLO	1 PORCIÓN = 2 UNID	40	40				40		18	
+FILETILLO QUESADILLAS 	1 PORCIÓN = 1 UNID	20	0				0		0	
+CARNES										
+CHURRASCO	1 UNID = 170 GR	60	30		18		48		50	
+CRUDOS	180 GRS	10	8		2		10		7	
+HAMBURG CASERA	1 UNID 180 GR	30	11		15		26		22	
+HAMBURGESA NOT BURGER	1 UNIDAD	10	1				1		15	
+LOMO DE 200	1 UNID = 250 GR	40	55				55		25	
+MECHADA 250 GR	250 GRS	10	0				0		0	
+MECHADAS SANDWICH	1 PORCIÓN = 185 GR (APROX)	20	12		8		20		16	
+TOCINO LAMINA	PORCIÓN	15	4		10		14		13	
+TOCINO KILO	KILO	1	0				0		7	
+PESCADOS Y MARISCOS										
+BROCHETA CAMARON	1 UNID	30	22				22		20	
+CAMARON APANADO	1 PORCIÓN = 6 UNID	30	0				0		0	
+CAMARON PORCION	1 PORCIÓN = 6 UNID	50	28				28		15	
+SALMÓN 	180 GRS	40	10				10		23	
+PAN, TORTILLAS Y MASAS										
+ARROZ	1 PORCIÓN	12	1				1		0	
+EMPANADAS MIXTAS	1 PORCIÓN = 4 UNID	50	45		5		50		24	
+EMPANADAS DE QUESO	1 PORCIÓN = 4 UNID	50	33		6		39		4	
+SPRING ROLLS	1 PORCIÓN = 2 UNID	30	7				7		19	
+FETUCCINI	UNI 	3	1				1		2	
+TOTOPOS	1 UNID = 1 BOLSA	8	4		4		8		5	
+PAN AMERICANO BRIOCHE 10cm	1 UNID	40	19		20		39		35	
+BAGUETTE	1 UNID	12	4		8		12		11	
+TORTILLA CHICAS	1 UNID	48	0				0		0	
+TORTILLA GRANDE 	1 UNID	36	10		12		22		8	
+ACEITES										
+ACEITE 900	1 UNID = 1 BOT 900 CC 	1	0		2		2		1	
+ACEITE BIDON 	1 UNID = 1 BID DE 5 LT	2	0				0		1	
+ACEITE DE OLIVA	1 BID= 5 LTS	2	1				1		2	
+LÁCTEOS 										
+CREMA ESPESA	1 UNID = 1 LT	14	3				3		0	
+LECHE BLANCA	UNI 	2	1		1		2		2	
+PALOS MOZZARELLA	1 PORCIÓN = 4 UNID	40	32				32		18	
+CAMENBERT APANADO	1 UNIDAD	10	0				0		0	
+QUESO CHEDDAR BOLSA	1 UNID	4 K	1				1		4	
+YOGURT NAT CHICO	1 UNID = 155 CC	5	0				0		0	
+CONDIMENTOS										
+AJI CREMA	1 KG	1	1				1		1	
+AJI NOMOTO  	1 KG	0,5	1				1		1	
+AJO EN POLVO  	1 KG	0,25	1				1		1	
+BOTELLON BODEGA UNO BLANCO 	1 UNID	1	1				1		0	
+COMINO	1 KG	0,5	1				1		1	
+HUEVO EN POLVO 	1 KG	0,5	1				1		1	
+KETCHUP (BBQ) 	1 UNID = 1 KG	5	2				2		1	
+MARGARINA	UNI 	1	0				0		0	
+MAYONESA	KG	1	0				0		1	
+MOSTAZA	KG	1	0				0		0	
+OREGANO	1 KG	0,75	1				1		1	
+PIMIENTA NEGRA MOL  	1 KG	0,75	1				1		1	
+SAL FINA	1 KG	2	1		1		2		0	
+SALSA AHUMADA	UNI	1	2				2		2	
+SOYA	LT	2	1				1		2	
+CURCUMA 	UNI	1	1				1		1	
+CURRY	UNI	1	1				1		1	
+CANELA MOLIDA	UNI	1	1				1		1	
+FRUTAS Y VERDURAS										
+AJI NARANJO	UNIDAD	20	6				6		18	
+AJI VERDE 	UNI	1	6				6		0	
+PALMITOS	UNIDAD	1	1				1		1	
+AJO ENTERO	UNI	1	0				0		0	
+ALCAPARRAS	UNI	1,5	1				1		1	
+CEBOLLA	1 UNID	20	6				6		0	
+CEBOLLA MORADA	1 UNID	7	10				10		6	
+CHAMPIÑÓN PORCIÓN	1 UNID = 55 GR	50	15				15		0	
+CHOCLO PERUANO 	1 PORCIÓN	5	5				5		5	
+CIBOULET 	1 ATADO (10 UNID)	10	0				0		12	
+CILANTRO	PQTE	1	1				1		0	
+LECHUGA COSTINA	1 UNID	2	2				2		0	
+LECHUGA HIDROPONICA	1 UNID	3	0				0		3	
+LECHUGA HIDROPONICA MORADA	1 UNID	3	0				0		0	
+LIMÓN	UNIDAD	6	3				3		0	
+LIMÓN SUCEDANEO	UNI	1	1				1		0	
+HUEVOS	UNIDAD	60	16				16		53	
+PALTA 	UNIDAD	7	3				3		7	
+PAPA SELECTA	UNIDAD	20	5				5		0	
+PEPINILLOS	1 UNID	1	1				1		1	
+PIMENTÓN ROJO	UNI	3	2				2		1	
+PIMENTÓN AMARILLO	UNI	3	0				0		0	
+POROTOS NEGROS	PORCIÓN	10	21				21		15	
+PULPA LIMÓN	1 KG	1	1				1		0	
+PULPA PALTA	1 KG	2	2				2		0,5	
+REPOLLO			0				0		0	
+TOMATES       	POR UNID	20	5				5		8	
+ZANAHORIA	UNI	6	2				2		2	
+DULCES										
+ARANDANOS	0.25	100 GRS	0				0		0	
+CHEESECAKE	PORCIÓN	8	0				0		3	
+BROWNIE	UNIDAD	10	10				10		12	
+HELADO DE VAINILLA	UNIDAD	1	0				0		0	
+SALSA FAMBRUESA	UNIDAD	1	1				1		1	
+SALSA CHOCOLATE	500 GRS	1	1				1		1	
+OTROS COCINA										
+ALUSA ALUMINIO	UNI	1	1				1		1	
+ALUSA PLASTICA	UNI	1	1				1		1	
+BANDEJAS DE ALUMINIO C20	1 UNID	100	52				52		60	
+CAJAS DELIVERY CON LOGO	1 UNID = 1 CAJA	200	60				60		61	
+FOSFOROS	UNI	1	0				0		0	
+MONDADIENTES	1 PAQUETE	1	0				0		0	
+MASCARILLAS	POR UNIDAD	20	0				0		0	
+PALO BROCHETA	1 PAQUETE	3	1				1		0	
+PAPEL AJEDREZ	1 CAJA = 1000	0,5	1				1		1	
+PAPEL MANTEQUILLA	UNI	1	45				45		1	
+POCILLOS  GRANDES DE CREMA	1 UNID	100	58				58		20	
+POCILLOS SALSAS 	1 UNID	100	58				58		100	
+TAPAS POCILLO SALSAS 2,5OZ	1 UNID	100	0				0		100	
+STICKERS	PLIEGO	0,5	0				0		0	
+ARTICULOS DE ASEO										
+CLORO	BIDON	2	2				2		2	
+AMONIO CUATERNARIO	BIDON	2	0				0		0	
+LAVALOSA	BIDON	2	2				2		2	
+LIMPIA PISO	BIDON	2	2				2		2	
+JABON LIQUIDO	BIDON	2	0				0		0	
+DESENGRASANTE	BIDON	2	2				2		2	
+GUANTES AMARILLOS	PQTE	1	1				1		1	
+GUANTES QUIRURGICOS	POR UNIDAD	50	0				0		0	
+COFIAS	POR UNIDAD	20	2				2		7	
+ESPONJA	UNI	4	5				5		3	
+BOLSAS DE BASURA	1 PAQUETE	1	1				1		1	
+SPONGI	UNI	5	3				3		3	
+TOALLA NOVA	1 ROLLO GRANDE	1	1				1		0	
+TRAPERO	UNI	1	0				0		1	
+VIRUTILLA FINA	UNI	2	0				0		0	
+VIRUTILLA GRUESA	UNI	2	2				2		0	
+
+this is the format of the data I need to extract from excel to a database, I have tried with the following code but it does not work for me, I would appreciate your help
+import os
+import glob
+
+
+
+#set the working directory as the current directory
+os.chdir(os.getcwd())
+
+#list all the files in the current directory
+xlsx_files = glob.glob('*.xlsx')
+
+#loop through the list of files and print the name of the file
+# for file in xlsx_files:
+#     print(file)
+#loop through the list of files and filter the ones that have "stock diario" in the name and exclude files that start with ~ 
+var = "stock diario"
+    # var might be in uppercase or lowercase, so we need to convert the file name to lowercase and then check if var is in the file name
+
+#save the filtered files in a new list
+filtered_files = []
+for file in xlsx_files:
+    if var in file.lower() and not file.startswith('~'):
+        filtered_files.append(file)        
+
+#if the file has something like "t1" "t2" "t3" "t4" "t5" "t6" "t7" "TECLADOS 1" "TECLADOS 2" "TECLADOS 3" "TECLADOS 4" "TECLADOS 5" "TECLADOS 6" "TECLADOS 7" in the name, print the name of the file create a new list for each instance found and append the file name to the list
+array = [["t1"],["t2"],["t3"],["t4"],["t5"],["t6"],["t7"],["T1"],["T2"],["T3"],["T4"],["T5"],["T6"],["T7"],["TECLADOS 1"],["TECLADOS 2"],["TECLADOS 3"],["TECLADOS 4"],["TECLADOS 5"],["TECLADOS 6"],["TECLADOS 7"]]
+for file in filtered_files:
+    for i in range(len(array)):
+        if array[i][0] in file:
+            array[i].append(file)
+
+            
+
+#loop through the list of lists and print the name of the list and the files in the list but only if the list has more than one file and save the output in a list for each list displayed
+output = []
+for i in range(len(array)):
+    if len(array[i]) > 1:
+        print(array[i])
+        output.append(array[i])
+        
+#loop through the list of lists and print the name of the list and the files in the list but only if the list has more than one file and save the output in a list for each list displayed
+
+# extract the data of the files of each list and save it in a set of dataframes  
+import pandas as pd
+df = []
+for i in range(len(output)):
+    for j in range(1,len(output[i])):
+        df.append(pd.read_excel(output[i][j], sheet_name = None))
+
+        this is the output
+
+['T1', 'STOCK DIARIO T1 03-01-24.xlsx', 'STOCK DIARIO T1 04-01-24.xlsx', 'STOCK DIARIO T1 05-01-24.xlsx']
+['T2', 'STOCK DIARIO T2 02-01-24.xlsx', 'STOCK DIARIO T2 03-01-24.xlsx', 'STOCK DIARIO T2 04-01-24.xlsx', 'STOCK DIARIO T2 05-01-24.xlsx']
+['T3', 'STOCK DIARIO T3 02-01-24.xlsx', 'STOCK DIARIO T3 03-01-24.xlsx', 'STOCK DIARIO T3 04-01-24.xlsx', 'STOCK DIARIO T3 05-01-24.xlsx', 'STOCK DIARIO T3 06-01-24.xlsx']
+['T4', 'STOCK DIARIO ACT. T4 02-01-24.xlsx', 'STOCK DIARIO ACT. T4 03-01-24.xlsx', 'STOCK DIARIO ACT. T4 04-01-24.xlsx', 'STOCK DIARIO ACT. T4 05-01-24.xlsx', 'STOCK DIARIO ACT. T4 06-01-24.xlsx']
+['TECLADOS 5', 'STOCK DIARIO TECLADOS 5  01-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  03-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  04-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  05-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  06-01-2024.xlsx']
+['TECLADOS 6', 'STOCK DIARIO TECLADOS 6 03-01-2024.xlsx', 'STOCK DIARIO TECLADOS 6 04-01-2024.xlsx', 'STOCK DIARIO TECLADOS 6 05-01-2024.xlsx', 'STOCK DIARIO TECLADOS 6 06-01-2024.xlsx']
+['TECLADOS 7', 'STOCK DIARIO TECLADOS 7 (02.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (03.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (04.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (05.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (06.01.24).xlsx']
+    Stock Diario Teclados N°1 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         2023-12-15 00:00:00                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido              
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133                                                                    
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                                                       0   
+130                                                                       2   
+131                                                                       1   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°1 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         2023-12-15 00:00:00                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido              
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133                                                                    
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                                                       0   
+130                                                                       0   
+131                                                                       1   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°1 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         2023-12-15 00:00:00                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido              
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133                                                                    
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                                                       1   
+130                                                                       0   
+131                                                                       1   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2  \
+0        Fecha:    30/12/2023   
+1                      COCINA   
+2                    Producto   
+3                               
+4                       POLLO   
+..                        ...   
+129                   TRAPERO   
+130            VIRUTILLA FINA   
+131          VIRUTILLA GRUESA   
+132                             
+133                             
+
+                                          Unnamed: 1       Unnamed: 2  \
+0                                                                       
+1                                                                       
+2                                           Unidades  Stock requerido   
+3                                                                       
+4                                                                       
+..                                               ...              ...   
+129                                              UNI                1   
+130                                              UNI                2   
+131                                              UNI                2   
+132                                                                     
+133  RECORDAR que los salmones estan saliendo dobles                    
+
+    Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8  \
+0                                                                           
+1                                                                           
+2       Inicio             Reposición             Inicio Turno              
+3     Unidades  Porciones    Unidades  Porciones      Unidades  Porciones   
+4                                                                           
+..         ...        ...         ...        ...           ...        ...   
+129          1                                               1              
+130          0                                               0              
+131          0                                               0              
+132                                                                         
+133                                                                         
+
+      Unnamed: 9 Unnamed: 10  
+0                             
+1                             
+2    Final Turno              
+3       Unidades   Porciones  
+4                             
+..           ...         ...  
+129            0              
+130            0              
+131            2              
+132                           
+133                           
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:    02/01/2024                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido     Inicio   
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1          0   
+130            VIRUTILLA FINA        UNI                2          0   
+131          VIRUTILLA GRUESA        UNI                2          2   
+132                                                                    
+133            cheddar lamina                                          
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                               0                       1   
+130                                               0                       0   
+131                                               2                       0   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:    04/01/2024                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido     Inicio   
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1          1   
+130            VIRUTILLA FINA        UNI                2          0   
+131          VIRUTILLA GRUESA        UNI                2          2   
+132                                                                    
+133            cheddar lamina                                          
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                               1                       1   
+130                                               0                       0   
+131                                               2                       2   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:    05/01/2024                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido     Inicio   
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133            cheddar lamina                                          
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                               0                       0   
+130                                               0                       0   
+131                                               0                       2   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-02 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          1                                     
+128                1          0                                     
+129                1          0                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-03 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          0                                     
+128                1          0                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-04 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          1                                     
+128                1          1                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-05 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          4                                     
+128                1          1                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-06 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          1                                     
+128                1          1                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   3/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          2   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   3/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          1   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   4/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          0   
+128               TOALLA NOVA  1 ROLLO GRANDE                1        0.5   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   5/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          2   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   6/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          1   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          1   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          0   
+137  BOLSAS DE BASURA CAGRA PESADA                          10          0   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          1   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          0   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          0   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0         10   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1       0.25   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          5   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:     30/12 /23                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          2   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       3   
+128                                                                       1   
+129                                                                       0   
+130                                                                       0   
+131                                                                       2   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     03/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       3   
+128                                                                       1   
+129                                                                       0   
+130                                                                       0   
+131                                                                       2   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128         0.6  
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     04/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       3   
+128        0.6                                                            1   
+129                                                                       0   
+130                                                                       0   
+131                                                                       1   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     05/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       5   
+128                                                                     0.8   
+129                                                                       0   
+130                                                                       0   
+131                                                                       2   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     06/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          5   
+128               TOALLA NOVA  1 ROLLO GRANDE                1        0.8   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       5   
+128                                                                     0.2   
+129                                                                       0   
+130                                                                       0   
+131                                                                       1   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+I want the structure of the data output to be json format for each sheet, but I don't know how to do it but just print it in the console. I would like to know how to do it, I have tried several ways but I have not been able to do it. I would appreciate your help. Thank you very much in advance.
+```
+```
+import pandas as pd
+import json
+import numpy as np
+import os
+import glob
+
+os.chdir(os.getcwd())
+
+extension = 'xlsx'
+all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
+print(all_filenames)
+
+for f in all_filenames:
+    df = pd.read_excel(f, sheet_name=None)
+    for sheet_name, df in df.items():
+        print(sheet_name)
+        print(df)
+        df.to_json('{}.json'.format(sheet_name), orient='records')
+
+
+I need to extract this type of outpu
+```
+```
+[
+    {
+        "local": "tecldos 1",
+        "Fecha": "02/01/2024",
+        {
+            "Productos-de": "COCINA",
+            {
+                "Producto": "POLLO",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"
+            },
+            {
+                "Producto": "PAPAS FRITAS",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"
+            },
+            {
+                "Producto": "HUEVOS",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"
+            },
+            {
+                "Producto": "CEBOLLA",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"
+            },
+            {
+                "Producto": "PAN",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"
+            },
+            {
+                "Producto": "LECHUGA",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"
+            },
+            {
+                "Producto": "TOMATE",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            } 
+        },
+        {
+            "Productos-de": "BAR",
+            {
+                "Producto": "CERVEZA",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            },
+            {
+                "Producto": "VINO TINTO",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            },
+            {
+                "Producto": "VINO BLANCO",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            },
+            {
+                "Producto": "PISCO",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            },
+            {
+                "Producto": "RON",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            },
+            {
+                "Producto": "WHISKY",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            },
+            {
+                "Producto": "AGUA MINERAL",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            } 
+        },
+        {
+            "Productos-de": "BARRA",
+            {
+                "Producto": "PISCO SOUR",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+                "Final Turno": "0"       
+            },
+            {
+                "Producto": "RON COCA COLA",
+                "Stock requerido": "0",
+                "Inicio": "0",
+                "Reposición": "0",
+                "Inicio turno": "0",
+
+import pandas as pd
+import json
+import numpy as np
+import os
+
+os.chdir(os.getcwd())
+xlsx_files = glob.glob('*.xlsx')
+var = "stock diario"
+    # var might be in uppercase or lowercase, so we need to convert the file name to lowercase and then check if var is in the file name
+
+#save the filtered files in a new list
+filtered_files = []
+for file in xlsx_files:
+    if var in file.lower() and not file.startswith('~'):
+        filtered_files.append(file)
+
+#if the file has something like "t1" "t2" "t3" "t4" "t5" "t6" "t7" "TECLADOS 1" "TECLADOS 2" "TECLADOS 3" "TECLADOS 4" "TECLADOS 5" "TECLADOS 6" "TECLADOS 7" in the name, print the name of the file create a new list for each instance found and append the file name to the list
+array = [["t1"],["t2"],["t3"],["t4"],["t5"],["t6"],["t7"],["T1"],["T2"],["T3"],["T4"],["T5"],["T6"],["T7"],["TECLADOS 1"],["TECLADOS 2"],["TECLADOS 3"],["TECLADOS 4"],["TECLADOS 5"],["TECLADOS 6"],["TECLADOS 7"]]
+for file in filtered_files:
+    for i in range(len(array)):
+        if array[i][0] in file:
+            array[i].append(file)
+
+output = []
+for i in range(len(array)):
+    if len(array[i]) > 1:
+        print(array[i])
+        output.append(array[i])
+
+# extract the data of the files of each list and save it in a set of dataframes translate NaNto string and print the dataframes
+import pandas as pd
+for i in range(len(output)):
+    for j in range(1,len(output[i])):
+        df = pd.read_excel(output[i][j])
+        df = df.fillna('')
+        print(df)
+        print('\n\n')
+
+# sear for the values I need and print them
+
+for i in range(len(output)):
+    for j in range(1,len(output[i])):
+        df = pd.read_excel(output[i][j])
+        df = df.fillna('')
+        print(df.loc[df['Unnamed: 1'] == 'SPONGI'])
+        print('\n\n')
+
+['T1', 'STOCK DIARIO T1 03-01-24.xlsx', 'STOCK DIARIO T1 04-01-24.xlsx', 'STOCK DIARIO T1 05-01-24.xlsx']
+['T2', 'STOCK DIARIO T2 02-01-24.xlsx', 'STOCK DIARIO T2 03-01-24.xlsx', 'STOCK DIARIO T2 04-01-24.xlsx', 'STOCK DIARIO T2 05-01-24.xlsx']
+['T3', 'STOCK DIARIO T3 02-01-24.xlsx', 'STOCK DIARIO T3 03-01-24.xlsx', 'STOCK DIARIO T3 04-01-24.xlsx', 'STOCK DIARIO T3 05-01-24.xlsx', 'STOCK DIARIO T3 06-01-24.xlsx']
+['T4', 'STOCK DIARIO ACT. T4 02-01-24.xlsx', 'STOCK DIARIO ACT. T4 03-01-24.xlsx', 'STOCK DIARIO ACT. T4 04-01-24.xlsx', 'STOCK DIARIO ACT. T4 05-01-24.xlsx', 'STOCK DIARIO ACT. T4 06-01-24.xlsx']
+['TECLADOS 5', 'STOCK DIARIO TECLADOS 5  01-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  03-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  04-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  05-01-2024.xlsx', 'STOCK DIARIO TECLADOS 5  06-01-2024.xlsx']
+['TECLADOS 6', 'STOCK DIARIO TECLADOS 6 03-01-2024.xlsx', 'STOCK DIARIO TECLADOS 6 04-01-2024.xlsx', 'STOCK DIARIO TECLADOS 6 05-01-2024.xlsx', 'STOCK DIARIO TECLADOS 6 06-01-2024.xlsx']
+['TECLADOS 7', 'STOCK DIARIO TECLADOS 7 (02.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (03.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (04.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (05.01.24).xlsx', 'STOCK DIARIO TECLADOS 7 (06.01.24).xlsx']
+    Stock Diario Teclados N°1 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         2023-12-15 00:00:00                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido              
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133                                                                    
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                                                       0   
+130                                                                       2   
+131                                                                       1   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°1 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         2023-12-15 00:00:00                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido              
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133                                                                    
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                                                       0   
+130                                                                       0   
+131                                                                       1   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°1 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         2023-12-15 00:00:00                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido              
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133                                                                    
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                                                       1   
+130                                                                       0   
+131                                                                       1   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2  \
+0        Fecha:    30/12/2023   
+1                      COCINA   
+2                    Producto   
+3                               
+4                       POLLO   
+..                        ...   
+129                   TRAPERO   
+130            VIRUTILLA FINA   
+131          VIRUTILLA GRUESA   
+132                             
+133                             
+
+                                          Unnamed: 1       Unnamed: 2  \
+0                                                                       
+1                                                                       
+2                                           Unidades  Stock requerido   
+3                                                                       
+4                                                                       
+..                                               ...              ...   
+129                                              UNI                1   
+130                                              UNI                2   
+131                                              UNI                2   
+132                                                                     
+133  RECORDAR que los salmones estan saliendo dobles                    
+
+    Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8  \
+0                                                                           
+1                                                                           
+2       Inicio             Reposición             Inicio Turno              
+3     Unidades  Porciones    Unidades  Porciones      Unidades  Porciones   
+4                                                                           
+..         ...        ...         ...        ...           ...        ...   
+129          1                                               1              
+130          0                                               0              
+131          0                                               0              
+132                                                                         
+133                                                                         
+
+      Unnamed: 9 Unnamed: 10  
+0                             
+1                             
+2    Final Turno              
+3       Unidades   Porciones  
+4                             
+..           ...         ...  
+129            0              
+130            0              
+131            2              
+132                           
+133                           
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:    02/01/2024                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido     Inicio   
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1          0   
+130            VIRUTILLA FINA        UNI                2          0   
+131          VIRUTILLA GRUESA        UNI                2          2   
+132                                                                    
+133            cheddar lamina                                          
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                               0                       1   
+130                                               0                       0   
+131                                               2                       0   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:    04/01/2024                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido     Inicio   
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1          1   
+130            VIRUTILLA FINA        UNI                2          0   
+131          VIRUTILLA GRUESA        UNI                2          2   
+132                                                                    
+133            cheddar lamina                                          
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                               1                       1   
+130                                               0                       0   
+131                                               2                       2   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°2 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:    05/01/2024                                          
+1                      COCINA                                          
+2                    Producto   Unidades  Stock requerido     Inicio   
+3                                                           Unidades   
+4                       POLLO                                          
+..                        ...        ...              ...        ...   
+129                   TRAPERO        UNI                1              
+130            VIRUTILLA FINA        UNI                2              
+131          VIRUTILLA GRUESA        UNI                2              
+132                                                                    
+133            cheddar lamina                                          
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+129                                               0                       0   
+130                                               0                       0   
+131                                               0                       2   
+132                                                                           
+133                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+129              
+130              
+131              
+132              
+133              
+
+[134 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-02 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          1                                     
+128                1          0                                     
+129                1          0                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-03 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          0                                     
+128                1          0                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-04 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          1                                     
+128                1          1                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-05 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          4                                     
+128                1          1                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+                             Stock Diario Teclados N°3      Unnamed: 1  \
+0                                  2024-01-06 00:00:00                   
+1                                                  ...                   
+2                                             Producto        Unidades   
+3                                                                        
+4                                                POLLO                   
+..                                                 ...             ...   
+127                                             SPONGI             UNI   
+128                                        TOALLA NOVA  1 ROLLO GRANDE   
+129                                            TRAPERO             UNI   
+130                                     VIRUTILLA FINA             UNI   
+131                                   VIRUTILLA GRUESA             UNI   
+
+          Unnamed: 2 Unnamed: 3 Unnamed: 4  Unnamed: 5 Unnamed: 6  \
+0                                                                   
+1                                                                   
+2    Stock requerido     Inicio             Reposición              
+3                      Unidades  Porciones    Unidades  Porciones   
+4                                                                   
+..               ...        ...        ...         ...        ...   
+127                5          1                                     
+128                1          1                                     
+129                1          1                                     
+130                2          2                                     
+131                2          0                                     
+
+       Unnamed: 7 Unnamed: 8   Unnamed: 9 Unnamed: 10  
+0                                                      
+1                                                      
+2    Inicio turno             Final Turno              
+3        Unidades  Porciones     Unidades   Porciones  
+4                                                      
+..            ...        ...          ...         ...  
+127                                                    
+128                                                    
+129                                                    
+130                                                    
+131                                                    
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   3/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          2   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   3/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          1   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   4/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          0   
+128               TOALLA NOVA  1 ROLLO GRANDE                1        0.5   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   5/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          2   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°4      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:   6/01/2024                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          1   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          1   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          0   
+137  BOLSAS DE BASURA CAGRA PESADA                          10          0   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          1   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          0   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0          0   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+         Stock Diario Teclados N°5 Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0               Fecha:      /    /                                          
+1                           COCINA                                          
+2                         Producto   Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                            POLLO                                          
+..                             ...        ...              ...        ...   
+133                AROS DE CEBOLLA                           0         10   
+134                 CACHO DE CABRA                                     12   
+135                        MERLUZA                          10         20   
+136      BOLSAS DE BASURA PEQUEÑA                           10          1   
+137  BOLSAS DE BASURA CARGA PESADA                          10          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+133                                                                           
+134                                                                           
+135                                                                           
+136                                                                           
+137                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+133              
+134              
+135              
+136              
+137              
+
+[138 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1       0.25   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          5   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°6      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0          Fecha:      /    /                                               
+1                      COCINA                                               
+2                    Producto        Unidades  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          0   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                           
+128                                                                           
+129                                                                           
+130                                                                           
+131                                                                           
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0        Fecha:     30/12 /23                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          2   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          1   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       3   
+128                                                                       1   
+129                                                                       0   
+130                                                                       0   
+131                                                                       2   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     03/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       3   
+128                                                                       1   
+129                                                                       0   
+130                                                                       0   
+131                                                                       2   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128         0.6  
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     04/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       3   
+128        0.6                                                            1   
+129                                                                       0   
+130                                                                       0   
+131                                                                       1   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     05/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          3   
+128               TOALLA NOVA  1 ROLLO GRANDE                1          1   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          1   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       5   
+128                                                                     0.8   
+129                                                                       0   
+130                                                                       0   
+131                                                                       2   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+    Stock Diario Teclados N°7      Unnamed: 1       Unnamed: 2 Unnamed: 3  \
+0         Fecha:     06/01/24                                               
+1                      COCINA                                               
+2                    Producto                  Stock requerido     Inicio   
+3                                                                Unidades   
+4                       POLLO                                               
+..                        ...             ...              ...        ...   
+127                    SPONGI             UNI                5          5   
+128               TOALLA NOVA  1 ROLLO GRANDE                1        0.8   
+129                   TRAPERO             UNI                1          0   
+130            VIRUTILLA FINA             UNI                2          0   
+131          VIRUTILLA GRUESA             UNI                2          2   
+
+    Unnamed: 4  Unnamed: 5 Unnamed: 6    Unnamed: 7 Unnamed: 8   Unnamed: 9  \
+0                                                                             
+1                                                                             
+2               Reposición             Inicio Turno             Final Turno   
+3    Porciones    Unidades  Porciones      Unidades  Porciones     Unidades   
+4                                                                             
+..         ...         ...        ...           ...        ...          ...   
+127                                                                       5   
+128                                                                     0.2   
+129                                                                       0   
+130                                                                       0   
+131                                                                       1   
+
+    Unnamed: 10  
+0                
+1                
+2                
+3     Porciones  
+4                
+..          ...  
+127              
+128              
+129              
+130              
+131              
+
+[132 rows x 11 columns]
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°1, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°1, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°1, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°2, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°2, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°2, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°2, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°3, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°3, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°3, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°3, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°3, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°4, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°4, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°4, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°4, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°4, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°5, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°5, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°5, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°5, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°5, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°6, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°6, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°6, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°6, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°7, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°7, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°7, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°7, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+
+Empty DataFrame
+Columns: [Stock Diario Teclados N°7, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10]
+Index: []
+
+
+

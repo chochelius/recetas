@@ -1,0 +1,4133 @@
+{
+    "Chicken Finger": {
+        "Codigo": "1",
+        "Producto": "Chicken Finger",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHICKEN FINGER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1087"
+    },
+    "EMPANADAS MIXTAS": {
+        "Codigo": "2",
+        "Producto": "EMPANADAS MIXTAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. EMPANADA PORC",
+        "Cantidad": "2",
+        "Precio_ingrediente": "2213"
+    },
+    "PALOS DE QUESO": {
+        "Codigo": "3",
+        "Producto": "PALOS DE QUESO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CREMA ESPESA",
+        "Cantidad": "50",
+        "Precio_ingrediente": "4"
+    },
+    "Spring Rolls": {
+        "Codigo": "4",
+        "Producto": "Spring Rolls",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MASITAS CASERAS",
+        "Cantidad": "2",
+        "Precio_ingrediente": "298"
+    },
+    "TOTOPOS": {
+        "Codigo": "5",
+        "Producto": "TOTOPOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. NACHOS",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2499"
+    },
+    "CAMEMBERT APANADO": {
+        "Codigo": "6",
+        "Producto": "CAMEMBERT APANADO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAMEMBERT",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1488"
+    },
+    "Fajita": {
+        "Codigo": "7",
+        "Producto": "Fajita",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS CH",
+        "Cantidad": "6",
+        "Precio_ingrediente": "5"
+    },
+    "Quesadilla Pollo - Champignon": {
+        "Codigo": "8",
+        "Producto": "Quesadilla Pollo - Champignon",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "QUESADILLA CARNE": {
+        "Codigo": "9",
+        "Producto": "QUESADILLA CARNE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "QUESADILLA CAMARON": {
+        "Codigo": "10",
+        "Producto": "QUESADILLA CAMARON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "LOMO A LO POBRE": {
+        "Codigo": "11",
+        "Producto": "LOMO A LO POBRE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LOMO 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2614"
+    },
+    "CRUDO": {
+        "Codigo": "12",
+        "Producto": "CRUDO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CRUDO PORC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1783"
+    },
+    "SONATA TECLADOS": {
+        "Codigo": "13",
+        "Producto": "SONATA TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "PICNIC TECLADOS": {
+        "Codigo": "14",
+        "Producto": "PICNIC TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHICKEN FINGER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1087"
+    },
+    "FESTIVAL TECLADOS": {
+        "Codigo": "15",
+        "Producto": "FESTIVAL TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LOMO 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2614"
+    },
+    "CHEESE TECLADOS": {
+        "Codigo": "16",
+        "Producto": "CHEESE TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "CHEESE FRITAS GRANDES": {
+        "Codigo": "17",
+        "Producto": "CHEESE FRITAS GRANDES",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "CHEESE CAMARONES": {
+        "Codigo": "18",
+        "Producto": "CHEESE CAMARONES",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "CHEESE CHAMPIÑONES": {
+        "Codigo": "19",
+        "Producto": "CHEESE CHAMPIÑONES",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "CHEESE MECHADA": {
+        "Codigo": "20",
+        "Producto": "CHEESE MECHADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "PAPAS FRITAS GRANDES": {
+        "Codigo": "21",
+        "Producto": "PAPAS FRITAS GRANDES",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "BIG MECHADA": {
+        "Codigo": "22",
+        "Producto": "BIG MECHADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MECHADA SAND",
+        "Cantidad": "1",
+        "Precio_ingrediente": "876"
+    },
+    "DOBLE CHEESE BURGER": {
+        "Codigo": "23",
+        "Producto": "DOBLE CHEESE BURGER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1424"
+    },
+    "TECLADOS BURGER": {
+        "Codigo": "24",
+        "Producto": "TECLADOS BURGER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1424"
+    },
+    "VEGETARIANO": {
+        "Codigo": "89",
+        "Producto": "VEGETARIANO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHAMP. PORCION",
+        "Cantidad": "2",
+        "Precio_ingrediente": "256"
+    },
+    "Tartaro de Salmón": {
+        "Codigo": "26",
+        "Producto": "Tartaro de Salmón",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "SINPIRINHA": {
+        "Codigo": "30",
+        "Producto": "SINPIRINHA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE 237CC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "302"
+    },
+    "BATIDO MANGO": {
+        "Codigo": "31",
+        "Producto": "BATIDO MANGO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA MANGO",
+        "Cantidad": "150",
+        "Precio_ingrediente": "1"
+    },
+    "BATIDO FRAMBUESA": {
+        "Codigo": "32",
+        "Producto": "BATIDO FRAMBUESA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA FRAMBUESA",
+        "Cantidad": "150",
+        "Precio_ingrediente": "1"
+    },
+    "BATIDO FRUTILLA": {
+        "Codigo": "33",
+        "Producto": "BATIDO FRUTILLA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA FRUTILLA",
+        "Cantidad": "150",
+        "Precio_ingrediente": "1"
+    },
+    "MOJITO SIN ALCOHOL": {
+        "Codigo": "34",
+        "Producto": "MOJITO SIN ALCOHOL",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "PIÑA COLADA SIN ALCOHOL": {
+        "Codigo": "35",
+        "Producto": "PIÑA COLADA SIN ALCOHOL",
+        "CantidadPara": "1",
+        "Medida": "GR",
+        "Ingrediente": "I. AZUCAR FLOR",
+        "Cantidad": "40",
+        "Precio_ingrediente": "1"
+    },
+    "JUGO ARANDANO FRAMBUESA": {
+        "Codigo": "36",
+        "Producto": "JUGO ARANDANO FRAMBUESA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA ARAN FRAM",
+        "Cantidad": "330",
+        "Precio_ingrediente": "1"
+    },
+    "JUGO MANGO": {
+        "Codigo": "37",
+        "Producto": "JUGO MANGO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA MANGO",
+        "Cantidad": "330",
+        "Precio_ingrediente": "1"
+    },
+    "JUGO FRAMBUESA": {
+        "Codigo": "38",
+        "Producto": "JUGO FRAMBUESA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA FRAMBUESA",
+        "Cantidad": "330",
+        "Precio_ingrediente": "1"
+    },
+    "JUGO FRUTILLA": {
+        "Codigo": "39",
+        "Producto": "JUGO FRUTILLA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA FRUTILLA",
+        "Cantidad": "330",
+        "Precio_ingrediente": "1"
+    },
+    "LIMONADA": {
+        "Codigo": "40",
+        "Producto": "LIMONADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA LIMON",
+        "Cantidad": "330",
+        "Precio_ingrediente": "1"
+    },
+    "COCA COLA 350CC": {
+        "Codigo": "41",
+        "Producto": "COCA COLA 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA COLA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "Coca Cola Zero  350cc": {
+        "Codigo": "42",
+        "Producto": "Coca Cola Zero  350cc",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA ZERO 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "COCA COLA LIGHT 350CC": {
+        "Codigo": "43",
+        "Producto": "COCA COLA LIGHT 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA LIGHT 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "SPRITE 350CC": {
+        "Codigo": "44",
+        "Producto": "SPRITE 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "SPRITE ZERO 350CC": {
+        "Codigo": "45",
+        "Producto": "SPRITE ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE ZERO 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "FANTA 350CC": {
+        "Codigo": "46",
+        "Producto": "FANTA 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FANTA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "MINERAL SIN GAS": {
+        "Codigo": "47",
+        "Producto": "MINERAL SIN GAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MINERAL S/GAS 330",
+        "Cantidad": "1",
+        "Precio_ingrediente": "468"
+    },
+    "MINERAL CON GAS": {
+        "Codigo": "48",
+        "Producto": "MINERAL CON GAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MINERAL C/GAS 330",
+        "Cantidad": "1",
+        "Precio_ingrediente": "350"
+    },
+    "RED BULL NORMAL": {
+        "Codigo": "49",
+        "Producto": "RED BULL NORMAL",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RBULL ENERGY DR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1043"
+    },
+    "RED BULL SUGAR FREE": {
+        "Codigo": "50",
+        "Producto": "RED BULL SUGAR FREE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RBULL SUGAR FRE",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1107"
+    },
+    "RED BULL YELLOW": {
+        "Codigo": "51",
+        "Producto": "RED BULL YELLOW",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RE BULL YELLOW",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1047"
+    },
+    "FENTIMANS TONIC WATER": {
+        "Codigo": "52",
+        "Producto": "FENTIMANS TONIC WATER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TONICA  FENTIMS",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1305"
+    },
+    "FENTIMANS LIGHT TONIC": {
+        "Codigo": "53",
+        "Producto": "FENTIMANS LIGHT TONIC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FETTIMAN LGHT",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1305"
+    },
+    "FENTIMANS GINGER BEER": {
+        "Codigo": "54",
+        "Producto": "FENTIMANS GINGER BEER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GINGER BEER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1293"
+    },
+    "ESPUMANTE DE LA CASA": {
+        "Codigo": "55",
+        "Producto": "ESPUMANTE DE LA CASA",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. CHAMP BRUT 750",
+        "Cantidad": "750",
+        "Precio_ingrediente": "5"
+    },
+    "RICCADONNA MOSCATO ROSE": {
+        "Codigo": "56",
+        "Producto": "RICCADONNA MOSCATO ROSE",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. RICC. MOSCATO",
+        "Cantidad": "750",
+        "Precio_ingrediente": "15"
+    },
+    "RICCADONNA PROSECCO": {
+        "Codigo": "57",
+        "Producto": "RICCADONNA PROSECCO",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. RICC. PROSECCO",
+        "Cantidad": "750",
+        "Precio_ingrediente": "15"
+    },
+    "RICCADONNA CHARDONNAY BRUT": {
+        "Codigo": "58",
+        "Producto": "RICCADONNA CHARDONNAY BRUT",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. RICCADONNA BRUT",
+        "Cantidad": "750",
+        "Precio_ingrediente": "15"
+    },
+    "MEDALLA REAL RVA CARMENER": {
+        "Codigo": "442",
+        "Producto": "MEDALLA REAL RVA CARMENER",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. MEDALLA REAL CARMENERE",
+        "Cantidad": "150",
+        "Precio_ingrediente": "7"
+    },
+    "MEDALLA REAL RESERVA CHARDONNAY": {
+        "Codigo": "442",
+        "Producto": "MEDALLA REAL RESERVA CHARDONNAY",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. MEDALLA REAL CHARDONNAY",
+        "Cantidad": "150",
+        "Precio_ingrediente": "5"
+    },
+    "MEDALLA REAL CABERNET SAUVIGNON": {
+        "Codigo": "443",
+        "Producto": "MEDALLA REAL CABERNET SAUVIGNON",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. MEDALLA CABER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "4995"
+    },
+    "CARMEN GRAN RESERVA CABERNET SAUV": {
+        "Codigo": "207",
+        "Producto": "CARMEN GRAN RESERVA CABERNET SAUV",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. RESERVA CAB SAV",
+        "Cantidad": "1",
+        "Precio_ingrediente": "5620"
+    },
+    "MEDALLA REAL RESERVA CARMENERE": {
+        "Codigo": "445",
+        "Producto": "MEDALLA REAL RESERVA CARMENERE",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. MEDALLA CARME",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3405"
+    },
+    "CARMEN RVA FRIDA KAHLO CARME": {
+        "Codigo": "446",
+        "Producto": "CARMEN RVA FRIDA KAHLO CARME",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. RESERVA CARME",
+        "Cantidad": "1",
+        "Precio_ingrediente": "5620"
+    },
+    "MEDALLA REAL RESERVA BLANCO CHARDONNAY": {
+        "Codigo": "447",
+        "Producto": "MEDALLA REAL RESERVA BLANCO CHARDONNAY",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. MEDALLA BLANC CHAR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3405"
+    },
+    "CASA REAL MERLOT": {
+        "Codigo": "448",
+        "Producto": "CASA REAL MERLOT",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MEDALLA MERLOT",
+        "Cantidad": "1",
+        "Precio_ingrediente": "10421"
+    },
+    "PISCO SOUR": {
+        "Codigo": "68",
+        "Producto": "PISCO SOUR",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "7"
+    },
+    "Pisco Sour Alto 35°": {
+        "Codigo": "69",
+        "Producto": "Pisco Sour Alto 35°",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "Pisco Sour Mistral 35°": {
+        "Codigo": "70",
+        "Producto": "Pisco Sour Mistral 35°",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. MISTRAL DE 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "7"
+    },
+    "FRAMBUESA SOUR": {
+        "Codigo": "71",
+        "Producto": "FRAMBUESA SOUR",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "7"
+    },
+    "WHISKY SOUR": {
+        "Codigo": "72",
+        "Producto": "WHISKY SOUR",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. WISKY BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "7"
+    },
+    "KIR ROYAL": {
+        "Codigo": "73",
+        "Producto": "KIR ROYAL",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHAMP BRUT 750",
+        "Cantidad": "150",
+        "Precio_ingrediente": "5"
+    },
+    "MARTINI DRY": {
+        "Codigo": "74",
+        "Producto": "MARTINI DRY",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MARTINI DRY",
+        "Cantidad": "35",
+        "Precio_ingrediente": "11"
+    },
+    "MANHATTAN": {
+        "Codigo": "75",
+        "Producto": "MANHATTAN",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. WISKY BATALLA",
+        "Cantidad": "35",
+        "Precio_ingrediente": "7"
+    },
+    "CAIPIRINHA TRADICIONAL": {
+        "Codigo": "76",
+        "Producto": "CAIPIRINHA TRADICIONAL",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "CAIPIRINHA FRUTILLA": {
+        "Codigo": "77",
+        "Producto": "CAIPIRINHA FRUTILLA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "CAIPIRINHA FRAMBUESA": {
+        "Codigo": "78",
+        "Producto": "CAIPIRINHA FRAMBUESA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "CAIPIRINHA MANGO": {
+        "Codigo": "79",
+        "Producto": "CAIPIRINHA MANGO",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "CAIPIROSKA TRADICIONAL": {
+        "Codigo": "80",
+        "Producto": "CAIPIROSKA TRADICIONAL",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. VODKA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "3"
+    },
+    "Caipiroska Frutilla": {
+        "Codigo": "81",
+        "Producto": "Caipiroska Frutilla",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. VODKA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "3"
+    },
+    "Caiproska Frambuesa": {
+        "Codigo": "82",
+        "Producto": "Caiproska Frambuesa",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. VODKA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "3"
+    },
+    "CAIPIROSKA MANGO": {
+        "Codigo": "83",
+        "Producto": "CAIPIROSKA MANGO",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. VODKA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "3"
+    },
+    "RAMAZZOTTI": {
+        "Codigo": "84",
+        "Producto": "RAMAZZOTTI",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RAMAZZOTTI",
+        "Cantidad": "75",
+        "Precio_ingrediente": "13"
+    },
+    "APEROL SPRITZ": {
+        "Codigo": "85",
+        "Producto": "APEROL SPRITZ",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. APEROL",
+        "Cantidad": "75",
+        "Precio_ingrediente": "12"
+    },
+    "JACK DANIELS": {
+        "Codigo": "86",
+        "Producto": "JACK DANIELS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK DANIELS",
+        "Cantidad": "75",
+        "Precio_ingrediente": "25"
+    },
+    "JACK DANIELS HONEY": {
+        "Codigo": "87",
+        "Producto": "JACK DANIELS HONEY",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK HONEY",
+        "Cantidad": "75",
+        "Precio_ingrediente": "28"
+    },
+    "Jack Daniels Fire": {
+        "Codigo": "88",
+        "Producto": "Jack Daniels Fire",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK FIRE",
+        "Cantidad": "75",
+        "Precio_ingrediente": "28"
+    },
+    "VAT 69": {
+        "Codigo": "89",
+        "Producto": "VAT 69",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. VAT 69 ",
+        "Cantidad": "75",
+        "Precio_ingrediente": "8"
+    },
+    "Johnnie Walker Red": {
+        "Codigo": "90",
+        "Producto": "Johnnie Walker Red",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JOHNNIE ROJO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "13"
+    },
+    "Johnnie Walker Black": {
+        "Codigo": "91",
+        "Producto": "Johnnie Walker Black",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JOHNNIE NEGRO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "35"
+    },
+    "The Singleton 12": {
+        "Codigo": "92",
+        "Producto": "The Singleton 12",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. THE SINGLETON 12",
+        "Cantidad": "75",
+        "Precio_ingrediente": "36"
+    },
+    "SMIRNOFF": {
+        "Codigo": "93",
+        "Producto": "SMIRNOFF",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SMIRNOFF",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "Stolichnaya Premium": {
+        "Codigo": "94",
+        "Producto": "Stolichnaya Premium",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. STOLICHNAYA 750CC",
+        "Cantidad": "75",
+        "Precio_ingrediente": "12"
+    },
+    "ABSOLUT BLUE": {
+        "Codigo": "95",
+        "Producto": "ABSOLUT BLUE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ABSOLUT AZUL",
+        "Cantidad": "75",
+        "Precio_ingrediente": "14"
+    },
+    "ABSOLUT RAZZ": {
+        "Codigo": "96",
+        "Producto": "ABSOLUT RAZZ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ABSOLUT RASPERRI",
+        "Cantidad": "75",
+        "Precio_ingrediente": "16"
+    },
+    "ABSOLUT VAINILLA": {
+        "Codigo": "97",
+        "Producto": "ABSOLUT VAINILLA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ABSOLUT VAINILLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "12"
+    },
+    "ABSOLUT MANGO": {
+        "Codigo": "98",
+        "Producto": "ABSOLUT MANGO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ABSOLUT MANGO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "11"
+    },
+    "Jagermeister": {
+        "Codigo": "99",
+        "Producto": "Jagermeister",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JAGERMEISTER",
+        "Cantidad": "75",
+        "Precio_ingrediente": "14"
+    },
+    "4 Shot Jagermeister": {
+        "Codigo": "100",
+        "Producto": "4 Shot Jagermeister",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JAGERMEISTER",
+        "Cantidad": "300",
+        "Precio_ingrediente": "14"
+    },
+    "JAGERMEISTER + BEBIDA": {
+        "Codigo": "101",
+        "Producto": "JAGERMEISTER + BEBIDA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JAGERMEISTER",
+        "Cantidad": "77",
+        "Precio_ingrediente": "14"
+    },
+    "MOJITO JAGER": {
+        "Codigo": "146",
+        "Producto": "MOJITO JAGER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "PAMPERO ESPECIAL": {
+        "Codigo": "103",
+        "Producto": "PAMPERO ESPECIAL",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAMPERO SELECCION",
+        "Cantidad": "75",
+        "Precio_ingrediente": "18"
+    },
+    "PAMPERO ANIVERSARIO": {
+        "Codigo": "104",
+        "Producto": "PAMPERO ANIVERSARIO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAMPERO ANIVERSARIO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "34"
+    },
+    "ZACAPA AMBAR": {
+        "Codigo": "105",
+        "Producto": "ZACAPA AMBAR",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ZACAPAR",
+        "Cantidad": "75",
+        "Precio_ingrediente": "31"
+    },
+    "Alto del Carmen 35°": {
+        "Codigo": "106",
+        "Producto": "Alto del Carmen 35°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "Alto del Carmen 40°": {
+        "Codigo": "107",
+        "Producto": "Alto del Carmen 40°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 40",
+        "Cantidad": "75",
+        "Precio_ingrediente": "8"
+    },
+    "Alto 40° Transparente": {
+        "Codigo": "108",
+        "Producto": "Alto 40° Transparente",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO TRANSPARENTE 40",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "Alto 40° Reservado": {
+        "Codigo": "109",
+        "Producto": "Alto 40° Reservado",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 40",
+        "Cantidad": "75",
+        "Precio_ingrediente": "8"
+    },
+    "Brujas de Salamanca 35°": {
+        "Codigo": "110",
+        "Producto": "Brujas de Salamanca 35°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "7"
+    },
+    "Brujas de Salamanca 40°": {
+        "Codigo": "111",
+        "Producto": "Brujas de Salamanca 40°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BRUJAS 40",
+        "Cantidad": "75",
+        "Precio_ingrediente": "8"
+    },
+    "Mistral 35°": {
+        "Codigo": "112",
+        "Producto": "Mistral 35°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MISTRAL DE 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "7"
+    },
+    "Mistral Nobel 40°": {
+        "Codigo": "113",
+        "Producto": "Mistral Nobel 40°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MISTRAL NOBEL",
+        "Cantidad": "75",
+        "Precio_ingrediente": "15"
+    },
+    "TANQUERAY LONDON": {
+        "Codigo": "114",
+        "Producto": "TANQUERAY LONDON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TANQUERAY LONDON",
+        "Cantidad": "75",
+        "Precio_ingrediente": "18"
+    },
+    "TANQUERAY SEVILLA": {
+        "Codigo": "115",
+        "Producto": "TANQUERAY SEVILLA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TANQUERAY SEVILLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "21"
+    },
+    "TANQUERAY TEN": {
+        "Codigo": "116",
+        "Producto": "TANQUERAY TEN",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TANQUERAY TEN",
+        "Cantidad": "75",
+        "Precio_ingrediente": "36"
+    },
+    "HENDRICKS": {
+        "Codigo": "117",
+        "Producto": "HENDRICKS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GIN HENDRICKS",
+        "Cantidad": "75",
+        "Precio_ingrediente": "28"
+    },
+    "BEEFEATER": {
+        "Codigo": "118",
+        "Producto": "BEEFEATER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BEEFEATER",
+        "Cantidad": "75",
+        "Precio_ingrediente": "11"
+    },
+    "TROPICAL GIN": {
+        "Codigo": "119",
+        "Producto": "TROPICAL GIN",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BEEFEATER",
+        "Cantidad": "75",
+        "Precio_ingrediente": "11"
+    },
+    "FERNET BRANCA": {
+        "Codigo": "120",
+        "Producto": "FERNET BRANCA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FERNET BRANCA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "9"
+    },
+    "BAILEYS": {
+        "Codigo": "121",
+        "Producto": "BAILEYS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BAILEYS",
+        "Cantidad": "75",
+        "Precio_ingrediente": "13"
+    },
+    "Daiquiri Limón": {
+        "Codigo": "122",
+        "Producto": "Daiquiri Limón",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "DAIQUIRI FRAMBUESA": {
+        "Codigo": "123",
+        "Producto": "DAIQUIRI FRAMBUESA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "Daiquiri Futilla": {
+        "Codigo": "124",
+        "Producto": "Daiquiri Futilla",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "DAIQUIRI MANGO": {
+        "Codigo": "125",
+        "Producto": "DAIQUIRI MANGO",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "MARGARITA": {
+        "Codigo": "126",
+        "Producto": "MARGARITA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "MARGARITA FRUTILLA": {
+        "Codigo": "127",
+        "Producto": "MARGARITA FRUTILLA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "MARGARITA FRAMBUESA": {
+        "Codigo": "128",
+        "Producto": "MARGARITA FRAMBUESA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "Margarita Blue": {
+        "Codigo": "129",
+        "Producto": "Margarita Blue",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "Piña Colada": {
+        "Codigo": "130",
+        "Producto": "Piña Colada",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "MANGO COLADA": {
+        "Codigo": "131",
+        "Producto": "MANGO COLADA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "MAITAI": {
+        "Codigo": "132",
+        "Producto": "MAITAI",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "LAGUNA AZUL": {
+        "Codigo": "133",
+        "Producto": "LAGUNA AZUL",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. PULPA LIMON",
+        "Cantidad": "20",
+        "Precio_ingrediente": "1"
+    },
+    "EXTASIS": {
+        "Codigo": "134",
+        "Producto": "EXTASIS",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. AMARETO",
+        "Cantidad": "20",
+        "Precio_ingrediente": "11"
+    },
+    "COSMOPOLITAN": {
+        "Codigo": "135",
+        "Producto": "COSMOPOLITAN",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. PULPA ARAN FRAM",
+        "Cantidad": "30",
+        "Precio_ingrediente": "1"
+    },
+    "MOSCOW MULE": {
+        "Codigo": "136",
+        "Producto": "MOSCOW MULE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "TENNESSE MULE": {
+        "Codigo": "137",
+        "Producto": "TENNESSE MULE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "BERLIN MULE": {
+        "Codigo": "138",
+        "Producto": "BERLIN MULE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "LONDON MULE": {
+        "Codigo": "139",
+        "Producto": "LONDON MULE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "ATARDECER DE PLATA": {
+        "Codigo": "140",
+        "Producto": "ATARDECER DE PLATA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. GRANADINA",
+        "Cantidad": "30",
+        "Precio_ingrediente": "6"
+    },
+    "BLACK RUSSIAN": {
+        "Codigo": "141",
+        "Producto": "BLACK RUSSIAN",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. LICOR DE CAFé",
+        "Cantidad": "35",
+        "Precio_ingrediente": "6"
+    },
+    "BLOODY MARY": {
+        "Codigo": "142",
+        "Producto": "BLOODY MARY",
+        "CantidadPara": "1",
+        "Medida": "LM",
+        "Ingrediente": "I. JUGO TOMATE",
+        "Cantidad": "35",
+        "Precio_ingrediente": "0"
+    },
+    "CLAVO OXIDADO": {
+        "Codigo": "143",
+        "Producto": "CLAVO OXIDADO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LICOR DE WISKY",
+        "Cantidad": "30",
+        "Precio_ingrediente": "4"
+    },
+    "LONG ISLAND ICE TEA": {
+        "Codigo": "144",
+        "Producto": "LONG ISLAND ICE TEA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GIN BATALLA",
+        "Cantidad": "40",
+        "Precio_ingrediente": "8"
+    },
+    "MAMACITA": {
+        "Codigo": "145",
+        "Producto": "MAMACITA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "MOJITO JACK DANIELS": {
+        "Codigo": "146",
+        "Producto": "MOJITO JACK DANIELS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Clásico": {
+        "Codigo": "147",
+        "Producto": "Mojito Clásico",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Absolut": {
+        "Codigo": "149",
+        "Producto": "Mojito Absolut",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "MOJITO ABSOLUT RAZZ": {
+        "Codigo": "150",
+        "Producto": "MOJITO ABSOLUT RAZZ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "MOJITO ABSOLUT VAINILLA": {
+        "Codigo": "151",
+        "Producto": "MOJITO ABSOLUT VAINILLA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "MOJITO ABSOLUT MANGO": {
+        "Codigo": "152",
+        "Producto": "MOJITO ABSOLUT MANGO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "MOJITO CORONA": {
+        "Codigo": "153",
+        "Producto": "MOJITO CORONA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "SEX ON THE BEACH": {
+        "Codigo": "155",
+        "Producto": "SEX ON THE BEACH",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GRANADINA",
+        "Cantidad": "30",
+        "Precio_ingrediente": "6"
+    },
+    "VALENTINA DRINK": {
+        "Codigo": "156",
+        "Producto": "VALENTINA DRINK",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "WHITE RUSSIAN": {
+        "Codigo": "157",
+        "Producto": "WHITE RUSSIAN",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. LICOR DE CAFÉ",
+        "Cantidad": "35",
+        "Precio_ingrediente": "6"
+    },
+    "SCHOP BECKER": {
+        "Codigo": "158",
+        "Producto": "SCHOP BECKER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL BECKER",
+        "Cantidad": "500",
+        "Precio_ingrediente": "1"
+    },
+    "SCHOP GOOSE ISLAND IPA": {
+        "Codigo": "159",
+        "Producto": "SCHOP GOOSE ISLAND IPA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL GOOSE IPA",
+        "Cantidad": "500",
+        "Precio_ingrediente": "0"
+    },
+    "SCHOP HOEGGARDEN": {
+        "Codigo": "160",
+        "Producto": "SCHOP HOEGGARDEN",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL HOEGARDN",
+        "Cantidad": "500",
+        "Precio_ingrediente": "2"
+    },
+    "SCHOP STELLA ARTOIS": {
+        "Codigo": "161",
+        "Producto": "SCHOP STELLA ARTOIS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL STELLA ",
+        "Cantidad": "500",
+        "Precio_ingrediente": "2"
+    },
+    "Schop Cusqueña": {
+        "Codigo": "437",
+        "Producto": "Schop Cusqueña",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL CUSQUENA",
+        "Cantidad": "500",
+        "Precio_ingrediente": "1"
+    },
+    "CORONA": {
+        "Codigo": "163",
+        "Producto": "CORONA",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. CORONA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "855"
+    },
+    "STELLA ARTOIS": {
+        "Codigo": "164",
+        "Producto": "STELLA ARTOIS",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. STELLA ARTOIS",
+        "Cantidad": "1",
+        "Precio_ingrediente": "816"
+    },
+    "BUDWEISER": {
+        "Codigo": "165",
+        "Producto": "BUDWEISER",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. BUDWEISER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "824"
+    },
+    "CUSQUEÑA GOLDEN LAGER": {
+        "Codigo": "166",
+        "Producto": "CUSQUEÑA GOLDEN LAGER",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. CUSQUENA GOLDEN",
+        "Cantidad": "1",
+        "Precio_ingrediente": "940"
+    },
+    "CUSQUEÑA DARK LAGER": {
+        "Codigo": "167",
+        "Producto": "CUSQUEÑA DARK LAGER",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. CUSQUENA DARK",
+        "Cantidad": "1",
+        "Precio_ingrediente": "644"
+    },
+    "CUSQUEÑA RED LAGER": {
+        "Codigo": "168",
+        "Producto": "CUSQUEÑA RED LAGER",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. CUSQUENA RED LAGER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "644"
+    },
+    "CUSQUEÑA TRIGO": {
+        "Codigo": "169",
+        "Producto": "CUSQUEÑA TRIGO",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. CUSQUENA TRIGO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "658"
+    },
+    "BECKS": {
+        "Codigo": "170",
+        "Producto": "BECKS",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. BECK,S",
+        "Cantidad": "1",
+        "Precio_ingrediente": "584"
+    },
+    "NEGRA MODELO": {
+        "Codigo": "171",
+        "Producto": "NEGRA MODELO",
+        "CantidadPara": "1",
+        "Medida": "U.",
+        "Ingrediente": "I. NEGRA MODELO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "868"
+    },
+    "GOOSE ISLAND IPA": {
+        "Codigo": "172",
+        "Producto": "GOOSE ISLAND IPA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GOOSE IPA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1237"
+    },
+    "GOOSE ISLAND 312": {
+        "Codigo": "173",
+        "Producto": "GOOSE ISLAND 312",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GOOSE 312",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1194"
+    },
+    "GOSSE ISLAND SOFIE": {
+        "Codigo": "174",
+        "Producto": "GOSSE ISLAND SOFIE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GOOSE SOFI",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1242"
+    },
+    "STELLA ARTOIS SIN ALCOHOL": {
+        "Codigo": "175",
+        "Producto": "STELLA ARTOIS SIN ALCOHOL",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BECKS S/ALCOHOL",
+        "Cantidad": "1",
+        "Precio_ingrediente": "802"
+    },
+    "CAMPARI NARANJA": {
+        "Codigo": "176",
+        "Producto": "CAMPARI NARANJA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAMPARI",
+        "Cantidad": "75",
+        "Precio_ingrediente": "15"
+    },
+    "GOD FATHER": {
+        "Codigo": "177",
+        "Producto": "GOD FATHER",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. AMARETO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "11"
+    },
+    "GOD MOTHER": {
+        "Codigo": "178",
+        "Producto": "GOD MOTHER",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. AMARETO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "11"
+    },
+    "TOM COLLINS": {
+        "Codigo": "179",
+        "Producto": "TOM COLLINS",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. PULPA LIMON",
+        "Cantidad": "20",
+        "Precio_ingrediente": "1"
+    },
+    "KAMIKAZE": {
+        "Codigo": "180",
+        "Producto": "KAMIKAZE",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. VODKA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "3"
+    },
+    "TEQUILA SUNRISE": {
+        "Codigo": "181",
+        "Producto": "TEQUILA SUNRISE",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. GRANADINA",
+        "Cantidad": "30",
+        "Precio_ingrediente": "6"
+    },
+    "SHOT JACK DANIELS FIRE": {
+        "Codigo": "182",
+        "Producto": "SHOT JACK DANIELS FIRE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK FIRE",
+        "Cantidad": "75",
+        "Precio_ingrediente": "28"
+    },
+    "2 SHOT JACK DANIELS FIRE": {
+        "Codigo": "183",
+        "Producto": "2 SHOT JACK DANIELS FIRE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK FIRE",
+        "Cantidad": "150",
+        "Precio_ingrediente": "28"
+    },
+    "SHOT TEQUILA JIMADOR": {
+        "Codigo": "184",
+        "Producto": "SHOT TEQUILA JIMADOR",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TEQUILA JIMADOR",
+        "Cantidad": "75",
+        "Precio_ingrediente": "20"
+    },
+    "2 SHOT TEQUILA JIMADOR": {
+        "Codigo": "185",
+        "Producto": "2 SHOT TEQUILA JIMADOR",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TEQUILA JIMADOR",
+        "Cantidad": "150",
+        "Precio_ingrediente": "20"
+    },
+    "Promo Alto 35° + Redbull": {
+        "Codigo": "186",
+        "Producto": "Promo Alto 35° + Redbull",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "150",
+        "Precio_ingrediente": "6"
+    },
+    "Promo Alto 35° + Monster": {
+        "Codigo": "187",
+        "Producto": "Promo Alto 35° + Monster",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "150",
+        "Precio_ingrediente": "6"
+    },
+    "Promo Mistral 35° + Redbull": {
+        "Codigo": "188",
+        "Producto": "Promo Mistral 35° + Redbull",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MISTRAL DE 35",
+        "Cantidad": "150",
+        "Precio_ingrediente": "7"
+    },
+    "Promo Brujas de Salamanca 35": {
+        "Codigo": "189",
+        "Producto": "Promo Brujas de Salamanca 35",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "150",
+        "Precio_ingrediente": "7"
+    },
+    "Promo Alto 35°": {
+        "Codigo": "190",
+        "Producto": "Promo Alto 35°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "150",
+        "Precio_ingrediente": "6"
+    },
+    "Promo Alto 40° Reservado": {
+        "Codigo": "191",
+        "Producto": "Promo Alto 40° Reservado",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 40",
+        "Cantidad": "150",
+        "Precio_ingrediente": "8"
+    },
+    "PROMO STOLI PREMIUM": {
+        "Codigo": "192",
+        "Producto": "PROMO STOLI PREMIUM",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. STOLICHNAYA 750CC",
+        "Cantidad": "150",
+        "Precio_ingrediente": "12"
+    },
+    "PROMO PISCO SOUR": {
+        "Codigo": "193",
+        "Producto": "PROMO PISCO SOUR",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "150",
+        "Precio_ingrediente": "7"
+    },
+    "MOJITO XL": {
+        "Codigo": "195",
+        "Producto": "MOJITO XL",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "MARGARITA XL": {
+        "Codigo": "196",
+        "Producto": "MARGARITA XL",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "10"
+    },
+    "MARGARITA XL FRUTILLA": {
+        "Codigo": "197",
+        "Producto": "MARGARITA XL FRUTILLA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "10"
+    },
+    "Margarita XL Frambuesa": {
+        "Codigo": "198",
+        "Producto": "Margarita XL Frambuesa",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "10"
+    },
+    "Margarita XL Blue": {
+        "Codigo": "199",
+        "Producto": "Margarita XL Blue",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "10"
+    },
+    "Daiquiri XL Frambuesa": {
+        "Codigo": "201",
+        "Producto": "Daiquiri XL Frambuesa",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "4"
+    },
+    "Daiquiri XL Frutilla": {
+        "Codigo": "200",
+        "Producto": "Daiquiri XL Frutilla",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "4"
+    },
+    "VASO SANGRIA": {
+        "Codigo": "202",
+        "Producto": "VASO SANGRIA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BODEGA TINTO",
+        "Cantidad": "250",
+        "Precio_ingrediente": "1"
+    },
+    "JARRO SANGRIA": {
+        "Codigo": "203",
+        "Producto": "JARRO SANGRIA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BODEGA TINTO",
+        "Cantidad": "700",
+        "Precio_ingrediente": "1"
+    },
+    "Michelada": {
+        "Codigo": "298",
+        "Producto": "Michelada",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA LIMON",
+        "Cantidad": "75",
+        "Precio_ingrediente": "1"
+    },
+    "Michelada Full": {
+        "Codigo": "299",
+        "Producto": "Michelada Full",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PULPA LIMON",
+        "Cantidad": "75",
+        "Precio_ingrediente": "1"
+    },
+    "BROWNIE CON HELADO": {
+        "Codigo": "204",
+        "Producto": "BROWNIE CON HELADO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BROWNIE",
+        "Cantidad": "1",
+        "Precio_ingrediente": "453"
+    },
+    "CHEESECAKE": {
+        "Codigo": "205",
+        "Producto": "CHEESECAKE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHEESECAKE",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2933"
+    },
+    "BEACH BOYS": {
+        "Codigo": "206",
+        "Producto": "BEACH BOYS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GIN HENDRICKS",
+        "Cantidad": "75",
+        "Precio_ingrediente": "28"
+    },
+    "AL CAPONE": {
+        "Codigo": "492",
+        "Producto": "AL CAPONE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TANQUERAY LONDON",
+        "Cantidad": "35",
+        "Precio_ingrediente": "18"
+    },
+    "FLORENCE SPRITZ": {
+        "Codigo": "208",
+        "Producto": "FLORENCE SPRITZ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RAMAZZOTTI",
+        "Cantidad": "75",
+        "Precio_ingrediente": "13"
+    },
+    "NASHVILLE HONEY": {
+        "Codigo": "209",
+        "Producto": "NASHVILLE HONEY",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK DANIELS",
+        "Cantidad": "75",
+        "Precio_ingrediente": "25"
+    },
+    "NEGRONI": {
+        "Codigo": "210",
+        "Producto": "NEGRONI",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAMPARI",
+        "Cantidad": "75",
+        "Precio_ingrediente": "15"
+    },
+    "GIN TONIC": {
+        "Codigo": "104067",
+        "Producto": "GIN TONIC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BEEFEATER",
+        "Cantidad": "75",
+        "Precio_ingrediente": "11"
+    },
+    "MENU": {
+        "Codigo": "442",
+        "Producto": "MENU",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": null,
+        "Cantidad": null,
+        "Precio_ingrediente": "0"
+    },
+    "MENU CARNE MECHADA": {
+        "Codigo": "211",
+        "Producto": "MENU CARNE MECHADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MECHADA MENU",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1402"
+    },
+    "Menu Salmon Salad": {
+        "Codigo": "212",
+        "Producto": "Menu Salmon Salad",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "MENU SALMON A LO POBRE": {
+        "Codigo": "213",
+        "Producto": "MENU SALMON A LO POBRE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "MENU LOMO A LO POBRE": {
+        "Codigo": "214",
+        "Producto": "MENU LOMO A LO POBRE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LOMO 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2614"
+    },
+    "MENU POLLO A LO POBRE": {
+        "Codigo": "215",
+        "Producto": "MENU POLLO A LO POBRE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "MENU SALMON A LA PLANCHA": {
+        "Codigo": "216",
+        "Producto": "MENU SALMON A LA PLANCHA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "MENU POLLO AL LIMON": {
+        "Codigo": "217",
+        "Producto": "MENU POLLO AL LIMON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "2",
+        "Precio_ingrediente": "591"
+    },
+    "MENU POLLO AL CURRY": {
+        "Codigo": "218",
+        "Producto": "MENU POLLO AL CURRY",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "2",
+        "Precio_ingrediente": "591"
+    },
+    "MENU LOMO SALTADO": {
+        "Codigo": "219",
+        "Producto": "MENU LOMO SALTADO",
+        "CantidadPara": "1",
+        "Medida": "E",
+        "Ingrediente": "I. LOMO 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2614"
+    },
+    "MENU PASTA CON CAMARONES": {
+        "Codigo": "220",
+        "Producto": "MENU PASTA CON CAMARONES",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FETTUCCINI PORCION",
+        "Cantidad": "1",
+        "Precio_ingrediente": "473"
+    },
+    "MENU CARNE A LA DIANA": {
+        "Codigo": "436",
+        "Producto": "MENU CARNE A LA DIANA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LOMO 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2614"
+    },
+    "Menu Doble Cheese Burger": {
+        "Codigo": "421",
+        "Producto": "Menu Doble Cheese Burger",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1424"
+    },
+    "MENU COCA COLA 350CC": {
+        "Codigo": "223",
+        "Producto": "MENU COCA COLA 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA COLA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "MENU COCA COLA ZERO 350CC": {
+        "Codigo": "224",
+        "Producto": "MENU COCA COLA ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA ZERO 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "MENU COCA COLA LIGHT 350CC": {
+        "Codigo": "225",
+        "Producto": "MENU COCA COLA LIGHT 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA LIGHT 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "MENU SCHWEPPES GINGER ZERO 350CC": {
+        "Codigo": "226",
+        "Producto": "MENU SCHWEPPES GINGER ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GINGER 0 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "MENU FANTA 350CC": {
+        "Codigo": "227",
+        "Producto": "MENU FANTA 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FANTA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "MENU SPRITE 350CC": {
+        "Codigo": "228",
+        "Producto": "MENU SPRITE 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "MENU SPRITE ZERO 350CC": {
+        "Codigo": "229",
+        "Producto": "MENU SPRITE ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE ZERO 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "MENU SCHOP STELLA": {
+        "Codigo": "230",
+        "Producto": "MENU SCHOP STELLA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL STELLA ",
+        "Cantidad": "500",
+        "Precio_ingrediente": "2"
+    },
+    "MENU MINERAL CON GAS": {
+        "Codigo": "232",
+        "Producto": "MENU MINERAL CON GAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MINERAL C/GAS 330",
+        "Cantidad": "1",
+        "Precio_ingrediente": "350"
+    },
+    "MENU MINERAL SIN GAS": {
+        "Codigo": "231",
+        "Producto": "MENU MINERAL SIN GAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MINERAL S/GAS 330",
+        "Cantidad": "1",
+        "Precio_ingrediente": "468"
+    },
+    "Menu copa de vino blanco": {
+        "Codigo": "234",
+        "Producto": "Menu copa de vino blanco",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ERRAZ ESTATE RESERVA SAUVIGNON BLANC",
+        "Cantidad": "150",
+        "Precio_ingrediente": "0"
+    },
+    "Menu copa de vino tinto": {
+        "Codigo": "233",
+        "Producto": "Menu copa de vino tinto",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ERRAZURIZ ESTATE RESERVA CABERNET SAUVIGNON",
+        "Cantidad": "150",
+        "Precio_ingrediente": "0"
+    },
+    "PROMO COCA COLA 350CC": {
+        "Codigo": "235",
+        "Producto": "PROMO COCA COLA 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA COLA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "PROMO COCA COLA ZERO 350CC": {
+        "Codigo": "236",
+        "Producto": "PROMO COCA COLA ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA ZERO 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "PROMO COCA COLA LIGHT 350CC": {
+        "Codigo": "237",
+        "Producto": "PROMO COCA COLA LIGHT 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA LIGHT 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "664"
+    },
+    "PROMO SCHWEPPES GINGER ZERO 350CC": {
+        "Codigo": "238",
+        "Producto": "PROMO SCHWEPPES GINGER ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GINGER 0 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "PROMO FANTA 350CC": {
+        "Codigo": "239",
+        "Producto": "PROMO FANTA 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FANTA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "PROMO SPRITE 350CC": {
+        "Codigo": "240",
+        "Producto": "PROMO SPRITE 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "PROMO SPRITE ZERO 350CC": {
+        "Codigo": "241",
+        "Producto": "PROMO SPRITE ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE ZERO 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "PROMO SCHWEPPES TONICA 350CC": {
+        "Codigo": "242",
+        "Producto": "PROMO SCHWEPPES TONICA 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TONICA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "666"
+    },
+    "PROMO FENTIMANS TONIC WATER": {
+        "Codigo": "239",
+        "Producto": "PROMO FENTIMANS TONIC WATER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TONICA  FENTIMS",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1305"
+    },
+    "PROMO FENTIMANS LIGHT WATER": {
+        "Codigo": "239",
+        "Producto": "PROMO FENTIMANS LIGHT WATER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FETTIMAN LGHT",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1305"
+    },
+    "PROMO COCA COLA 237CC": {
+        "Codigo": "245",
+        "Producto": "PROMO COCA COLA 237CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA COLA 237CC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "303"
+    },
+    "PROMO COCA COLA ZERO 237CC": {
+        "Codigo": "246",
+        "Producto": "PROMO COCA COLA ZERO 237CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA ZERO 237CC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "317"
+    },
+    "PROMO SPRITE 237CC": {
+        "Codigo": "247",
+        "Producto": "PROMO SPRITE 237CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE 237CC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "302"
+    },
+    "BOTELLA ABSOLUT RAZZ": {
+        "Codigo": "250",
+        "Producto": "BOTELLA ABSOLUT RAZZ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ABSOLUT RASPERRI",
+        "Cantidad": "750",
+        "Precio_ingrediente": "16"
+    },
+    "BOTELLA ABSOLUT BLUE": {
+        "Codigo": "250",
+        "Producto": "BOTELLA ABSOLUT BLUE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ABSOLUT AZUL",
+        "Cantidad": "750",
+        "Precio_ingrediente": "14"
+    },
+    "Bot. Alto 35°": {
+        "Codigo": "252",
+        "Producto": "Bot. Alto 35°",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "1000",
+        "Precio_ingrediente": "6"
+    },
+    "BOTELLA J RED": {
+        "Codigo": "250",
+        "Producto": "BOTELLA J RED",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JOHNNIE ROJO",
+        "Cantidad": "750",
+        "Precio_ingrediente": "13"
+    },
+    "BOTELLA JACK DANIELS 1 LTS": {
+        "Codigo": "250",
+        "Producto": "BOTELLA JACK DANIELS 1 LTS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK DANIELS",
+        "Cantidad": "750",
+        "Precio_ingrediente": "25"
+    },
+    "D.PAPAS GRANDES": {
+        "Codigo": "310",
+        "Producto": "D.PAPAS GRANDES",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.CHEESE FRITAS GRANDES": {
+        "Codigo": "311",
+        "Producto": "D.CHEESE FRITAS GRANDES",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.CHEESE TECLADOS": {
+        "Codigo": "312",
+        "Producto": "D.CHEESE TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.CHEESE CHAMPIGNON": {
+        "Codigo": "313",
+        "Producto": "D.CHEESE CHAMPIGNON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.CHEESE CAMARON": {
+        "Codigo": "314",
+        "Producto": "D.CHEESE CAMARON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.SONATA TECLADOS": {
+        "Codigo": "315",
+        "Producto": "D.SONATA TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "D.PICNIC TECLADOS": {
+        "Codigo": "316",
+        "Producto": "D.PICNIC TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHICKEN FINGER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1087"
+    },
+    "D.FESTIVAL TECLADOS": {
+        "Codigo": "317",
+        "Producto": "D.FESTIVAL TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LOMO 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2614"
+    },
+    "D.FAJITAS": {
+        "Codigo": "318",
+        "Producto": "D.FAJITAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS CH",
+        "Cantidad": "6",
+        "Precio_ingrediente": "5"
+    },
+    "D.QUESADILLAS POLLO CHAMPIGNON": {
+        "Codigo": "319",
+        "Producto": "D.QUESADILLAS POLLO CHAMPIGNON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "D.QUESADILLA CARNE": {
+        "Codigo": "320",
+        "Producto": "D.QUESADILLA CARNE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "D.QUESADILLA CAMARON": {
+        "Codigo": "321",
+        "Producto": "D.QUESADILLA CAMARON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "D.TOTOPOS": {
+        "Codigo": "322",
+        "Producto": "D.TOTOPOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. NACHOS",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2499"
+    },
+    "D.TECLADOS BURGER": {
+        "Codigo": "323",
+        "Producto": "D.TECLADOS BURGER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1424"
+    },
+    "D.DOBLE CHEESE BURGER": {
+        "Codigo": "324",
+        "Producto": "D.DOBLE CHEESE BURGER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1424"
+    },
+    "D.BIG MECHADA": {
+        "Codigo": "325",
+        "Producto": "D.BIG MECHADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MECHADA SAND",
+        "Cantidad": "1",
+        "Precio_ingrediente": "876"
+    },
+    "D.EMPANADAS": {
+        "Codigo": "326",
+        "Producto": "D.EMPANADAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. EMPANADA PORC",
+        "Cantidad": "2",
+        "Precio_ingrediente": "2213"
+    },
+    "D.SPRING ROLLS": {
+        "Codigo": "327",
+        "Producto": "D.SPRING ROLLS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MASITAS CASERAS",
+        "Cantidad": "2",
+        "Precio_ingrediente": "298"
+    },
+    "D.CHICKEN FINGERS": {
+        "Codigo": "328",
+        "Producto": "D.CHICKEN FINGERS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHICKEN FINGER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1087"
+    },
+    "D.PALOS DE QUESO": {
+        "Codigo": "329",
+        "Producto": "D.PALOS DE QUESO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CREMA ESPESA",
+        "Cantidad": "50",
+        "Precio_ingrediente": "4"
+    },
+    "D.CAMEMBERT APANADO": {
+        "Codigo": "399",
+        "Producto": "D.CAMEMBERT APANADO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAMEMBERT",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1488"
+    },
+    "D.TARTARO SALMON": {
+        "Codigo": "331",
+        "Producto": "D.TARTARO SALMON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "D.CRUDO TECLADOS": {
+        "Codigo": "332",
+        "Producto": "D.CRUDO TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CRUDO PORC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1783"
+    },
+    "D.LOMO SALTADO": {
+        "Codigo": "333",
+        "Producto": "D.LOMO SALTADO",
+        "CantidadPara": "1",
+        "Medida": "E",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "2",
+        "Precio_ingrediente": "591"
+    },
+    "D.POLLO AL LIMON": {
+        "Codigo": "334",
+        "Producto": "D.POLLO AL LIMON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "2",
+        "Precio_ingrediente": "591"
+    },
+    "D.PROMO ALTO CHEESE": {
+        "Codigo": "340",
+        "Producto": "D.PROMO ALTO CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "1000",
+        "Precio_ingrediente": "6"
+    },
+    "D.PROMO ALTO": {
+        "Codigo": "341",
+        "Producto": "D.PROMO ALTO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "1000",
+        "Precio_ingrediente": "6"
+    },
+    "D.SIX PACK CORONA": {
+        "Codigo": "342",
+        "Producto": "D.SIX PACK CORONA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CORONA",
+        "Cantidad": "6",
+        "Precio_ingrediente": "855"
+    },
+    "D. PROMO CORONA CHEESE": {
+        "Codigo": "343",
+        "Producto": "D. PROMO CORONA CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CORONA",
+        "Cantidad": "6",
+        "Precio_ingrediente": "855"
+    },
+    "D.PROMO CORONA FAJITAS ": {
+        "Codigo": "344",
+        "Producto": "D.PROMO CORONA FAJITAS ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CORONA",
+        "Cantidad": "6",
+        "Precio_ingrediente": "855"
+    },
+    "D.PROMO MOJITO": {
+        "Codigo": "345",
+        "Producto": "D.PROMO MOJITO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJITO CHEESE": {
+        "Codigo": "346",
+        "Producto": "D.PROMO MOJITO CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJITO QUESADILLAS ": {
+        "Codigo": "347",
+        "Producto": "D.PROMO MOJITO QUESADILLAS ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "D.PROMO APEROL SPRITZ ": {
+        "Codigo": "348",
+        "Producto": "D.PROMO APEROL SPRITZ ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. APEROL",
+        "Cantidad": "750",
+        "Precio_ingrediente": "12"
+    },
+    "D.PROMO APEROL SPRITZ SONATA ": {
+        "Codigo": "349",
+        "Producto": "D.PROMO APEROL SPRITZ SONATA ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. APEROL",
+        "Cantidad": "75",
+        "Precio_ingrediente": "12"
+    },
+    "D.PROMO RAMAZZOTI SPRITZ": {
+        "Codigo": "350",
+        "Producto": "D.PROMO RAMAZZOTI SPRITZ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MINERAL1.6LT  C/G",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1"
+    },
+    "D.PROMO RAMAZZOTI SPRITZ SONATA": {
+        "Codigo": "350",
+        "Producto": "D.PROMO RAMAZZOTI SPRITZ SONATA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MINERAL1.6LT  C/G",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1"
+    },
+    "D.PROMO DAIKIRI ": {
+        "Codigo": "352",
+        "Producto": "D.PROMO DAIKIRI ",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "4"
+    },
+    "D.PROMO DAIKIRI CHEESE": {
+        "Codigo": "353",
+        "Producto": "D.PROMO DAIKIRI CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.PROMO JACK RED BULL": {
+        "Codigo": "354",
+        "Producto": "D.PROMO JACK RED BULL",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK DANIELS",
+        "Cantidad": "750",
+        "Precio_ingrediente": "25"
+    },
+    "D.PROMO JACK RED BULL CHEESE": {
+        "Codigo": "355",
+        "Producto": "D.PROMO JACK RED BULL CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JACK DANIELS",
+        "Cantidad": "750",
+        "Precio_ingrediente": "25"
+    },
+    "D.PROMO JAGER RED BULL ": {
+        "Codigo": "356",
+        "Producto": "D.PROMO JAGER RED BULL ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JAGERMEISTER",
+        "Cantidad": "750",
+        "Precio_ingrediente": "14"
+    },
+    "D.PROMO JAGER RED BULL CHEESE": {
+        "Codigo": "357",
+        "Producto": "D.PROMO JAGER RED BULL CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JAGERMEISTER",
+        "Cantidad": "750",
+        "Precio_ingrediente": "14"
+    },
+    "D.PROMO MARGARITA ": {
+        "Codigo": "358",
+        "Producto": "D.PROMO MARGARITA ",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "10"
+    },
+    "D.PROMO MARGARITA CHEESE": {
+        "Codigo": "359",
+        "Producto": "D.PROMO MARGARITA CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "10"
+    },
+    "D.PROMO LONG ISLAND ": {
+        "Codigo": "360",
+        "Producto": "D.PROMO LONG ISLAND ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GIN BATALLA",
+        "Cantidad": "120",
+        "Precio_ingrediente": "8"
+    },
+    "D.PROMO LONG ISLAND CHEESE ": {
+        "Codigo": "361",
+        "Producto": "D.PROMO LONG ISLAND CHEESE ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GIN BATALLA",
+        "Cantidad": "120",
+        "Precio_ingrediente": "8"
+    },
+    "D.PROMO PISCO SOUR": {
+        "Codigo": "362",
+        "Producto": "D.PROMO PISCO SOUR",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "225",
+        "Precio_ingrediente": "7"
+    },
+    "D.PROMO PISCO SOUR QUESADILLAS ": {
+        "Codigo": "363",
+        "Producto": "D.PROMO PISCO SOUR QUESADILLAS ",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "225",
+        "Precio_ingrediente": "7"
+    },
+    "D.PROMO SANGRIA": {
+        "Codigo": "364",
+        "Producto": "D.PROMO SANGRIA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BODEGA TINTO",
+        "Cantidad": "700",
+        "Precio_ingrediente": "1"
+    },
+    "D.PROMO SANGRIA CHEESE": {
+        "Codigo": "365",
+        "Producto": "D.PROMO SANGRIA CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BODEGA TINTO",
+        "Cantidad": "700",
+        "Precio_ingrediente": "1"
+    },
+    "D.PROMO MOJITO CORONA ": {
+        "Codigo": "346",
+        "Producto": "D.PROMO MOJITO CORONA ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.MOJITO CORONA CHEESE": {
+        "Codigo": "367",
+        "Producto": "D.MOJITO CORONA CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO CAIPIRINA": {
+        "Codigo": "368",
+        "Producto": "D.PROMO CAIPIRINA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "6"
+    },
+    "D.PROMO CAIPIRINA CHEESE ": {
+        "Codigo": "369",
+        "Producto": "D.PROMO CAIPIRINA CHEESE ",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "6"
+    },
+    "D.PROMO CAIPIROSKA ": {
+        "Codigo": "370",
+        "Producto": "D.PROMO CAIPIROSKA ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. VODKA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "3"
+    },
+    "D.PROMO CAIPIROSKA CHEESE ": {
+        "Codigo": "371",
+        "Producto": "D.PROMO CAIPIROSKA CHEESE ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. VODKA BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "3"
+    },
+    "D.PROMO MOJITO RAZZ": {
+        "Codigo": "372",
+        "Producto": "D.PROMO MOJITO RAZZ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJITO RAZZ CHEESE ": {
+        "Codigo": "373",
+        "Producto": "D.PROMO MOJITO RAZZ CHEESE ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJITO STOLICH ": {
+        "Codigo": "374",
+        "Producto": "D.PROMO MOJITO STOLICH ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJITO STOLICH CHEESE": {
+        "Codigo": "375",
+        "Producto": "D.PROMO MOJITO STOLICH CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.PROMO JAGER TONIC ": {
+        "Codigo": "376",
+        "Producto": "D.PROMO JAGER TONIC ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JAGERMEISTER",
+        "Cantidad": "750",
+        "Precio_ingrediente": "14"
+    },
+    "D.PROMO JAGER TONIC CHEESE": {
+        "Codigo": "377",
+        "Producto": "D.PROMO JAGER TONIC CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JAGERMEISTER",
+        "Cantidad": "750",
+        "Precio_ingrediente": "14"
+    },
+    "D.PROMO PINA COLADA": {
+        "Codigo": "378",
+        "Producto": "D.PROMO PINA COLADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "4"
+    },
+    "D.PROMO PINA COLADA CHEESE": {
+        "Codigo": "379",
+        "Producto": "D.PROMO PINA COLADA CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "225",
+        "Precio_ingrediente": "4"
+    },
+    "D.PROMO MOJITO MARACUYA": {
+        "Codigo": "380",
+        "Producto": "D.PROMO MOJITO MARACUYA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJ. MARACUYA CHEESE": {
+        "Codigo": "381",
+        "Producto": "D.PROMO MOJ. MARACUYA CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJ. MARACUYA TRILOGIA": {
+        "Codigo": "381",
+        "Producto": "D.PROMO MOJ. MARACUYA TRILOGIA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "D.PROMO MOJ. FRMABUESA": {
+        "Codigo": "383",
+        "Producto": "D.PROMO MOJ. FRMABUESA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJ. FRAMBUESA CHEESE": {
+        "Codigo": "384",
+        "Producto": "D.PROMO MOJ. FRAMBUESA CHEESE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "3",
+        "Precio_ingrediente": "26"
+    },
+    "D.PROMO MOJ. FRAMBUESA TRILOGIA": {
+        "Codigo": "385",
+        "Producto": "D.PROMO MOJ. FRAMBUESA TRILOGIA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS GR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "24"
+    },
+    "D.RED BULL ": {
+        "Codigo": "386",
+        "Producto": "D.RED BULL ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RBULL ENERGY DR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1043"
+    },
+    "D.RED BULL YELLOW": {
+        "Codigo": "387",
+        "Producto": "D.RED BULL YELLOW",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RE BULL YELLOW",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1047"
+    },
+    "D.MONSTER ": {
+        "Codigo": "367",
+        "Producto": "D.MONSTER ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MONSTER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1155"
+    },
+    "D.PROMO MONSTER ": {
+        "Codigo": "389",
+        "Producto": "D.PROMO MONSTER ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MONSTER",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1155"
+    },
+    "D.COCA NORMAL1.5": {
+        "Codigo": "397",
+        "Producto": "D.COCA NORMAL1.5",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA COLA 1,5",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1531"
+    },
+    "D.COCA ZERO 1.5": {
+        "Codigo": "391",
+        "Producto": "D.COCA ZERO 1.5",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA ZERO 1,5",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1614"
+    },
+    "D.TONICA 1.5": {
+        "Codigo": "392",
+        "Producto": "D.TONICA 1.5",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TONICA 1,5 LTS",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1299"
+    },
+    "D.GINGER ZERO 1.5": {
+        "Codigo": "393",
+        "Producto": "D.GINGER ZERO 1.5",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GINGER ALE ZERO 1,5",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1567"
+    },
+    "D.AGUA CON GAS 1.6": {
+        "Codigo": "394",
+        "Producto": "D.AGUA CON GAS 1.6",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MINERAL1.6LT  C/G",
+        "Cantidad": "1600",
+        "Precio_ingrediente": "1"
+    },
+    "D.COCA ZERO 350CC": {
+        "Codigo": "395",
+        "Producto": "D.COCA ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA ZERO 350",
+        "Cantidad": "2",
+        "Precio_ingrediente": "664"
+    },
+    "D.SPRITE ZERO 350CC": {
+        "Codigo": "396",
+        "Producto": "D.SPRITE ZERO 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SPRITE ZERO 350",
+        "Cantidad": "2",
+        "Precio_ingrediente": "705"
+    },
+    "D.COCA NORMAL 350CC": {
+        "Codigo": "397",
+        "Producto": "D.COCA NORMAL 350CC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. COCA COLA 350",
+        "Cantidad": "2",
+        "Precio_ingrediente": "664"
+    },
+    "D.CORONA": {
+        "Codigo": "398",
+        "Producto": "D.CORONA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CORONA",
+        "Cantidad": "2",
+        "Precio_ingrediente": "855"
+    },
+    "D.BUDWEISER": {
+        "Codigo": "399",
+        "Producto": "D.BUDWEISER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BUDWEISER",
+        "Cantidad": "2",
+        "Precio_ingrediente": "824"
+    },
+    "Mojito Maracuyá": {
+        "Codigo": "148",
+        "Producto": "Mojito Maracuyá",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "HH Caipirinha": {
+        "Codigo": "275",
+        "Producto": "HH Caipirinha",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "HH Caipirinha Frambuesa": {
+        "Codigo": "276",
+        "Producto": "HH Caipirinha Frambuesa",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "HH Caipirinha Frutilla": {
+        "Codigo": "277",
+        "Producto": "HH Caipirinha Frutilla",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "HH Caipirinha Mango": {
+        "Codigo": "278",
+        "Producto": "HH Caipirinha Mango",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. CACHAZA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "6"
+    },
+    "HH Cosmopolitan": {
+        "Codigo": "288",
+        "Producto": "HH Cosmopolitan",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. PULPA ARAN FRAM",
+        "Cantidad": "30",
+        "Precio_ingrediente": "1"
+    },
+    "HH Daiquiri Frambuesa": {
+        "Codigo": "280",
+        "Producto": "HH Daiquiri Frambuesa",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "HH Daiquiri Frutilla": {
+        "Codigo": "279",
+        "Producto": "HH Daiquiri Frutilla",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "HH Daiquiri Mango": {
+        "Codigo": "281",
+        "Producto": "HH Daiquiri Mango",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "HH Margarita": {
+        "Codigo": "282",
+        "Producto": "HH Margarita",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "HH Margarita Blue": {
+        "Codigo": "285",
+        "Producto": "HH Margarita Blue",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "HH Margarita Frambuesa": {
+        "Codigo": "283",
+        "Producto": "HH Margarita Frambuesa",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "HH Margarita Frutilla": {
+        "Codigo": "284",
+        "Producto": "HH Margarita Frutilla",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "HH Mojito Clásico": {
+        "Codigo": "272",
+        "Producto": "HH Mojito Clásico",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "HH Mojito Corona": {
+        "Codigo": "274",
+        "Producto": "HH Mojito Corona",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "HH Mojito Maracuyá": {
+        "Codigo": "273",
+        "Producto": "HH Mojito Maracuyá",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "HH Pisco Sour": {
+        "Codigo": "287",
+        "Producto": "HH Pisco Sour",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. BRUJAS 35",
+        "Cantidad": "75",
+        "Precio_ingrediente": "7"
+    },
+    "HH Ramazzotti": {
+        "Codigo": "271",
+        "Producto": "HH Ramazzotti",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. RAMAZZOTTI",
+        "Cantidad": "75",
+        "Precio_ingrediente": "13"
+    },
+    "CLASICO TECLADOS": {
+        "Codigo": "406",
+        "Producto": "CLASICO TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1424"
+    },
+    "POLLO MIX": {
+        "Codigo": "407",
+        "Producto": "POLLO MIX",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "DOBLE CHEESE NOT BURGER": {
+        "Codigo": "427",
+        "Producto": "DOBLE CHEESE NOT BURGER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. NOT HAMBURGUESA",
+        "Cantidad": "2",
+        "Precio_ingrediente": "1488"
+    },
+    "TECLADOS NOT BURGER": {
+        "Codigo": "24",
+        "Producto": "TECLADOS NOT BURGER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. NOT HAMBURGUESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1488"
+    },
+    "Ceviche Mixto": {
+        "Codigo": "29",
+        "Producto": "Ceviche Mixto",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "BULLEIT": {
+        "Codigo": "440",
+        "Producto": "BULLEIT",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BULLEIT",
+        "Cantidad": "75",
+        "Precio_ingrediente": "23"
+    },
+    "JW BLONDE": {
+        "Codigo": "438",
+        "Producto": "JW BLONDE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JW BLONDE",
+        "Cantidad": "75",
+        "Precio_ingrediente": "16"
+    },
+    "Mojito Mango": {
+        "Codigo": "434",
+        "Producto": "Mojito Mango",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Berries": {
+        "Codigo": "433",
+        "Producto": "Mojito Berries",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Frutilla": {
+        "Codigo": "435",
+        "Producto": "Mojito Frutilla",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Schop 24/7 Ipa": {
+        "Codigo": "102876",
+        "Producto": "Schop 24/7 Ipa",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL KM 24.7 IPA",
+        "Cantidad": "500",
+        "Precio_ingrediente": "3"
+    },
+    "Schop 24/7 Amber Lager": {
+        "Codigo": "102877",
+        "Producto": "Schop 24/7 Amber Lager",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL KM 24.7",
+        "Cantidad": "500",
+        "Precio_ingrediente": "2"
+    },
+    "HH Mojito Mango": {
+        "Codigo": "431",
+        "Producto": "HH Mojito Mango",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "HH Mojito Berries": {
+        "Codigo": "430",
+        "Producto": "HH Mojito Berries",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "HH Mojito Frutilla": {
+        "Codigo": "432",
+        "Producto": "HH Mojito Frutilla",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "SCHOP LEFFE": {
+        "Codigo": "102879",
+        "Producto": "SCHOP LEFFE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LEFFE",
+        "Cantidad": "500",
+        "Precio_ingrediente": "2"
+    },
+    "Schweppes Tonica 350cc": {
+        "Codigo": "290",
+        "Producto": "Schweppes Tonica 350cc",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TONICA 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "666"
+    },
+    "HH BECKER MICHELADA": {
+        "Codigo": "102875",
+        "Producto": "HH BECKER MICHELADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL BECKER",
+        "Cantidad": "500",
+        "Precio_ingrediente": "1"
+    },
+    "HH Schop Becker": {
+        "Codigo": "286",
+        "Producto": "HH Schop Becker",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL BECKER",
+        "Cantidad": "500",
+        "Precio_ingrediente": "1"
+    },
+    "D.CHEESE MECHADA": {
+        "Codigo": "401",
+        "Producto": "D.CHEESE MECHADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "D.LOMO A LO POBRE": {
+        "Codigo": "402",
+        "Producto": "D.LOMO A LO POBRE",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. LOMO 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2614"
+    },
+    "D.VEGETARIANO": {
+        "Codigo": "400",
+        "Producto": "D.VEGETARIANO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHAMP. PORCION",
+        "Cantidad": "2",
+        "Precio_ingrediente": "256"
+    },
+    "D.CLASICO TECLADOS": {
+        "Codigo": "408",
+        "Producto": "D.CLASICO TECLADOS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1424"
+    },
+    "D.CAMENBERT APANADO": {
+        "Codigo": "330",
+        "Producto": "D.CAMENBERT APANADO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAMEMBERT",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1488"
+    },
+    "Brownie con Helado": {
+        "Codigo": "204",
+        "Producto": "Brownie con Helado",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BROWNIE",
+        "Cantidad": "1",
+        "Precio_ingrediente": "453"
+    },
+    "Cheesecake": {
+        "Codigo": "205",
+        "Producto": "Cheesecake",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHEESECAKE",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2933"
+    },
+    "Caliterra Sauvignon Blanc": {
+        "Codigo": "59",
+        "Producto": "Caliterra Sauvignon Blanc",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. CALITERRA SAUVN",
+        "Cantidad": "150",
+        "Precio_ingrediente": "0"
+    },
+    "CALITERRA RESERVA CHARDONNAY": {
+        "Codigo": "64",
+        "Producto": "CALITERRA RESERVA CHARDONNAY",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. CALITERRA CHARN",
+        "Cantidad": "1",
+        "Precio_ingrediente": "0"
+    },
+    "ERRAZURIZ SAUVIGNON BLANC": {
+        "Codigo": "61",
+        "Producto": "ERRAZURIZ SAUVIGNON BLANC",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. ERRAZ ESTATE RESERVA SAUVIGNON BLANC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "0"
+    },
+    "Caliterra Cabernet Sauvignon": {
+        "Codigo": "62",
+        "Producto": "Caliterra Cabernet Sauvignon",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. CALITERRA CABER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "0"
+    },
+    "CALITERRA  CARMENERE": {
+        "Codigo": "82",
+        "Producto": "CALITERRA  CARMENERE",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. CALITERRA CARME",
+        "Cantidad": "1",
+        "Precio_ingrediente": "0"
+    },
+    "CALITERRA  MERLOT": {
+        "Codigo": "82",
+        "Producto": "CALITERRA  MERLOT",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. CALITERRA MERLT",
+        "Cantidad": null,
+        "Precio_ingrediente": "0"
+    },
+    "Morande Reserva Carmenere": {
+        "Codigo": "65",
+        "Producto": "Morande Reserva Carmenere",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. MORANDE CARMENERE",
+        "Cantidad": "150",
+        "Precio_ingrediente": "0"
+    },
+    "Morande Reserva Cabernet Sauvignon": {
+        "Codigo": "66",
+        "Producto": "Morande Reserva Cabernet Sauvignon",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MORANDE CAB SAV",
+        "Cantidad": "500",
+        "Precio_ingrediente": "0"
+    },
+    "Errazuriz Cabernet Sauvignon": {
+        "Codigo": "67",
+        "Producto": "Errazuriz Cabernet Sauvignon",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ERRAZURIZ ESTATE RESERVA CABERNET SAUVIGNON",
+        "Cantidad": "1",
+        "Precio_ingrediente": "0"
+    },
+    "SCHOP BUDWISER": {
+        "Codigo": "437",
+        "Producto": "SCHOP BUDWISER",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL BUDWEISER",
+        "Cantidad": "500",
+        "Precio_ingrediente": "1"
+    },
+    "Monster Zero": {
+        "Codigo": "269",
+        "Producto": "Monster Zero",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MONSTER",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1155"
+    },
+    "Extra Camaron": {
+        "Codigo": "302",
+        "Producto": "Extra Camaron",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAMARON PORCION",
+        "Cantidad": "1",
+        "Precio_ingrediente": "995"
+    },
+    "Extra Champignon": {
+        "Codigo": "301",
+        "Producto": "Extra Champignon",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHAMP. PORCION",
+        "Cantidad": "1",
+        "Precio_ingrediente": "256"
+    },
+    "Extra Palta": {
+        "Codigo": "304",
+        "Producto": "Extra Palta",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PALTA UNIDAD",
+        "Cantidad": "1",
+        "Precio_ingrediente": "328"
+    },
+    "Extra churrasco": {
+        "Codigo": "300",
+        "Producto": "Extra churrasco",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHURRASCO PORCION",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1191"
+    },
+    "Extra crema acida": {
+        "Codigo": "411",
+        "Producto": "Extra crema acida",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CREMA ESPESA",
+        "Cantidad": "50",
+        "Precio_ingrediente": "4"
+    },
+    "Extra guacamole": {
+        "Codigo": "412",
+        "Producto": "Extra guacamole",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PALTA",
+        "Cantidad": "50",
+        "Precio_ingrediente": "6"
+    },
+    "Extra salsa ajo": {
+        "Codigo": "104323",
+        "Producto": "Extra salsa ajo",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": null,
+        "Cantidad": "1",
+        "Precio_ingrediente": "0"
+    },
+    "Extra tocino": {
+        "Codigo": "417",
+        "Producto": "Extra tocino",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TOCINO PORCION",
+        "Cantidad": "1",
+        "Precio_ingrediente": "313"
+    },
+    "Extra tortilla": {
+        "Codigo": "416",
+        "Producto": "Extra tortilla",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TORTILLAS CH",
+        "Cantidad": "2",
+        "Precio_ingrediente": "5"
+    },
+    "EXTRA TOSTADAS": {
+        "Codigo": "420",
+        "Producto": "EXTRA TOSTADAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BAGUETTE",
+        "Cantidad": "1",
+        "Precio_ingrediente": "213"
+    },
+    "Cafe Doble": {
+        "Codigo": "261",
+        "Producto": "Cafe Doble",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAFÉ",
+        "Cantidad": "2",
+        "Precio_ingrediente": "201"
+    },
+    "Cafe Simple": {
+        "Codigo": "260",
+        "Producto": "Cafe Simple",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CAFÉ",
+        "Cantidad": "1",
+        "Precio_ingrediente": "201"
+    },
+    "Schweppes Ginger Zero 350cc": {
+        "Codigo": "289",
+        "Producto": "Schweppes Ginger Zero 350cc",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. GINGER 0 350",
+        "Cantidad": "1",
+        "Precio_ingrediente": "705"
+    },
+    "MENU CRUDO": {
+        "Codigo": "421",
+        "Producto": "MENU CRUDO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CRUDO PORC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1783"
+    },
+    "EXTRA AJI AMARILLO": {
+        "Codigo": "414",
+        "Producto": "EXTRA AJI AMARILLO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PALTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "6"
+    },
+    "EXTRA SALSA CHEDDAR": {
+        "Codigo": "418",
+        "Producto": "EXTRA SALSA CHEDDAR",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALSA CHEDDAR",
+        "Cantidad": "50",
+        "Precio_ingrediente": "5"
+    },
+    "Extra Pollo": {
+        "Codigo": "303",
+        "Producto": "Extra Pollo",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "Extra Burger": {
+        "Codigo": "415",
+        "Producto": "Extra Burger",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. HAMBURGUESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1424"
+    },
+    "Extra Pico de gallo": {
+        "Codigo": "419",
+        "Producto": "Extra Pico de gallo",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CREMA ESPESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "4"
+    },
+    "Not Burger": {
+        "Codigo": "305",
+        "Producto": "Not Burger",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. NOT HAMBURGUESA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1488"
+    },
+    "D.POLLO CRISPY MIX": {
+        "Codigo": "334",
+        "Producto": "D.POLLO CRISPY MIX",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "Violetto Spritz": {
+        "Codigo": "449",
+        "Producto": "Violetto Spritz",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RAMAZZOTTI VIOLETTO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "13"
+    },
+    "Johnnie Ginger": {
+        "Codigo": "450",
+        "Producto": "Johnnie Ginger",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JOHNNIE ROJO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "13"
+    },
+    "Johnnie Fruity": {
+        "Codigo": "451",
+        "Producto": "Johnnie Fruity",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. JOHNNIE NEGRO",
+        "Cantidad": "75",
+        "Precio_ingrediente": "35"
+    },
+    "BULLEIT TONIC": {
+        "Codigo": "452",
+        "Producto": "BULLEIT TONIC",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BULLEIT",
+        "Cantidad": "75",
+        "Precio_ingrediente": "23"
+    },
+    "Cheddar's cheese grandes": {
+        "Codigo": "103702",
+        "Producto": "Cheddar's cheese grandes",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "Cheddar´s cheese individual": {
+        "Codigo": "103703",
+        "Producto": "Cheddar´s cheese individual",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "280",
+        "Precio_ingrediente": "1"
+    },
+    "Cheese Individual": {
+        "Codigo": "103701",
+        "Producto": "Cheese Individual",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "280",
+        "Precio_ingrediente": "1"
+    },
+    "Jagermeister Mojito": {
+        "Codigo": "102",
+        "Producto": "Jagermeister Mojito",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Menu Ceviche Salmon": {
+        "Codigo": "222",
+        "Producto": "Menu Ceviche Salmon",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "Mojito Paris": {
+        "Codigo": "438",
+        "Producto": "Mojito Paris",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Promo Redbull": {
+        "Codigo": "266",
+        "Producto": "Promo Redbull",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RBULL ENERGY DR",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1043"
+    },
+    "Cheddar's cheese grande": {
+        "Codigo": "103702",
+        "Producto": "Cheddar's cheese grande",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "800",
+        "Precio_ingrediente": "1"
+    },
+    "Copa espumante": {
+        "Codigo": "439",
+        "Producto": "Copa espumante",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. CHAMP BRUT 750",
+        "Cantidad": "150",
+        "Precio_ingrediente": "5"
+    },
+    "P- MOJITO FRAMBUESA": {
+        "Codigo": "103798",
+        "Producto": "P- MOJITO FRAMBUESA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "P. MOJITO CLASICO": {
+        "Codigo": "103797",
+        "Producto": "P. MOJITO CLASICO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "P. MOJITO MANGO": {
+        "Codigo": "103801",
+        "Producto": "P. MOJITO MANGO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "P. MOJITO MARACUYA": {
+        "Codigo": "103803",
+        "Producto": "P. MOJITO MARACUYA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "M. SALMON A LA PLANCHA": {
+        "Codigo": "103785",
+        "Producto": "M. SALMON A LA PLANCHA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "Cheddar's cheese individuales": {
+        "Codigo": "103702",
+        "Producto": "Cheddar's cheese individuales",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "280",
+        "Precio_ingrediente": "1"
+    },
+    "M. CARNE MECHADA": {
+        "Codigo": "103781",
+        "Producto": "M. CARNE MECHADA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MECHADA MENU",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1402"
+    },
+    "M. PAPAS FRITAS": {
+        "Codigo": "103788",
+        "Producto": "M. PAPAS FRITAS",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "280",
+        "Precio_ingrediente": "1"
+    },
+    "M. POLLO A LA PLANCHA": {
+        "Codigo": "103784",
+        "Producto": "M. POLLO A LA PLANCHA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "M. POLLO AL CURRY": {
+        "Codigo": "103783",
+        "Producto": "M. POLLO AL CURRY",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "M. POLLO AL LIMON": {
+        "Codigo": "103782",
+        "Producto": "M. POLLO AL LIMON",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "MENU WRAP POLLO": {
+        "Codigo": "103737",
+        "Producto": "MENU WRAP POLLO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. FILETILLO POLLO",
+        "Cantidad": "1",
+        "Precio_ingrediente": "591"
+    },
+    "Empanadas Mixta": {
+        "Codigo": "103741",
+        "Producto": "Empanadas Mixta",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. EMPANADA PORC",
+        "Cantidad": "2",
+        "Precio_ingrediente": "2213"
+    },
+    "M. SALMON PLANCHA": {
+        "Codigo": "103785",
+        "Producto": "M. SALMON PLANCHA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "P. Mojito Frambuesa": {
+        "Codigo": "103806",
+        "Producto": "P. Mojito Frambuesa",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Schop KM24/7 IPA": {
+        "Codigo": "160",
+        "Producto": "Schop KM24/7 IPA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL KM 24.7 IPA",
+        "Cantidad": "500",
+        "Precio_ingrediente": "3"
+    },
+    "Cheddar's cheese individual": {
+        "Codigo": "103702",
+        "Producto": "Cheddar's cheese individual",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. PAPAS FRITAS",
+        "Cantidad": "280",
+        "Precio_ingrediente": "1"
+    },
+    "P. Mojito Frutilla": {
+        "Codigo": "103800",
+        "Producto": "P. Mojito Frutilla",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Promo Fentimans Tónica": {
+        "Codigo": "243",
+        "Producto": "Promo Fentimans Tónica",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. TONICA  FENTIMS",
+        "Cantidad": "1",
+        "Precio_ingrediente": "1305"
+    },
+    "Riccadonna Chardonnay": {
+        "Codigo": "58",
+        "Producto": "Riccadonna Chardonnay",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. RICCADONNA BRUT",
+        "Cantidad": "750",
+        "Precio_ingrediente": "15"
+    },
+    "CARMEN GRAN RVA CS": {
+        "Codigo": "444",
+        "Producto": "CARMEN GRAN RVA CS",
+        "CantidadPara": "1",
+        "Medida": "BOT",
+        "Ingrediente": "I. RESERVA CAB SAV",
+        "Cantidad": "1",
+        "Precio_ingrediente": "5620"
+    },
+    "Schop KM 24/7 Amber Lager": {
+        "Codigo": "160",
+        "Producto": "Schop KM 24/7 Amber Lager",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL KM 24.7",
+        "Cantidad": "500",
+        "Precio_ingrediente": "2"
+    },
+    "Tartaro Salmón": {
+        "Codigo": "26",
+        "Producto": "Tartaro Salmón",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. SALMON DE 250",
+        "Cantidad": "1",
+        "Precio_ingrediente": "3804"
+    },
+    "PROMO DAIKIRI": {
+        "Codigo": "103739",
+        "Producto": "PROMO DAIKIRI",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. RON BLANCO BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "4"
+    },
+    "PROMO MARGARITA": {
+        "Codigo": "489",
+        "Producto": "PROMO MARGARITA",
+        "CantidadPara": "1",
+        "Medida": "ML",
+        "Ingrediente": "I. TEQUILA BATALLA",
+        "Cantidad": "75",
+        "Precio_ingrediente": "10"
+    },
+    "Mojito Clasico2": {
+        "Codigo": "509",
+        "Producto": "Mojito Clasico2",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Frambuesa2": {
+        "Codigo": "448",
+        "Producto": "Mojito Frambuesa2",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Maracuya2": {
+        "Codigo": "148",
+        "Producto": "Mojito Maracuya2",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Mango2": {
+        "Codigo": "434",
+        "Producto": "Mojito Mango2",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Mojito Frutilla2": {
+        "Codigo": "435",
+        "Producto": "Mojito Frutilla2",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. MENTA",
+        "Cantidad": "1",
+        "Precio_ingrediente": "26"
+    },
+    "Piscolon": {
+        "Codigo": "103696",
+        "Producto": "Piscolon",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ALTO 35",
+        "Cantidad": "150",
+        "Precio_ingrediente": "6"
+    },
+    "M. ARROZ": {
+        "Codigo": "103791",
+        "Producto": "M. ARROZ",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ARROZ PORCION",
+        "Cantidad": "1",
+        "Precio_ingrediente": "71"
+    },
+    "MENU CON AGREGADO": {
+        "Codigo": "103780",
+        "Producto": "MENU CON AGREGADO",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": null,
+        "Cantidad": "1",
+        "Precio_ingrediente": "0"
+    },
+    "ARROZ CHAUFA": {
+        "Codigo": "478",
+        "Producto": "ARROZ CHAUFA",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. ARROZ PORCION",
+        "Cantidad": "1",
+        "Precio_ingrediente": "71"
+    },
+    "Empanadas de queso": {
+        "Codigo": "103741",
+        "Producto": "Empanadas de queso",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. EMPANADA PORC",
+        "Cantidad": "1",
+        "Precio_ingrediente": "2213"
+    },
+    "PROMO SCHOP BECKER 2X": {
+        "Codigo": "103813",
+        "Producto": "PROMO SCHOP BECKER 2X",
+        "CantidadPara": "1",
+        "Medida": "PORC",
+        "Ingrediente": "I. BARRIL BECKER",
+        "Cantidad": "1000",
+        "Precio_ingrediente": "1"
+    }
+}

@@ -1,0 +1,103 @@
+Sub SACARVENTAS()
+'
+' MACRO1 Macro
+'
+
+Dim IndiceFiltro As Integer
+Dim Titulo As String
+Dim ArchivoVentas As Variant
+Dim wbOrigen As Workbook
+Dim filename As String
+
+Application.ScreenUpdating = False
+
+filename = ThisWorkbook.Name
+
+IndiceFiltro = 2
+
+Titulo = "Seleccionar archivo para SACAR VENTAS"
+
+ArchivoVentas = Application.GetOpenFilename(Filtro, IndiceFiltro, Titulo)
+
+If ArchivoVentas <> False Then
+
+Range("B3").Select
+    Range(Selection, Selection.End(xlToRight)).Select
+    Range(Selection, Selection.End(xlDown)).Select
+    Selection.ClearContents
+    Range("E4").Select
+
+Set wbOrigen = Workbooks.Open(ArchivoVentas)
+
+    Range("B1").Select
+    Range(Selection, Selection.End(xlDown)).Select
+    Range(Selection, Selection.End(xlToRight)).Select
+    Selection.Copy
+    Windows(filename).Activate
+    Range("Tabla3[[#Headers],[descrip]]").Select
+    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+        :=False, Transpose:=False
+    Columns("C:F").Select
+    Application.CutCopyMode = False
+    Selection.Delete Shift:=xlToLeft
+    Columns("D:K").Select
+    Application.CutCopyMode = False
+    Selection.Delete Shift:=xlToLeft
+    Range("D3").Select
+
+
+wbOrigen.Close
+
+Application.ScreenUpdating = True
+
+Else
+    MsgBox "Ningún archivo seleccionado."
+End If
+
+End Sub
+
+Sub Macro4()
+'
+' Macro4 Macro
+'
+
+'
+    Windows("24SEPT.T4.XLS").Activate
+    Range("B1").Select
+    Range(Selection, Selection.End(xlDown)).Select
+    Range("B1:G136").Select
+    Selection.Copy
+    Windows("RPUEBA RECETA2.xlsx").Activate
+    Range("Tabla3[[#Headers],[descrip]]").Select
+    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+        :=False, Transpose:=False
+    Columns("C:F").Select
+    Application.CutCopyMode = False
+    Selection.Delete Shift:=xlToLeft
+    Range("D3").Select
+
+End Sub
+Sub MACRO6()
+'
+' MACRO6 Macro
+'
+
+'
+    Range("G129").Select
+    ActiveWindow.SmallScroll Down:=-36
+    ActiveWindow.ScrollRow = 83
+    ActiveWindow.ScrollRow = 82
+    ActiveWindow.ScrollRow = 81
+    ActiveWindow.ScrollRow = 71
+    ActiveWindow.ScrollRow = 54
+    ActiveWindow.ScrollRow = 31
+    ActiveWindow.ScrollRow = 10
+    ActiveWindow.ScrollRow = 5
+    ActiveWindow.ScrollRow = 2
+    ActiveWindow.ScrollRow = 1
+    Range("B3").Select
+    Range(Selection, Selection.End(xlToRight)).Select
+    Range(Selection, Selection.End(xlDown)).Select
+    Selection.ClearContents
+    Range("E4").Select
+End Sub

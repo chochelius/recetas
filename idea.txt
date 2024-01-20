@@ -1,0 +1,12 @@
+nodejs app that lists all xlsx files on the current directory and sorts them by name
+first import the fs module and the path module
+```
+const fs = require('fs');
+const path = require('path');
+```
+then use the fs.readdirSync() method to read the current directory and store the files in an array
+```javascript
+const files = fs.readdirSync(__dirname);
+```
+then use the path.extname() method to get the extension of each file and store it in an array
+```javascript

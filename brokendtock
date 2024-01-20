@@ -1,0 +1,109 @@
+let fs = require('fs');
+let xlsx = require('xlsx');
+
+let fileNames = fs.readdirSync(__dirname).filter(file => file.includes('stock') && (file.includes('xlsx') || file.includes('xls')));
+
+const teclados = ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'];
+const data = [];
+const t1 = ['T1', 'TECLADOS1', 'TECLADOS 1', 'T 1']
+const t2 = ['T2', 'TECLADOS2', 'TECLADOS 2', 'T 2']
+const t3 = ['T3', 'TECLADOS3', 'TECLADOS 3', 'T 3']
+const t4 = ['T4', 'TECLADOS4', 'TECLADOS 4', 'T 4']
+const t5 = ['T5', 'TECLADOS5', 'TECLADOS 5', 'T 5']
+const t6 = ['T6', 'TECLADOS6', 'TECLADOS 6', 'T 6']
+const t7 = ['T7', 'TECLADOS7', 'TECLADOS 7', 'T 7']
+
+
+const getDateFromFilename = (filename) => {
+    let date = filename.match(/\d{2}.*\d{2}.*\d{2}/g);
+    return date;
+};
+
+const filterByLocale = (filename) => {
+    if (filename.includes('xlsx' && 'stock')) {
+        let date = getDateFromFilename(filename);
+        teclados.forEach(teclado => {
+            if (filename.includes(teclado)) {
+                if (t1.includes(teclado)) {
+                    return [filename, date, 'T1'];
+                }
+                if (t2.includes(teclado)) {
+                    return [filename, date, 'T2'];
+                }
+                if (t3.includes(teclado)) {
+                    return [filename, date, 'T3'];
+                }
+                if (t4.includes(teclado)) {
+                    return [filename, date, 'T4'];
+                }
+                if (t5.includes(teclado)) {
+                    return [filename, date, 'T5'];
+                }
+                if (t6.includes(teclado)) {
+                    return [filename, date, 'T6'];
+                }
+                if (t7.includes(teclado)) {
+                    return [filename, date, 'T7'];
+                }
+            }
+        });
+    }
+};
+
+
+
+const workbook = xlsx.readFile(fileNames[0]);
+const worksheets = workbook.SheetNames;
+
+
+
+
+
+const extractInfo = (filename, date, locale) => {
+   try {
+        const worksheet = workbook.Sheets[worksheets[0]];
+        const json = xlsx.utils.sheet_to_json(worksheet, { raw: false, defval: null, header: 'A', range: 4 });
+        json.forEach((row) => {
+            if ((row['A'] != null) && (row['A'] != '')) {
+
+                let obj = {
+                    'Local': locale,
+                    'Producto': row['A'],
+                    'Unidades': row['B'],
+                    'Porciones': row['C'],
+                    'Stock_requerido': row['D'],
+                    'Stock_requerido_por_porcion': row['E'],
+                    'Stock_inicial': row['F'],
+                    'Stock_inicial_por_porcion': row['G'],
+                    'Stock_reposicion': row['H'],
+                    'Stock_reposicion_por_porcion': row['I'],
+                    'Stock_Inicio_Turno': row['J'],
+                    'Stock_Inicio_Turno_por_porcion': row['K'],
+                    'Stock_Final_Turno': row['L'],
+                    'Stock_Final_Turno_por_porcion': row['M'],
+
+                }
+                data.push(obj);
+                console.log(obj);
+            }
+        });
+        fs.writeFileSync('diccionario.json', JSON.stringify(data), (err) => {
+            if (err) throw err;
+            console.log('The file has been saved!');
+        }
+        );
+    } catch (error) {
+        console.log(error);
+    }
+    
+}
+
+const extractInfoFromFiles = (fileNames) => {
+    fileNames.forEach(file => {
+        extractInfo(filterByLocale(file));
+    }
+    );
+}
+
+extractInfoFromFiles(fileNames);
+        

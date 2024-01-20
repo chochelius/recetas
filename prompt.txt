@@ -1,0 +1,167 @@
+estoy creando un prompt para google Bard que me permita generar un script javascript para calcular cuántos items hay que restar del inventario cuando alguien compra un item en mi restaurante. 
+Eres un experto en análisis de datos y te han pedido que crees un script que calcule cuántos items hay que restar del inventario cuando alguien compra un item en tu restaurante.
+Estás ocupando Nodejs, fs y el paquete xlsx para leer los archivos excel de las ventas de tu restaurante y los archivos donde se encuentran las recetas de los items de tu restaurante.
+El script debe de leer los archivos de excel y generar un archivo de json con los productos que se deben de restar del inventario, sus códigos y la cantidad que se debe de restar.
+Antes de darme una respuesta pideme los datos que necesites en las siguientes 5 preguntas, y si tienes alguna duda sobre el problema, no dudes en preguntarme.
+
+const fs = require("fs");
+
+// Función para obtener los datos de las ventas
+function getVentas() {
+  const ventas = fs.readFileSync("ventas.json");
+  return JSON.parse(ventas);
+}
+
+// Función para obtener los datos de las recetas
+function getRecetas() {
+  const recetas = fs.readFileSync("recetas.json");
+  return JSON.parse(recetas);
+}
+
+// Función para obtener los datos del diccionario de productos
+function getProductos() {
+  const productos = fs.readFileSync("productos.json");
+  return JSON.parse(productos);
+}
+
+// Función para calcular la cantidad de items que hay que restar del inventario
+function calcularCantidadItems() {
+  const ventas = getVentas();
+  const recetas = getRecetas();
+  const productos = getProductos();
+
+  // Iteramos sobre las ventas
+  for (const venta of ventas) {
+    // Obtenemos el producto comprado
+    const producto = venta.Producto;
+
+    // Obtenemos la receta del producto
+    const receta = recetas.find((r) => r.Producto === producto);
+
+    // Si la receta existe
+    if (receta) {
+      // Obtenemos la cantidad de items comprados
+      const cantidadComprados = venta.Cantidad;
+
+      // Obtenemos la cantidad de items por porción
+      const cantidadPorPorcion = receta.CantidadPara;
+
+      // Obtenemos la medida de los ingredientes
+      const medida = receta.Medida;
+
+      // Si la medida es PORC
+      if (medida === "PORC") {
+        // Calculamos la cantidad de ingredientes necesarios
+        const cantidadIngredientes = cantidadComprados * receta.Ingrediente.Cantidad;
+
+        // Obtenemos el precio del ingrediente
+        const precioIngrediente = receta.Ingrediente.Precio_ingrediente;
+
+        // Calculamos el precio de los ingredientes
+        const precioIngredientesTotal = cantidadIngredientes * precioIngrediente;
+
+        // Obtenemos el precio de venta del producto
+        const precioVentaProducto = productos.find((p) => p.Codigo === producto).Precio_venta;
+
+        // Calculamos la cantidad de items que hay que restar del inventario
+        const cantidadItemsRestantes = precioIngredientesTotal / precioVentaProducto;
+
+        // Añadimos el producto al inventario
+        inventario.set(producto, cantidadItemsRestantes);
+      }
+    }
+  }
+
+  // Devolvemos el inventario
+  return inventario;
+}
+
+// Inicializamos el inventario
+const inventario = new Map();
+
+// Calculamos la cantidad de items que hay que restar del inventario
+const cantidadItemsRestantes = calcularCantidadItems();
+
+// Imprimimos el inventario
+console.log(cantidadItemsRestantes);
+const fs = require("fs");
+
+// Función para obtener los datos de las ventas
+function getVentas() {
+  const ventas = fs.readFileSync("ventas.json");
+  return JSON.parse(ventas);
+}
+
+// Función para obtener los datos de las recetas
+function getRecetas() {
+  const recetas = fs.readFileSync("recetas.json");
+  return JSON.parse(recetas);
+}
+
+// Función para obtener los datos del diccionario de productos
+function getProductos() {
+  const productos = fs.readFileSync("productos.json");
+  return JSON.parse(productos);
+}
+
+// Función para calcular la cantidad de items que hay que restar del inventario
+function calcularCantidadItems() {
+  const ventas = getVentas();
+  const recetas = getRecetas();
+  const productos = getProductos();
+
+  // Iteramos sobre las ventas
+  for (const venta of ventas) {
+    // Obtenemos el producto comprado
+    const producto = venta.Producto;
+
+    // Obtenemos la receta del producto
+    const receta = recetas.find((r) => r.Producto === producto);
+
+    // Si la receta existe
+    if (receta) {
+      // Obtenemos la cantidad de items comprados
+      const cantidadComprados = venta.Cantidad;
+
+      // Obtenemos la cantidad de items por porción
+      const cantidadPorPorcion = receta.CantidadPara;
+
+      // Obtenemos la medida de los ingredientes
+      const medida = receta.Medida;
+
+      // Si la medida es PORC
+      if (medida === "PORC") {
+        // Calculamos la cantidad de ingredientes necesarios
+        const cantidadIngredientes = cantidadComprados * receta.Ingrediente.Cantidad;
+
+        // Obtenemos el precio del ingrediente
+        const precioIngrediente = receta.Ingrediente.Precio_ingrediente;
+
+        // Calculamos el precio de los ingredientes
+        const precioIngredientesTotal = cantidadIngredientes * precioIngrediente;
+
+        // Obtenemos el precio de venta del producto
+        const precioVentaProducto = productos.find((p) => p.Codigo === producto).Precio_venta;
+
+        // Calculamos la cantidad de items que hay que restar del inventario
+        const cantidadItemsRestantes = precioIngredientesTotal / precioVentaProducto;
+
+        // Añadimos el producto al inventario
+        inventario.set(producto, cantidadItemsRestantes);
+      }
+    }
+  }
+
+  // Devolvemos el inventario
+  return inventario;
+}
+
+// Inicializamos el inventario
+const inventario = new Map();
+
+// Calculamos la cantidad de items que hay que restar del inventario
+const cantidadItemsRestantes = calcularCantidadItems();
+
+// Imprimimos el inventario
+console.log(cantidadItemsRestantes);
+

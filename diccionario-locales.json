@@ -1,0 +1,3936 @@
+[
+    {
+        "Local": "T7",
+        "Codigo": "1",
+        "Producto": "Chicken Finger",
+        "Descripccion": "Chicken Finger",
+        "Precio_venta": "7700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "2",
+        "Producto": "Empanadas Mixtas",
+        "Descripccion": "Empanadas Mixtas",
+        "Precio_venta": "8200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "3",
+        "Producto": "Palos de Queso",
+        "Descripccion": "Palos de Queso",
+        "Precio_venta": "5500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "4",
+        "Producto": "Spring Rolls",
+        "Descripccion": "Spring Rolls",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "5",
+        "Producto": "Totopos",
+        "Descripccion": "Totopos",
+        "Precio_venta": "6800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6",
+        "Producto": "Camembert Apanado",
+        "Descripccion": "Camembert Apanado",
+        "Precio_venta": "7800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "7",
+        "Producto": "Fajita",
+        "Descripccion": "Fajita",
+        "Precio_venta": "13300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "8",
+        "Producto": "Quesadilla Pollo - Champignon",
+        "Descripccion": "Ques. Pollo-Champ",
+        "Precio_venta": "5500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "9",
+        "Producto": "Quesadilla Carne",
+        "Descripccion": "Quesadilla Carne",
+        "Precio_venta": "5600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "10",
+        "Producto": "Quesadilla Camaron",
+        "Descripccion": "Quesadilla Camaron",
+        "Precio_venta": "5700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "11",
+        "Producto": "Lomo a lo Pobre",
+        "Descripccion": "Lomo a lo Pobre",
+        "Precio_venta": "9050"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "12",
+        "Producto": "Crudo",
+        "Descripccion": "Crudo",
+        "Precio_venta": "7900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "13",
+        "Producto": "Sonata Teclados",
+        "Descripccion": "Sonata Teclados",
+        "Precio_venta": "13500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "14",
+        "Producto": "Picnic Teclados",
+        "Descripccion": "Picnic Teclados",
+        "Precio_venta": "14550"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "15",
+        "Producto": "Festival Teclados",
+        "Descripccion": "Festival Teclados",
+        "Precio_venta": "11900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "16",
+        "Producto": "Cheese Teclados",
+        "Descripccion": "Cheese Teclados",
+        "Precio_venta": "9500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "17",
+        "Producto": "Cheese Fritas Grandes",
+        "Descripccion": "Cheese Fritas Gr",
+        "Precio_venta": "8500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "18",
+        "Producto": "Cheese Camarones",
+        "Descripccion": "Cheese Camarones",
+        "Precio_venta": "10100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "19",
+        "Producto": "Cheese Champiñones",
+        "Descripccion": "Cheese Champiñones",
+        "Precio_venta": "9300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "20",
+        "Producto": "Cheese Mechada",
+        "Descripccion": "Cheese Mechada",
+        "Precio_venta": "9900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "21",
+        "Producto": "Papas Fritas Grandes",
+        "Descripccion": "Papas Fritas Gr.",
+        "Precio_venta": "6600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "22",
+        "Producto": "Big Mechada",
+        "Descripccion": "Big Mechada",
+        "Precio_venta": "6900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "23",
+        "Producto": "Doble Cheese Burger",
+        "Descripccion": "Dobl Cheese Burger",
+        "Precio_venta": "8900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "24",
+        "Producto": "Teclados Burger",
+        "Descripccion": "Teclados Burger",
+        "Precio_venta": "7900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "25",
+        "Producto": "WRAP VEGGIE",
+        "Descripccion": "WRAP VEGGIE",
+        "Precio_venta": "6900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "26",
+        "Producto": "Tartaro de Salmón",
+        "Descripccion": "Tartaro de Salmón",
+        "Precio_venta": "8100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "27",
+        "Producto": "Tataki de Atún",
+        "Descripccion": "Tataki de Atún",
+        "Precio_venta": "9500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "28",
+        "Producto": "Salmon Salad",
+        "Descripccion": "Salmon Salad",
+        "Precio_venta": "8000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "29",
+        "Producto": "Ceviche Mixto",
+        "Descripccion": "Ceviche Mixto",
+        "Precio_venta": "9300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "30",
+        "Producto": "Sinpirinha",
+        "Descripccion": "Sinpirinha",
+        "Precio_venta": "4200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "31",
+        "Producto": "Batido Mango",
+        "Descripccion": "Batido Mango",
+        "Precio_venta": "4300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "32",
+        "Producto": "Batido Frambuesa",
+        "Descripccion": "Batido Frambuesa",
+        "Precio_venta": "4300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "33",
+        "Producto": "Batido Frutilla",
+        "Descripccion": "Batido Frutilla",
+        "Precio_venta": "4300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "34",
+        "Producto": "Mojito Sin Alcohol",
+        "Descripccion": "Mojito Sin Alcohol",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "35",
+        "Producto": "Piña Colada Sin Alcohol",
+        "Descripccion": "Piña Colada S/A",
+        "Precio_venta": "4600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "36",
+        "Producto": "Jugo Arandano Frambuesa",
+        "Descripccion": "Jugo Aran. Framb",
+        "Precio_venta": "3300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "37",
+        "Producto": "Jugo Mango",
+        "Descripccion": "Jugo Mango",
+        "Precio_venta": "3300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "38",
+        "Producto": "Jugo Frambuesa",
+        "Descripccion": "Jugo Frambuesa",
+        "Precio_venta": "3300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "39",
+        "Producto": "Jugo Frutilla",
+        "Descripccion": "Jugo Frutilla",
+        "Precio_venta": "3300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "40",
+        "Producto": "Limonada",
+        "Descripccion": "Limonada",
+        "Precio_venta": "3300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "41",
+        "Producto": "Coca Cola 350cc",
+        "Descripccion": "Coca Cola 350cc",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "42",
+        "Producto": "Coca Cola Zero  350cc",
+        "Descripccion": "Coca Zero 350cc",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "43",
+        "Producto": "Coca Cola Light 350cc",
+        "Descripccion": "Coca Light 350cc",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "44",
+        "Producto": "Sprite 350cc",
+        "Descripccion": "Sprite 350cc",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "45",
+        "Producto": "Sprite Zero 350cc",
+        "Descripccion": "Sprite Zero 350cc",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "46",
+        "Producto": "Fanta 350cc",
+        "Descripccion": "Fanta 350cc",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "47",
+        "Producto": "Mineral sin gas",
+        "Descripccion": "Mineral sin gas",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "48",
+        "Producto": "Mineral con gas",
+        "Descripccion": "Mineral con gas",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "49",
+        "Producto": "Red Bull normal",
+        "Descripccion": "Red Bull normal",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "50",
+        "Producto": "Red Bull sugar free",
+        "Descripccion": "Red Bull sugarfree",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "51",
+        "Producto": "Red Bull yellow",
+        "Descripccion": "Red Bull yellow",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "52",
+        "Producto": "Fentimans Tonic Water",
+        "Descripccion": "Fentimans Tonic",
+        "Precio_venta": "3500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "53",
+        "Producto": "Fentimans Light Tonic",
+        "Descripccion": "Fentimans Light",
+        "Precio_venta": "3500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "54",
+        "Producto": "Fentimans Ginger Beer",
+        "Descripccion": "Fentimans Ginger",
+        "Precio_venta": "3500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "55",
+        "Producto": "Espumante de la casa",
+        "Descripccion": "Espum. de la casa",
+        "Precio_venta": "10200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "56",
+        "Producto": "Riccadonna Moscato Rose",
+        "Descripccion": "Riccadonna Rose",
+        "Precio_venta": "16000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "57",
+        "Producto": "Riccadonna Prosecco",
+        "Descripccion": "Riccadonna Proseco",
+        "Precio_venta": "16000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "58",
+        "Producto": "Riccadonna Chardonnay",
+        "Descripccion": "Riccad. Chardonnay",
+        "Precio_venta": "16000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "59",
+        "Producto": "Caliterra Sauvignon Blanc",
+        "Descripccion": "Caliterra Sauv bla",
+        "Precio_venta": "10800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "60",
+        "Producto": "Caliterra Chardonnay",
+        "Descripccion": "Calit. Chardonnay",
+        "Precio_venta": "10800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "61",
+        "Producto": "Errazuriz Sauvignon Blanc",
+        "Descripccion": "Errazuriz Sauv Bla",
+        "Precio_venta": "3900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "62",
+        "Producto": "Caliterra Cabernet Sauvignon",
+        "Descripccion": "Caliterra Cabernet",
+        "Precio_venta": "10800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "63",
+        "Producto": "Caliterra Carmenere",
+        "Descripccion": "Caliterra Carmener",
+        "Precio_venta": "10800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "64",
+        "Producto": "Caliterra Merlot",
+        "Descripccion": "Caliterra Merlot",
+        "Precio_venta": "10800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "65",
+        "Producto": "Morande Reserva Carmenere",
+        "Descripccion": "Morande Carmenere",
+        "Precio_venta": "11400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "66",
+        "Producto": "Morande Reserva Cabernet Sauvignon",
+        "Descripccion": "Morande Cabernet S",
+        "Precio_venta": "11400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "67",
+        "Producto": "Errazuriz Cabernet Sauvignon",
+        "Descripccion": "Errazuriz Cabernet",
+        "Precio_venta": "3900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "68",
+        "Producto": "Pisco Sour",
+        "Descripccion": "Pisco Sour",
+        "Precio_venta": "4100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "69",
+        "Producto": "Pisco Sour Alto 35°",
+        "Descripccion": "Pisco Sour Alto 35",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "70",
+        "Producto": "Pisco Sour Mistral 35°",
+        "Descripccion": "Pisco Sour Mistral",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "71",
+        "Producto": "Frambuesa Sour",
+        "Descripccion": "Fambuesa Sour",
+        "Precio_venta": "4500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "72",
+        "Producto": "Whisky Sour",
+        "Descripccion": "Whisky Sour",
+        "Precio_venta": "4700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "73",
+        "Producto": "Kir Royal",
+        "Descripccion": "Kir Royal",
+        "Precio_venta": "4200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "74",
+        "Producto": "Martini Dry",
+        "Descripccion": "Martini Dry",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "75",
+        "Producto": "Manhattan",
+        "Descripccion": "Manhattan",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "76",
+        "Producto": "Caipirinha Tradicional",
+        "Descripccion": "Caipirinha",
+        "Precio_venta": "4600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "77",
+        "Producto": "Caipirinha Frutilla",
+        "Descripccion": "Caipirinha Fruti.",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "78",
+        "Producto": "Caipirinha Frambuesa",
+        "Descripccion": "Caipirinha Frambue",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "79",
+        "Producto": "Caipirinha Mango",
+        "Descripccion": "Caipirinha Mango",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "80",
+        "Producto": "Caipiroska Tradicional",
+        "Descripccion": "Caipiroska",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "81",
+        "Producto": "Caipiroska Frutilla",
+        "Descripccion": "Caipiroska Fruti.",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "82",
+        "Producto": "Caiproska Frambuesa",
+        "Descripccion": "Caipiroska Frambue",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "83",
+        "Producto": "Caipiroska Mango",
+        "Descripccion": "Caiporoska Mango",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "84",
+        "Producto": "Ramazzotti",
+        "Descripccion": "Ramazzotti",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "85",
+        "Producto": "Aperol Spritz",
+        "Descripccion": "Aperol Spritz",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "86",
+        "Producto": "Jack Daniels",
+        "Descripccion": "Jack Daniels",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "87",
+        "Producto": "Jack Daniels Honey",
+        "Descripccion": "Jack Daniels Honey",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "88",
+        "Producto": "Jack Daniels Fire",
+        "Descripccion": "Jack Daniels Fire",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "89",
+        "Producto": "Vat 69",
+        "Descripccion": "Vat 69",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "90",
+        "Producto": "Johnnie Walker Red",
+        "Descripccion": "Johnnie Red",
+        "Precio_venta": "5700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "91",
+        "Producto": "Johnnie Walker Black",
+        "Descripccion": "Johnnie Black",
+        "Precio_venta": "7300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "92",
+        "Producto": "The Singleton 12",
+        "Descripccion": "The Singleton 12",
+        "Precio_venta": "8800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "93",
+        "Producto": "Smirnoff",
+        "Descripccion": "Smirnoff",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "94",
+        "Producto": "Stolichnaya Premium",
+        "Descripccion": "Stoli Premium",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "95",
+        "Producto": "Absolut Blue",
+        "Descripccion": "Absolut Blue",
+        "Precio_venta": "5600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "96",
+        "Producto": "Absolut Razz",
+        "Descripccion": "Absolut Razz",
+        "Precio_venta": "5600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "97",
+        "Producto": "Absolut Vainilla",
+        "Descripccion": "Absolut Vainilla",
+        "Precio_venta": "5600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "98",
+        "Producto": "Absolut Mango",
+        "Descripccion": "Absolut Mango",
+        "Precio_venta": "5600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "99",
+        "Producto": "Jagermeister",
+        "Descripccion": "Jagermeister",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "100",
+        "Producto": "4 Shot Jagermeister",
+        "Descripccion": "4 Shot Jager",
+        "Precio_venta": "12100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "101",
+        "Producto": "Jagermeister + Bebida",
+        "Descripccion": "Jager + Bebida",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "102",
+        "Producto": "Jagermeister Mojito",
+        "Descripccion": "Jager Mojito",
+        "Precio_venta": "6000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "103",
+        "Producto": "Pampero Especial",
+        "Descripccion": "Pampero Especial",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "104",
+        "Producto": "Pampero Aniversario",
+        "Descripccion": "Pampero Aniversa.",
+        "Precio_venta": "7200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "105",
+        "Producto": "Zacapa Ambar",
+        "Descripccion": "Zacapa Ambar",
+        "Precio_venta": "7800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "106",
+        "Producto": "Alto del Carmen 35°",
+        "Descripccion": "Alto 35°",
+        "Precio_venta": "4700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "107",
+        "Producto": "Alto del Carmen 40°",
+        "Descripccion": "Alto 40°",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "108",
+        "Producto": "Alto 40° Transparente",
+        "Descripccion": "Alto 40° Trans.",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "109",
+        "Producto": "Alto 40° Reservado",
+        "Descripccion": "Alto 40° Reservado",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "110",
+        "Producto": "Brujas de Salamanca 35°",
+        "Descripccion": "Brujas 35°",
+        "Precio_venta": "4300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "111",
+        "Producto": "Brujas de Salamanca 40°",
+        "Descripccion": "Brujas 40°",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "112",
+        "Producto": "Mistral 35°",
+        "Descripccion": "Mistral 35°",
+        "Precio_venta": "4700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "113",
+        "Producto": "Mistral Nobel 40°",
+        "Descripccion": "Mistral Nobel 40°",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "114",
+        "Producto": "Tanqueray London",
+        "Descripccion": "Tanqueray London",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "115",
+        "Producto": "Tanqueray Sevilla",
+        "Descripccion": "Tanqueray Sevilla",
+        "Precio_venta": "6700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "116",
+        "Producto": "Tanqueray Ten",
+        "Descripccion": "Tanqueray Ten",
+        "Precio_venta": "8800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "117",
+        "Producto": "Hendricks",
+        "Descripccion": "Hendricks",
+        "Precio_venta": "8800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "118",
+        "Producto": "Beefeater",
+        "Descripccion": "Beefeater",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "119",
+        "Producto": "Tropical Gin",
+        "Descripccion": "Tropical Gin",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "120",
+        "Producto": "Fernet Nero",
+        "Descripccion": "Fernet Nero",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "121",
+        "Producto": "Baileys",
+        "Descripccion": "Baileys",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "122",
+        "Producto": "Daiquiri Limón",
+        "Descripccion": "Daiquiri Limón",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "123",
+        "Producto": "Daiquiri Frambuesa",
+        "Descripccion": "Daiquiri Frambuesa",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "124",
+        "Producto": "Daiquiri Futilla",
+        "Descripccion": "Daiquiri Frutilla",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "125",
+        "Producto": "Daiquiri Mango",
+        "Descripccion": "Daiquiri Mango",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "126",
+        "Producto": "Margarita",
+        "Descripccion": "Margarita",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "127",
+        "Producto": "Margarita Frutilla",
+        "Descripccion": "Margarita Frutilla",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "128",
+        "Producto": "Margarita Frambuesa",
+        "Descripccion": "Margarita Frambue.",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "129",
+        "Producto": "Margarita Blue",
+        "Descripccion": "Margarita Blue",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "130",
+        "Producto": "Piña Colada",
+        "Descripccion": "Piña Colada",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "131",
+        "Producto": "Mango Colada",
+        "Descripccion": "Mango Colada",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "132",
+        "Producto": "Maitai",
+        "Descripccion": "Maitai",
+        "Precio_venta": "5400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "133",
+        "Producto": "Laguna Azul",
+        "Descripccion": "Laguna Azul",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "134",
+        "Producto": "Extasis",
+        "Descripccion": "Extasis",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "135",
+        "Producto": "Cosmopolitan",
+        "Descripccion": "Cosmopolitan",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "136",
+        "Producto": "Moscow Mule",
+        "Descripccion": "Moscow Mule",
+        "Precio_venta": "7000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "137",
+        "Producto": "Tennesse Mule",
+        "Descripccion": "Tennesse Mule",
+        "Precio_venta": "7000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "138",
+        "Producto": "Berlin Mule",
+        "Descripccion": "Berlin Mule",
+        "Precio_venta": "7000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "139",
+        "Producto": "London Mule",
+        "Descripccion": "London Mule",
+        "Precio_venta": "7000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "140",
+        "Producto": "Atardecer de Plata",
+        "Descripccion": "Atardecer de Plata",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "141",
+        "Producto": "Black Russian",
+        "Descripccion": "Black Russian",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "142",
+        "Producto": "Bloody Mary",
+        "Descripccion": "Bloody Mary",
+        "Precio_venta": "5400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "143",
+        "Producto": "Clavo Oxidado",
+        "Descripccion": "Clvo Oxidado",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "144",
+        "Producto": "Long Island Ice Tea",
+        "Descripccion": "Long Island IceTea",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "145",
+        "Producto": "Mamacita",
+        "Descripccion": "Mamacita",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "146",
+        "Producto": "Mojito Jack Daniels",
+        "Descripccion": "Mojito Jack",
+        "Precio_venta": "6800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "147",
+        "Producto": "Mojito Clásico",
+        "Descripccion": "Mojito Clásico",
+        "Precio_venta": "5600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "148",
+        "Producto": "Mojito Maracuyá",
+        "Descripccion": "Mojito Maracuyá",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "149",
+        "Producto": "Mojito Absolut",
+        "Descripccion": "Mojito Absolut",
+        "Precio_venta": "6100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "150",
+        "Producto": "Mojito Absolut Razz",
+        "Descripccion": "Mojito Absol. Razz",
+        "Precio_venta": "6100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "151",
+        "Producto": "Mojito Absolut Vainilla",
+        "Descripccion": "Mojito Abs.Vainila",
+        "Precio_venta": "6100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "152",
+        "Producto": "Mojito Absolut Mango",
+        "Descripccion": "Mojito Abs. Mango",
+        "Precio_venta": "6100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "153",
+        "Producto": "Mojito Corona",
+        "Descripccion": "Mojito Corona",
+        "Precio_venta": "6100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "154",
+        "Producto": "Mojito Stoli Pepino",
+        "Descripccion": "Mojito StoliPepino",
+        "Precio_venta": "6000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "155",
+        "Producto": "Sex on The beach",
+        "Descripccion": "Sex on the beach",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "156",
+        "Producto": "Valentina Drink",
+        "Descripccion": "Valentina Drink",
+        "Precio_venta": "4600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "157",
+        "Producto": "White Russian",
+        "Descripccion": "White Russian",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "158",
+        "Producto": "Schop Becker",
+        "Descripccion": "Schop Becker",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "159",
+        "Producto": "Schop Goose Island Ipa",
+        "Descripccion": "Schop Goose IPA",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "160",
+        "Producto": "Schop Hoeggarden",
+        "Descripccion": "Schop Hoeggarden",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "161",
+        "Producto": "Schop Stella Artois",
+        "Descripccion": "Schop Stella",
+        "Precio_venta": "4000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "162",
+        "Producto": "Schop Cusqueña",
+        "Descripccion": "Schop Cusqueña",
+        "Precio_venta": "4200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "163",
+        "Producto": "Corona",
+        "Descripccion": "Corona",
+        "Precio_venta": "3800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "164",
+        "Producto": "Stella Artois",
+        "Descripccion": "Stella Artois",
+        "Precio_venta": "3700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "165",
+        "Producto": "Budweiser",
+        "Descripccion": "Budweiser",
+        "Precio_venta": "3700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "166",
+        "Producto": "Cusqueña Golden Lager",
+        "Descripccion": "Cusqueña Golden",
+        "Precio_venta": "3500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "167",
+        "Producto": "Cusqueña Dark Lager",
+        "Descripccion": "Cusqueña Dark",
+        "Precio_venta": "3500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "168",
+        "Producto": "Cusqueña Red Lager",
+        "Descripccion": "Cusqueña Red Lager",
+        "Precio_venta": "3500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "169",
+        "Producto": "Cusqueña Trigo",
+        "Descripccion": "Cusqueña Trigo",
+        "Precio_venta": "3500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "170",
+        "Producto": "Becks",
+        "Descripccion": "Becks",
+        "Precio_venta": "3900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "171",
+        "Producto": "Negra Modelo",
+        "Descripccion": "Negra Modelo",
+        "Precio_venta": "3800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "172",
+        "Producto": "Goose Island IPA",
+        "Descripccion": "Goose Island IPA",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "173",
+        "Producto": "Goose Island 312",
+        "Descripccion": "Goose Island 312",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "174",
+        "Producto": "Goose Island Sofie",
+        "Descripccion": "Goose ISland Sofie",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "175",
+        "Producto": "Stella Artois Sin Alcohol",
+        "Descripccion": "Stella Artois S/A",
+        "Precio_venta": "3900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "176",
+        "Producto": "Campari Naranja",
+        "Descripccion": "Campari Naranja",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "177",
+        "Producto": "God Father",
+        "Descripccion": "God Father",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "178",
+        "Producto": "God Mother",
+        "Descripccion": "God Mother",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "179",
+        "Producto": "Tom Collins",
+        "Descripccion": "Tom Collins",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "180",
+        "Producto": "Kamikaze",
+        "Descripccion": "Kamikaze",
+        "Precio_venta": "4700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "181",
+        "Producto": "Tequila Sunrise",
+        "Descripccion": "Tequila Sunrise",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "182",
+        "Producto": "Shot Jack Daniels Fire",
+        "Descripccion": "Shot Jack Fire",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "183",
+        "Producto": "2 Shot Jack Daniels Fire",
+        "Descripccion": "2 Shot Jack Fire",
+        "Precio_venta": "8700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "184",
+        "Producto": "Shot Tequila Jimador",
+        "Descripccion": "Shot Jimador",
+        "Precio_venta": "4500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "185",
+        "Producto": "2 Shot Tequila Jimador",
+        "Descripccion": "2 Shot Jimador",
+        "Precio_venta": "7800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "186",
+        "Producto": "Promo Alto 35° + Redbull",
+        "Descripccion": "Alto 35° + Redbull",
+        "Precio_venta": "8300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "187",
+        "Producto": "Promo Alto 35° + Monster",
+        "Descripccion": "Alto 35° + Monster",
+        "Precio_venta": "8300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "188",
+        "Producto": "Promo Mistral 35° + Redbull",
+        "Descripccion": "Mistral 35°+Redbul",
+        "Precio_venta": "8300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "189",
+        "Producto": "Promo Brujas de Salamanca 35",
+        "Descripccion": "Promo Brujas 35°",
+        "Precio_venta": "7200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "190",
+        "Producto": "Promo Alto 35°",
+        "Descripccion": "Promo Alto 35°",
+        "Precio_venta": "7800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "191",
+        "Producto": "Promo Alto 40° Reservado",
+        "Descripccion": "Promo Alto 40°",
+        "Precio_venta": "8200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "192",
+        "Producto": "Promo Stoli Premium",
+        "Descripccion": "Promo Stoli",
+        "Precio_venta": "7500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "193",
+        "Producto": "Promo pisco Sour",
+        "Descripccion": "Promo Pisco Sour",
+        "Precio_venta": "6600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "194",
+        "Producto": "Promo Amaretto Sour",
+        "Descripccion": "Promo AmarettoSour",
+        "Precio_venta": "6400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "195",
+        "Producto": "Mojito Xl",
+        "Descripccion": "Mojito Xl",
+        "Precio_venta": "14700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "196",
+        "Producto": "Margarita XL",
+        "Descripccion": "Margarita XL",
+        "Precio_venta": "16400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "197",
+        "Producto": "Margarita XL Frutilla",
+        "Descripccion": "Marg. XL Frutilla",
+        "Precio_venta": "16500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "198",
+        "Producto": "Margarita XL Frambuesa",
+        "Descripccion": "Marg. XL Frambuesa",
+        "Precio_venta": "16500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "199",
+        "Producto": "Margarita XL Blue",
+        "Descripccion": "Margarita XL Blue",
+        "Precio_venta": "16500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "200",
+        "Producto": "Daiquiri XL Frutilla",
+        "Descripccion": "Daiq. XL Frutilla",
+        "Precio_venta": "16300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "201",
+        "Producto": "Daiquiri XL Frambuesa",
+        "Descripccion": "Daiq. XL Frambuesa",
+        "Precio_venta": "16300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "202",
+        "Producto": "Vaso Sangria",
+        "Descripccion": "Vaso Sangria",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "203",
+        "Producto": "Jarro Sangria",
+        "Descripccion": "Jarro Sangria",
+        "Precio_venta": "9000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "204",
+        "Producto": "Brownie con Helado",
+        "Descripccion": "Brownie con helado",
+        "Precio_venta": "3800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "205",
+        "Producto": "Cheesecake",
+        "Descripccion": "Cheesecake",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "206",
+        "Producto": "Beach Boys",
+        "Descripccion": "Beach Boys",
+        "Precio_venta": "7500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "207",
+        "Producto": "CARIÑOSITO",
+        "Descripccion": "CARIÑOSITO",
+        "Precio_venta": "7500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "208",
+        "Producto": "Florence Spritz",
+        "Descripccion": "Florence Spritz",
+        "Precio_venta": "7500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "209",
+        "Producto": "Nashville Honey",
+        "Descripccion": "Nashville Honey",
+        "Precio_venta": "7500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "210",
+        "Producto": "Negroni",
+        "Descripccion": "Negroni",
+        "Precio_venta": "6000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "211",
+        "Producto": "Menu Carne Mechada",
+        "Descripccion": "Carne Mechada",
+        "Precio_venta": "8099"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "212",
+        "Producto": "Menu Salmon Salad",
+        "Descripccion": "Salmon Salad",
+        "Precio_venta": "8099"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "213",
+        "Producto": "Menu Salmon a lo Pobre",
+        "Descripccion": "Salmon a lo Pobre",
+        "Precio_venta": "8199"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "214",
+        "Producto": "Menu Lomo a lo pobre",
+        "Descripccion": "Lomo a lo pobre",
+        "Precio_venta": "8399"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "215",
+        "Producto": "Menu Pollo a lo pobre",
+        "Descripccion": "Pollo a lo pobre",
+        "Precio_venta": "8199"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "216",
+        "Producto": "Menu Salmon a la plancha",
+        "Descripccion": "Salmon",
+        "Precio_venta": "8099"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "217",
+        "Producto": "Menu Pollo al Limon",
+        "Descripccion": "Pollo al Limon",
+        "Precio_venta": "8099"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "218",
+        "Producto": "Menu Pollo al Curry",
+        "Descripccion": "Pollo al Curry",
+        "Precio_venta": "8099"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "219",
+        "Producto": "Menu Lomo Saltado",
+        "Descripccion": "Lomo Saltado",
+        "Precio_venta": "8399"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "220",
+        "Producto": "Menu Pasta con Camarones",
+        "Descripccion": "Pasta con camarons",
+        "Precio_venta": "8099"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "221",
+        "Producto": "Menu Carne a la Diana",
+        "Descripccion": "Carne a la Diana",
+        "Precio_venta": "7399"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "222",
+        "Producto": "Menu Doble Cheese Burger",
+        "Descripccion": "Doble Cheese Burgr",
+        "Precio_venta": "8499"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "223",
+        "Producto": "Menu Coca cola 350cc",
+        "Descripccion": "coca cola 350cc",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "224",
+        "Producto": "Menu Coca cola zero 350cc",
+        "Descripccion": "coca zero 350cc",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "225",
+        "Producto": "Menu coca cola light 350cc",
+        "Descripccion": "coca light 350cc",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "226",
+        "Producto": "Menu Schweppes Ginger zero 350cc",
+        "Descripccion": "Ginger zero 350cc",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "227",
+        "Producto": "Menu Fanta 350cc",
+        "Descripccion": "Fanta 350cc",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "228",
+        "Producto": "Menu Sprite 350cc",
+        "Descripccion": "Sprite 350cc",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "229",
+        "Producto": "Menu Sprite Zero 350cc",
+        "Descripccion": "Sprite Zero 350cc",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "230",
+        "Producto": "Menu Schop Stella",
+        "Descripccion": "Schop Stella",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "231",
+        "Producto": "Menu Mineral sin gas",
+        "Descripccion": "Mineral sin gas",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "232",
+        "Producto": "Menu Mineral con gas",
+        "Descripccion": "Mineral con gas",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "233",
+        "Producto": "Menu copa de vino tinto",
+        "Descripccion": "Copa de vino tinto",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "234",
+        "Producto": "Menu copa de vino blanco",
+        "Descripccion": "Copa de vino blan.",
+        "Precio_venta": "1"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "235",
+        "Producto": "Promo Coca cola 350cc",
+        "Descripccion": "coca cola 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "236",
+        "Producto": "Promo coca cola zero 350cc",
+        "Descripccion": "coca zero 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "237",
+        "Producto": "Promo Coca cola Light 350cc",
+        "Descripccion": "Coca light 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "238",
+        "Producto": "Promo Schweppes Ginger zero 350cc",
+        "Descripccion": "Ginger Zero 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "239",
+        "Producto": "Promo Fanta 350cc",
+        "Descripccion": "Fanta 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "240",
+        "Producto": "Promo Sprite 350cc",
+        "Descripccion": "Sprite 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "241",
+        "Producto": "Promo Sprite Zero 350cc",
+        "Descripccion": "Sprite zero 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "242",
+        "Producto": "Promo Schweppes Tonica 350cc",
+        "Descripccion": "Tónica 350cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "243",
+        "Producto": "Promo Fentimans Tónica",
+        "Descripccion": "Fentimans Tónica",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "244",
+        "Producto": "Promo Fentimans Tónica Light",
+        "Descripccion": "Fentimans Light",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "245",
+        "Producto": "Promo coca cola 237cc",
+        "Descripccion": "coca cola 237cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "246",
+        "Producto": "Promo coca cola zero 237cc",
+        "Descripccion": "coca zero 237cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "247",
+        "Producto": "Promo Sprite 237cc",
+        "Descripccion": "Sprite 237cc",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "248",
+        "Producto": "Ticket de Evento",
+        "Descripccion": "Ticket de Evento",
+        "Precio_venta": "4100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "249",
+        "Producto": "Ticket Premium",
+        "Descripccion": "Ticket Premium",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "250",
+        "Producto": "Botella Absolut blue",
+        "Descripccion": "Bot. Absolut Blue",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "251",
+        "Producto": "Bot. Absolut Razz",
+        "Descripccion": "Bot. Absolut Razz",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "252",
+        "Producto": "Bot. Alto 35°",
+        "Descripccion": "Bot. Alto 35°",
+        "Precio_venta": "40000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "253",
+        "Producto": "Bot. Johnnie Walker Red",
+        "Descripccion": "Bot. Johnnie Red",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "254",
+        "Producto": "Bot. Jack Daniels",
+        "Descripccion": "Bot. Jack Daniels",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "255",
+        "Producto": "Vodka",
+        "Descripccion": "Vodka",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "256",
+        "Producto": "Ron",
+        "Descripccion": "Ron",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "257",
+        "Producto": "Pisco",
+        "Descripccion": "Pisco",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "258",
+        "Producto": "Gin",
+        "Descripccion": "Gin",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "259",
+        "Producto": "Shots",
+        "Descripccion": "Shots",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "260",
+        "Producto": "Cafe Simple",
+        "Descripccion": "Cafe Simple",
+        "Precio_venta": "1300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "261",
+        "Producto": "Cafe Doble",
+        "Descripccion": "Cafe Doble",
+        "Precio_venta": "1900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "262",
+        "Producto": "Bebidas",
+        "Descripccion": "Bebidas",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "263",
+        "Producto": "Mojitos",
+        "Descripccion": "Mojitos",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "264",
+        "Producto": "Daiquiris",
+        "Descripccion": "Daiquiris",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "265",
+        "Producto": "Sangria",
+        "Descripccion": "Sangria",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "266",
+        "Producto": "Promo Redbull",
+        "Descripccion": "Redbull",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "267",
+        "Producto": "Promo Red Bull Light",
+        "Descripccion": "Red Bull Light",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "268",
+        "Producto": "Promo Monster",
+        "Descripccion": "Monster",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "269",
+        "Producto": "Monster Zero",
+        "Descripccion": "Monster Zero",
+        "Precio_venta": "3200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "270",
+        "Producto": "Promo + RedBull",
+        "Descripccion": "Promo + Redbull",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "271",
+        "Producto": "HH Ramazzotti",
+        "Descripccion": "HH Ramazzotti",
+        "Precio_venta": "3200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "272",
+        "Producto": "HH Mojito Clásico",
+        "Descripccion": "HH Mojito Clásico",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "273",
+        "Producto": "HH Mojito Maracuyá",
+        "Descripccion": "HH Mojito Maracuyá",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "274",
+        "Producto": "HH Mojito Corona",
+        "Descripccion": "HH Mojito Corona",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "275",
+        "Producto": "HH Caipirinha",
+        "Descripccion": "HH Caipirinha",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "276",
+        "Producto": "HH Caipirinha Frambuesa",
+        "Descripccion": "HH Caipi Frambuesa",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "277",
+        "Producto": "HH Caipirinha Frutilla",
+        "Descripccion": "HH Caipi Frutilla",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "278",
+        "Producto": "HH Caipirinha Mango",
+        "Descripccion": "HH Caipi Mango",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "279",
+        "Producto": "HH Daiquiri Frutilla",
+        "Descripccion": "HH Daiq. Frutilla",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "280",
+        "Producto": "HH Daiquiri Frambuesa",
+        "Descripccion": "HH Daiq. Frambuesa",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "281",
+        "Producto": "HH Daiquiri Mango",
+        "Descripccion": "HH Daiquiri Mango",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "282",
+        "Producto": "HH Margarita",
+        "Descripccion": "HH Margarita",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "283",
+        "Producto": "HH Margarita Frambuesa",
+        "Descripccion": "Margarita Framb.",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "284",
+        "Producto": "HH Margarita Frutilla",
+        "Descripccion": "Margarita Frutilla",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "285",
+        "Producto": "HH Margarita Blue",
+        "Descripccion": "Margarita Blue",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "286",
+        "Producto": "HH Schop Becker",
+        "Descripccion": "HH Schop Becker",
+        "Precio_venta": "3200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "287",
+        "Producto": "HH Pisco Sour",
+        "Descripccion": "HH Pisco Sour",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "288",
+        "Producto": "HH Cosmopolitan",
+        "Descripccion": "HH cosmopolitan",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "289",
+        "Producto": "Schweppes Ginger Zero 350cc",
+        "Descripccion": "Ginger Zero 350cc",
+        "Precio_venta": "2500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "290",
+        "Producto": "Schweppes Tonica 350cc",
+        "Descripccion": "Tonica 350cc",
+        "Precio_venta": "2600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "291",
+        "Producto": "PICOTEOS",
+        "Descripccion": "PICOTEOS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "292",
+        "Producto": "TEX MEX",
+        "Descripccion": "TEX MEX",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "293",
+        "Producto": "MUSICALES",
+        "Descripccion": "MUSICALES",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "294",
+        "Producto": "CHEESE FRITAS",
+        "Descripccion": "CHEESE FRITAS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "295",
+        "Producto": "SANDWICH",
+        "Descripccion": "SANDWICH",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "296",
+        "Producto": "POSTRES",
+        "Descripccion": "POSTRES",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "297",
+        "Producto": "NUEVOS",
+        "Descripccion": "NUEVOS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "298",
+        "Producto": "Michelada",
+        "Descripccion": "Michelada",
+        "Precio_venta": "800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "299",
+        "Producto": "Michelada Full",
+        "Descripccion": "Michelada Full",
+        "Precio_venta": "1000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "300",
+        "Producto": "Extra churrasco",
+        "Descripccion": "Extra churrasco",
+        "Precio_venta": "1900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "301",
+        "Producto": "Extra Champignon",
+        "Descripccion": "Extra Champignon",
+        "Precio_venta": "600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "302",
+        "Producto": "Extra Camaron",
+        "Descripccion": "Extra Camaron",
+        "Precio_venta": "3000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "303",
+        "Producto": "Extra Pollo",
+        "Descripccion": "Extra Pollo",
+        "Precio_venta": "1200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "304",
+        "Producto": "Extra Palta",
+        "Descripccion": "Extra Palta",
+        "Precio_venta": "900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "305",
+        "Producto": "Not Burger",
+        "Descripccion": "Not Burger",
+        "Precio_venta": "1900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "306",
+        "Producto": "Margaritas",
+        "Descripccion": "Margaritas",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "307",
+        "Producto": "DE AUTOR",
+        "Descripccion": "DE AUTOR",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "308",
+        "Producto": "MULE",
+        "Descripccion": "MULE",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "309",
+        "Producto": "PROMOS",
+        "Descripccion": "PROMOS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "310",
+        "Producto": "D.PAPAS GRANDES",
+        "Descripccion": "D.PAPAS GRANDES",
+        "Precio_venta": "7500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "311",
+        "Producto": "D.CHEESE FRITAS GRANDES",
+        "Descripccion": "D.CHEESE F GRANDES",
+        "Precio_venta": "9500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "312",
+        "Producto": "D.CHEESE TECLADOS",
+        "Descripccion": "D.CHEESE TECLADOS",
+        "Precio_venta": "10700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "313",
+        "Producto": "D.CHEESE CHAMPIGNON",
+        "Descripccion": "D.CHEESE CHAMPIGNO",
+        "Precio_venta": "10500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "314",
+        "Producto": "D.CHEESE CAMARON",
+        "Descripccion": "D.CHEESE CAMARON",
+        "Precio_venta": "11400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "315",
+        "Producto": "D.SONATA TECLADOS",
+        "Descripccion": "D.SONATA TECLADOS",
+        "Precio_venta": "12700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "316",
+        "Producto": "D.PICNIC TECLADOS",
+        "Descripccion": "D.PICNIC TECLADOS",
+        "Precio_venta": "16600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "317",
+        "Producto": "D.FESTIVAL TECLADOS",
+        "Descripccion": "D.FESTIVAL TECLADO",
+        "Precio_venta": "13200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "318",
+        "Producto": "D.FAJITAS",
+        "Descripccion": "D.FAJITAS",
+        "Precio_venta": "14700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "319",
+        "Producto": "D.QUESADILLAS POLLO CHAMPIGNON",
+        "Descripccion": "D.QUESA PO CHAMP",
+        "Precio_venta": "5400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "320",
+        "Producto": "D.QUESADILLA CARNE",
+        "Descripccion": "D.QUESADILLA CARNE",
+        "Precio_venta": "5600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "321",
+        "Producto": "D.QUESADILLA CAMARON",
+        "Descripccion": "D.QUESA CAMARON",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "322",
+        "Producto": "D.TOTOPOS",
+        "Descripccion": "D.TOTOPOS",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "323",
+        "Producto": "D.TECLADOS BURGER",
+        "Descripccion": "D.TECLADOS BURGER",
+        "Precio_venta": "7900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "324",
+        "Producto": "D.DOBLE CHEESE BURGER",
+        "Descripccion": "D.DOBLE CH BURGER",
+        "Precio_venta": "9300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "325",
+        "Producto": "D.BIG MECHADA",
+        "Descripccion": "D.BIG MECHADA",
+        "Precio_venta": "7000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "326",
+        "Producto": "D.EMPANADAS",
+        "Descripccion": "D.EMPANADAS",
+        "Precio_venta": "9200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "327",
+        "Producto": "D.SPRING ROLLS",
+        "Descripccion": "D.SPRING ROLLS",
+        "Precio_venta": "5700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "328",
+        "Producto": "D.CHICKEN FINGERS",
+        "Descripccion": "D.CHICKEN FINGERS",
+        "Precio_venta": "8600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "329",
+        "Producto": "D.PALOS DE QUESO",
+        "Descripccion": "D.PALOS DE QUESO",
+        "Precio_venta": "6300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "330",
+        "Producto": "D.CAMENBERT APANADO",
+        "Descripccion": "D.CAMEM APANADO",
+        "Precio_venta": "8600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "331",
+        "Producto": "D.TARTARO SALMON",
+        "Descripccion": "D.TARTARO SALMON",
+        "Precio_venta": "8600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "332",
+        "Producto": "D.CRUDO TECLADOS",
+        "Descripccion": "D.CRUDO TECLADOS",
+        "Precio_venta": "7600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "333",
+        "Producto": "D.LOMO SALTADO",
+        "Descripccion": "D.LOMO SALTADO",
+        "Precio_venta": "8600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "334",
+        "Producto": "D.POLLO AL LIMON",
+        "Descripccion": "D.POLLO AL LIMON",
+        "Precio_venta": "6900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "335",
+        "Producto": "P.CHEESE TECLADOS",
+        "Descripccion": "P.CHEESE TECLADOS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "336",
+        "Producto": "P.FAJITAS",
+        "Descripccion": "P.FAJITAS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "337",
+        "Producto": "P.QUESADILLAS",
+        "Descripccion": "P.QUESADILLAS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "338",
+        "Producto": "P.RED BULL",
+        "Descripccion": "P.RED BULL",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "339",
+        "Producto": "P.SONATA",
+        "Descripccion": "P.SONATA",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "340",
+        "Producto": "D.PROMO ALTO CHEESE",
+        "Descripccion": "D.PRO ALT CHEESE",
+        "Precio_venta": "19100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "341",
+        "Producto": "D.PROMO ALTO",
+        "Descripccion": "D.PROMO ALTO",
+        "Precio_venta": "10500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "342",
+        "Producto": "D.SIX PACK CORONA",
+        "Descripccion": "D.SIX PACK CORONA",
+        "Precio_venta": "7800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "343",
+        "Producto": "D.PROMO CORONA CHEESE",
+        "Descripccion": "D.PRO CORO CHEESE",
+        "Precio_venta": "15200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "344",
+        "Producto": "D.PROMO CORONA FAJITAS",
+        "Descripccion": "D.PRO CORO FAJITAS",
+        "Precio_venta": "16400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "345",
+        "Producto": "D.PROMO MOJITO",
+        "Descripccion": "D.PROMO MOJITO",
+        "Precio_venta": "13700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "346",
+        "Producto": "D.PROMO MOJITO CHEESE",
+        "Descripccion": "D.PRO MOJ CHEESE",
+        "Precio_venta": "20300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "347",
+        "Producto": "D.PROMO MOJITO QUESADILLAS",
+        "Descripccion": "D.PRO MOJ QUESADIL",
+        "Precio_venta": "25700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "348",
+        "Producto": "D.PROMO APEROL SPRITZ",
+        "Descripccion": "D.PRO APEROL",
+        "Precio_venta": "25700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "349",
+        "Producto": "D.PROMO APEROL SPRITZ SONATA",
+        "Descripccion": "D.PRO APEROL SONAT",
+        "Precio_venta": "35200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "350",
+        "Producto": "D.PROMO RAMAZZOTI SPRITZ",
+        "Descripccion": "D.PRO RAMAZZOTI",
+        "Precio_venta": "24900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "351",
+        "Producto": "D.PROMO RAMAZZOTI SPRITZ SONATA",
+        "Descripccion": "D.PRO RAMA SONATA",
+        "Precio_venta": "36000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "352",
+        "Producto": "D.PROMO DAIKIRI",
+        "Descripccion": "D.PROMO DAIKIRI",
+        "Precio_venta": "12600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "353",
+        "Producto": "D.PROMO DAIKIRI CHEESE",
+        "Descripccion": "D.PRO DAIKI CHEES",
+        "Precio_venta": "21400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "354",
+        "Producto": "D.PROMO JACK RED BULL",
+        "Descripccion": "D.PRO JACK RB",
+        "Precio_venta": "40100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "355",
+        "Producto": "D.PROMO JACK RED BULL CHEESE",
+        "Descripccion": "D.PRO JACK RB CHEE",
+        "Precio_venta": "47900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "356",
+        "Producto": "D.PROMO JAGER RED BULL",
+        "Descripccion": "D.PRO JAGER RB",
+        "Precio_venta": "36000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "357",
+        "Producto": "D.PROMO JAGER RED BULL CHEEESE",
+        "Descripccion": "D.PRO JAGER RB CHE",
+        "Precio_venta": "43800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "358",
+        "Producto": "D.PROMO MARGARITA",
+        "Descripccion": "D.PRO MARGARITA",
+        "Precio_venta": "13600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "359",
+        "Producto": "D.PROMO MARGARITA CHEESE",
+        "Descripccion": "D.PRO MARGA CHEESE",
+        "Precio_venta": "21400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "360",
+        "Producto": "D.PROMO LONG ISLAND",
+        "Descripccion": "D.PRO LONG ISLAND",
+        "Precio_venta": "10500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "361",
+        "Producto": "D.PROMO LONG ISLAND CHEESE",
+        "Descripccion": "D.PRO LONG CHEEESE",
+        "Precio_venta": "18300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "362",
+        "Producto": "D.PROMO PISCO SOUR",
+        "Descripccion": "D.PRO PISCO SOUR",
+        "Precio_venta": "10500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "363",
+        "Producto": "D.PROMO PISCO SOUR QUESADILLAS",
+        "Descripccion": "D.PRO PISCO QUESAD",
+        "Precio_venta": "24900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "364",
+        "Producto": "D.PROMO SANGRIA",
+        "Descripccion": "D.PROMO SANGRIA",
+        "Precio_venta": "9500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "365",
+        "Producto": "D.PROMO SANGRIA CHEESE",
+        "Descripccion": "D.PRO SANGRI CHEES",
+        "Precio_venta": "18000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "366",
+        "Producto": "D.PROMO MOJITO CORONA",
+        "Descripccion": "D.PRO MOJ CORONA",
+        "Precio_venta": "18700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "367",
+        "Producto": "D.MOJITO CORONA CHEESE",
+        "Descripccion": "D.PRO MOJ CO CHEES",
+        "Precio_venta": "26500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "368",
+        "Producto": "D.PROMO CAIPIRINA",
+        "Descripccion": "D.PROMO CAIPIRINA",
+        "Precio_venta": "14400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "369",
+        "Producto": "D.PROMO CAIPIRINA CHEESE",
+        "Descripccion": "D.PRO CAIPI CHEES",
+        "Precio_venta": "21400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "370",
+        "Producto": "D.PROMO CAIPIROSKA",
+        "Descripccion": "D.PROMO CAIPIROSKA",
+        "Precio_venta": "14400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "371",
+        "Producto": "D.PROMO CAIPIROSKA CHEESE",
+        "Descripccion": "D.PRO CAIPORK CHEE",
+        "Precio_venta": "21400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "372",
+        "Producto": "D.PROMO MOJITO RAZZ",
+        "Descripccion": "D.PROMO MOJ RAZZ",
+        "Precio_venta": "18200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "373",
+        "Producto": "D.PROMO MOJITO RAZZ CHEESE",
+        "Descripccion": "D.PRO MOJ RAZZ CHE",
+        "Precio_venta": "25500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "374",
+        "Producto": "D.PROMO MOJITO STOLICH",
+        "Descripccion": "D.PRO MOJ STOLICH",
+        "Precio_venta": "15400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "375",
+        "Producto": "D.PROMO MOJITO STOLICH CHEESE",
+        "Descripccion": "D.PRO MOJ STOLI CH",
+        "Precio_venta": "22400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "376",
+        "Producto": "D.PROMO JAGER TONIC",
+        "Descripccion": "D.PRO JAGER TONIC",
+        "Precio_venta": "36000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "377",
+        "Producto": "D.PROMO JAGER TONIC CHEESE",
+        "Descripccion": "D.PRO JAGER T CHEE",
+        "Precio_venta": "43000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "378",
+        "Producto": "D.PROMO PINA COLADA",
+        "Descripccion": "D.PRO PINA COLADA",
+        "Precio_venta": "13600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "379",
+        "Producto": "D.PROMO PINA COLADA CHEESE",
+        "Descripccion": "D.PRO PINA CO CHEE",
+        "Precio_venta": "22100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "380",
+        "Producto": "D.PROMO MOJITO MARACUYA",
+        "Descripccion": "D.PRO MOJ MARACU",
+        "Precio_venta": "14400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "381",
+        "Producto": "D.PROMO MOJ. MARACUYA CHEESE",
+        "Descripccion": "D.PRO MOJ MARA CH",
+        "Precio_venta": "21900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "382",
+        "Producto": "D.PROMO MOJ. MARACUYA TRILOGIA",
+        "Descripccion": "D.PRO MOJ MARA TRI",
+        "Precio_venta": "26700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "383",
+        "Producto": "D.PROMO MOJ. FRAMBUESA",
+        "Descripccion": "D.PRO MOJ FRAM",
+        "Precio_venta": "14100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "384",
+        "Producto": "D.PROMO MOJ. FRAMBUESA CHEESE",
+        "Descripccion": "D.PRO MOJ FRA CHE",
+        "Precio_venta": "21900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "385",
+        "Producto": "D.PROMO MOJ. FRAMBUESA TRILOGIA",
+        "Descripccion": "D.PRO MOJ FRA TRI",
+        "Precio_venta": "26400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "386",
+        "Producto": "D.RED BULL",
+        "Descripccion": "D.RED BULL",
+        "Precio_venta": "3100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "387",
+        "Producto": "D.RED BULL YELLOW",
+        "Descripccion": "D.RED BULL YELLOW",
+        "Precio_venta": "3100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "388",
+        "Producto": "D.MONSTER",
+        "Descripccion": "D.MONSTER",
+        "Precio_venta": "3100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "389",
+        "Producto": "D.PROMO MONSTER",
+        "Descripccion": "D.PROMO MONSTER",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "390",
+        "Producto": "D.COCA NORMAL1.5",
+        "Descripccion": "D.COCA NORMAL 1.5",
+        "Precio_venta": "3000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "391",
+        "Producto": "D.COCA ZERO 1.5",
+        "Descripccion": "D.COCA ZERO 1.5",
+        "Precio_venta": "3000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "392",
+        "Producto": "D.TONICA 1.5",
+        "Descripccion": "D.TONICA 1.5",
+        "Precio_venta": "3000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "393",
+        "Producto": "D.GINGER ZERO 1.5",
+        "Descripccion": "D.GINGER ZERO 1.5",
+        "Precio_venta": "3000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "394",
+        "Producto": "D.AGUA CON GAS 1.6",
+        "Descripccion": "D.AGUA CON GAS 1.6",
+        "Precio_venta": "3000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "395",
+        "Producto": "D.COCA ZERO 350CC",
+        "Descripccion": "D.COCA ZERO 350",
+        "Precio_venta": "2100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "396",
+        "Producto": "D.SPRITE ZERO 350CC",
+        "Descripccion": "D.SPRITE ZERO 350",
+        "Precio_venta": "2100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "397",
+        "Producto": "D.COCA NORMAL 350CC",
+        "Descripccion": "D.COCA NORMAL 350",
+        "Precio_venta": "2100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "398",
+        "Producto": "D.CORONA",
+        "Descripccion": "D.CORONA",
+        "Precio_venta": "2300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "399",
+        "Producto": "D.BUDWEISER",
+        "Descripccion": "D.BUDWEISER",
+        "Precio_venta": "2300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "400",
+        "Producto": "D.VEGETARIANO",
+        "Descripccion": "D.VEGETARIANO",
+        "Precio_venta": "6600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "401",
+        "Producto": "D.CHEESE MECHADA",
+        "Descripccion": "D.CHEESE MECHADA",
+        "Precio_venta": "11200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "402",
+        "Producto": "D.LOMO A LO POBRE",
+        "Descripccion": "D.LOMO A LO PODRE",
+        "Precio_venta": "9000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "403",
+        "Producto": "D.COCINA",
+        "Descripccion": "D.COCINA",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "404",
+        "Producto": "D.BARRA",
+        "Descripccion": "D.BARRA",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "405",
+        "Producto": "D.PROMO CHEESE",
+        "Descripccion": "D.PROMO CHEESE",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "406",
+        "Producto": "CLASICO TECLADOS",
+        "Descripccion": "CLASICO TECLADOS",
+        "Precio_venta": "6350"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "407",
+        "Producto": "POLLO MIX",
+        "Descripccion": "POLLO CRISPY MIX",
+        "Precio_venta": "6150"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "408",
+        "Producto": "D.CLASICO TECLADOS",
+        "Descripccion": "D.CLASICO TECLADOS",
+        "Precio_venta": "6600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "409",
+        "Producto": "D.POLLO CRISPY MIX",
+        "Descripccion": "D.POLLO CRISPY MIX",
+        "Precio_venta": "6400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "410",
+        "Producto": "EXTRAS",
+        "Descripccion": "EXTRAS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "411",
+        "Producto": "EXTRA CREMA ACIDA",
+        "Descripccion": "EXTRA CREMA ACIDA",
+        "Precio_venta": "1200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "412",
+        "Producto": "EXTRA GUACAMOLE",
+        "Descripccion": "EXTRA GUACAMOLE",
+        "Precio_venta": "1200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "413",
+        "Producto": "EXTRA SALSA AJO",
+        "Descripccion": "EXTRA SALSA AJO",
+        "Precio_venta": "900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "414",
+        "Producto": "EXTRA AJI AMARILLO",
+        "Descripccion": "EXTRA AJI AMARILLO",
+        "Precio_venta": "600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "415",
+        "Producto": "EXTRA BURGER",
+        "Descripccion": "EXTRA BURGER",
+        "Precio_venta": "1900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "416",
+        "Producto": "EXTRA TORTILLA",
+        "Descripccion": "EXTRA TORTILLA",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "417",
+        "Producto": "EXTRA TOCINO",
+        "Descripccion": "EXTRA TOCINO",
+        "Precio_venta": "1300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "418",
+        "Producto": "EXTRA SALSA CHEDDAR",
+        "Descripccion": "EXTRA SALSA CHEDDR",
+        "Precio_venta": "600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "419",
+        "Producto": "EXTRA PICO GALLO",
+        "Descripccion": "EXTRA PICO GALLO",
+        "Precio_venta": "900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "420",
+        "Producto": "EXTRA TOSTADAS",
+        "Descripccion": "EXTRA TOSTADAS",
+        "Precio_venta": "600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "421",
+        "Producto": "2 schop + cheese teclados",
+        "Descripccion": "2 schop+ch.Teclado",
+        "Precio_venta": "10000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "422",
+        "Producto": "2 schop + crudo",
+        "Descripccion": "2 schop + crudo",
+        "Precio_venta": "10200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "423",
+        "Producto": "B.CHEESE TECLADOS",
+        "Descripccion": "B.CHEESE TECLADOS",
+        "Precio_venta": "1400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "424",
+        "Producto": "B.CRUDO",
+        "Descripccion": "B.CRUDO",
+        "Precio_venta": "700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "425",
+        "Producto": "Doble cheese NOT burger",
+        "Descripccion": "Doble Ch NOT Burge",
+        "Precio_venta": "8700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "426",
+        "Producto": "Teclados NOT Burger",
+        "Descripccion": "Teclados NOT Burge",
+        "Precio_venta": "7600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "427",
+        "Producto": "NOT BURGER",
+        "Descripccion": "NOT BURGER",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "428",
+        "Producto": "HH Mojito Berries",
+        "Descripccion": "HH Mojito Berries",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "429",
+        "Producto": "HH Mojito Mango",
+        "Descripccion": "HH Mojito Mango",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "430",
+        "Producto": "HH Mojito Frutilla",
+        "Descripccion": "HH Mojito Frutilla",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "431",
+        "Producto": "Mojito Berries",
+        "Descripccion": "mojito berries",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "432",
+        "Producto": "Mojito Mango",
+        "Descripccion": "Mojito Mango",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "433",
+        "Producto": "Mojito Frutilla",
+        "Descripccion": "Mojito Frutilla",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "434",
+        "Producto": "MOJITO JAGER",
+        "Descripccion": "MOJITO JAGER",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "435",
+        "Producto": "HH BECKER MICHELADA",
+        "Descripccion": "HH BECKER MICHELA",
+        "Precio_venta": "3200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "436",
+        "Producto": "Schop KM 24/7 IPA",
+        "Descripccion": "Schop KM 24/7 IPA",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "437",
+        "Producto": "Schop KM 24/7 Amber Lager",
+        "Descripccion": "Schop KM 24/7 Ambe",
+        "Precio_venta": "4600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "438",
+        "Producto": "Schop Leffe",
+        "Descripccion": "Schop Leffe",
+        "Precio_venta": "4600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "439",
+        "Producto": "Schop becker Michelada",
+        "Descripccion": "Schop becker Miche",
+        "Precio_venta": "3900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "440",
+        "Producto": "Schop Budweiser",
+        "Descripccion": "Schop Budweiser",
+        "Precio_venta": "3900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "441",
+        "Producto": "JW BLONDE",
+        "Descripccion": "JW BLONDE",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "442",
+        "Producto": "GIN GABRI",
+        "Descripccion": "GIN GABRI",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "443",
+        "Producto": "BULLEIT",
+        "Descripccion": "BULLEIT",
+        "Precio_venta": "6300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "444",
+        "Producto": "MEDALLA REAL RVA CARMENER",
+        "Descripccion": "MEDALLA RVA CARME",
+        "Precio_venta": "4300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "445",
+        "Producto": "MEDALLA REAL RVA CHARDONAY",
+        "Descripccion": "MEDALLA RVA CHARD",
+        "Precio_venta": "4300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "446",
+        "Producto": "MEDALLA REAL CS",
+        "Descripccion": "MEDALLA REAL CS",
+        "Precio_venta": "11400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "447",
+        "Producto": "CARMEN GRAN RVA CS",
+        "Descripccion": "CARMEN RVA CS",
+        "Precio_venta": "12000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "448",
+        "Producto": "MEDALLA REAL RVA CARMENER",
+        "Descripccion": "MEDALLA RVA CARMEN",
+        "Precio_venta": "11400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "449",
+        "Producto": "CARMEN RVA FRIDA KAHLO CARME",
+        "Descripccion": "CARMEN RVA FRI CR",
+        "Precio_venta": "12000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "450",
+        "Producto": "MEDALLA REAL RVA B CHAR",
+        "Descripccion": "MEDALLA RVA B CH",
+        "Precio_venta": "11400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "451",
+        "Producto": "CASA REAL MERLOT",
+        "Descripccion": "CASA REAL MERLOT",
+        "Precio_venta": "18600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "452",
+        "Producto": "Malibu",
+        "Descripccion": "Malibu",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "453",
+        "Producto": "Coffee Shake",
+        "Descripccion": "Coffee Shake",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "454",
+        "Producto": "Green Day",
+        "Descripccion": "Green Day",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "455",
+        "Producto": "Japon Tea",
+        "Descripccion": "Japon Tea",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "456",
+        "Producto": "Violetto Spritz",
+        "Descripccion": "Violetto Spritz",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "457",
+        "Producto": "Johnnie Ginger",
+        "Descripccion": "Johnnie Ginger",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "458",
+        "Producto": "Johnnie Fruity",
+        "Descripccion": "Johnnie Fruity",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "459",
+        "Producto": "BULLEIT TONIC",
+        "Descripccion": "BULLEIT TONIC",
+        "Precio_venta": "5500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6414",
+        "Producto": "Piscolon",
+        "Descripccion": "Piscolon",
+        "Precio_venta": "8000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6415",
+        "Producto": "2 MOJITOS + CHEESE TECLADOS",
+        "Descripccion": "2 MOJ + CHHESE TEC",
+        "Precio_venta": "16750"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6416",
+        "Producto": "P. 2 MOJITOS",
+        "Descripccion": "P. 2 MOJITOS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6418",
+        "Producto": "2 SPRITZ + FAJITA",
+        "Descripccion": "2 SPRITZ + FAJITA",
+        "Precio_venta": "19050"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6419",
+        "Producto": "P. 2 SPRITZ",
+        "Descripccion": "P. 2 SPRITZ",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6420",
+        "Producto": "Cheese Individual",
+        "Descripccion": "Cheese Indv.",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6421",
+        "Producto": "Cheddar´s Cheese grandes",
+        "Descripccion": "Cheddar cheese gr",
+        "Precio_venta": "8500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6422",
+        "Producto": "Cheddar´s cheese individual",
+        "Descripccion": "Cheddar cheese ind",
+        "Precio_venta": "4800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6423",
+        "Producto": "PROMO MOJITOS",
+        "Descripccion": "PROMO MOJITOS",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6424",
+        "Producto": "P. MOJITO CLASICO",
+        "Descripccion": "P. MOJITO CLASICO",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6425",
+        "Producto": "P. MOJITO FRAMBUESA",
+        "Descripccion": "P. MOJITO FRAMBUES",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6426",
+        "Producto": "P. MOJITO FRUTILLA",
+        "Descripccion": "P. MOJITO FRUTILLA",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6427",
+        "Producto": "P. MOJITO MANGO",
+        "Descripccion": "P. MOJITO MANGO",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6428",
+        "Producto": "P. MOJITO MARACUYA",
+        "Descripccion": "P. MOJITO MARACUYA",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6429",
+        "Producto": "Promo Pisco alto 35 2x1",
+        "Descripccion": "Promo alto",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "643",
+        "Producto": "",
+        "Descripccion": "",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6431",
+        "Producto": "COPA DE ESPUMANTE",
+        "Descripccion": "COPA DE ESPUMANTE",
+        "Precio_venta": "4100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6430",
+        "Producto": "MOJITO PARIS",
+        "Descripccion": "MOJITO PARIS",
+        "Precio_venta": "6000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6432",
+        "Producto": "M.S ORIGINAL",
+        "Descripccion": "M.S ORIGINAL",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6433",
+        "Producto": "M.S FRAMBUESA",
+        "Descripccion": "M.S FRAMBUESA",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6434",
+        "Producto": "M.S FRUTILLA",
+        "Descripccion": "M.S FRUTILLA",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6435",
+        "Producto": "M.S MANGO",
+        "Descripccion": "M.S MANGO",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6436",
+        "Producto": "M.S MARACUYA",
+        "Descripccion": "M.S MARACUYA",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6437",
+        "Producto": "L.S ORIGINAL",
+        "Descripccion": "L.S ORIGINAL",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6438",
+        "Producto": "L.S FRAMBUESA",
+        "Descripccion": "L.S FRAMBUESA",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6439",
+        "Producto": "L.S FRUTILLA",
+        "Descripccion": "L.S FRUTILLA",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6440",
+        "Producto": "L.S MANGO",
+        "Descripccion": "L.S MANGO",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6441",
+        "Producto": "L.S MARACUYA",
+        "Descripccion": "L.S MARACUYA",
+        "Precio_venta": "300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6442",
+        "Producto": "JACK DANIELS APPLE",
+        "Descripccion": "JACK DANIELS APPLE",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "460",
+        "Producto": "S.BLUE",
+        "Descripccion": "S.BLUE",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "461",
+        "Producto": "PROMO DAIKIRI",
+        "Descripccion": "PROMO DAIKIRI",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "462",
+        "Producto": "PROMO MARGARITA",
+        "Descripccion": "PROMO MARGARITA",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6492",
+        "Producto": "DESCORCHE",
+        "Descripccion": "DESCORCHE",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6493",
+        "Producto": "Empanadas de queso",
+        "Descripccion": "Empanadas queso",
+        "Precio_venta": "7900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6494",
+        "Producto": "SCHOP CUSQUEÑA",
+        "Descripccion": "SCHOP CUSQUEÑA",
+        "Precio_venta": "4000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6499",
+        "Producto": "PROMO SCHOP BECKER 2X1",
+        "Descripccion": "PROMO SCHOP BECKER",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6716",
+        "Producto": "A. PROMO PISCO SOUR",
+        "Descripccion": "A. PROMO PISCO SUR",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6717",
+        "Producto": "A. PROMO ALTO",
+        "Descripccion": "A. PROMO ALTO",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6719",
+        "Producto": "QUESADILLA MECHADA",
+        "Descripccion": "QUESADILLA MECHADA",
+        "Precio_venta": "5700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6720",
+        "Producto": "TOTOPITOS",
+        "Descripccion": "TOTOPITOS",
+        "Precio_venta": "3700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6721",
+        "Producto": "PROMO JOHNNIE BLONDE",
+        "Descripccion": "PROMO JOHNNIE BLON",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6722",
+        "Producto": "PROMO TANQUERAY ROYAL",
+        "Descripccion": "PROMO TANQUERAY RO",
+        "Precio_venta": "6700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6728",
+        "Producto": "MOJITO TANQUERAY",
+        "Descripccion": "GIN TANQUERAY",
+        "Precio_venta": "6000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6730",
+        "Producto": "GIN TANQUERAY ROYAL",
+        "Descripccion": "GIN TANQUERAY ROYL",
+        "Precio_venta": "6700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6820",
+        "Producto": "CUCARACHA CUMPLEAÑOS",
+        "Descripccion": "CUCARACHA CUMPLE",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6828",
+        "Producto": "TERREMOTO",
+        "Descripccion": "TERREMOTO",
+        "Precio_venta": "5000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6830",
+        "Producto": "REPLICA",
+        "Descripccion": "REPLICA",
+        "Precio_venta": "5500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6832",
+        "Producto": "HH TERREMOTO",
+        "Descripccion": "HH TERREMOTO",
+        "Precio_venta": "5200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6833",
+        "Producto": "HH COCINA",
+        "Descripccion": "HH COCINA",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6834",
+        "Producto": "HH CHEESE TECLADOS",
+        "Descripccion": "HH CHESSE TECLADOS",
+        "Precio_venta": "8100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6835",
+        "Producto": "HH QUESADILLA POLLO CHAMPIÑON",
+        "Descripccion": "HH QUESA POLLO CHA",
+        "Precio_venta": "4900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6836",
+        "Producto": "HH EMPANADA DE QUESO",
+        "Descripccion": "HH EMPANADA QUESO",
+        "Precio_venta": "6900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "463",
+        "Producto": "Mojito Tanqueray Sevilla",
+        "Descripccion": "Mojito Tan Sevilla",
+        "Precio_venta": "6900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "464",
+        "Producto": "Mojito Tanqueray Royale",
+        "Descripccion": "Mojito Tan Royale",
+        "Precio_venta": "6900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6837",
+        "Producto": "HH LAGUNA AZUL",
+        "Descripccion": "HH LAGUNA AZUL",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6838",
+        "Producto": "HH MAITAI",
+        "Descripccion": "HH MAITAI",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6839",
+        "Producto": "HH CHARDONAY SOUR",
+        "Descripccion": "HH CHARDO SOUR",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6840",
+        "Producto": "PROMO CHARDONAY SOUR",
+        "Descripccion": "PROMO CHAR SOUR",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6841",
+        "Producto": "PROMO DAIQUIRI",
+        "Descripccion": "PROMO DAIQUIRI",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6842",
+        "Producto": "HH CRUDO",
+        "Descripccion": "HH CRUDO",
+        "Precio_venta": "6500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6843",
+        "Producto": "HH DOBLE CHEESE BURGER",
+        "Descripccion": "HH DOB CHEE BURGER",
+        "Precio_venta": "7300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6844",
+        "Producto": "HH TOTOPOS",
+        "Descripccion": "HH TOTOPOS",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6845",
+        "Producto": "MARGARITA SPICY",
+        "Descripccion": "MARGARITA SPICY",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6846",
+        "Producto": "MARGARITA BLUE SPICY",
+        "Descripccion": "MARG BLUE SPICY",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6847",
+        "Producto": "MARGARITA MARACUYA SPICY",
+        "Descripccion": "MARGA MARA SPICY",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6848",
+        "Producto": "CHARDONAY SOUR",
+        "Descripccion": "CHARDONAY SOUR",
+        "Precio_venta": "5100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "465",
+        "Producto": "P. Margarita",
+        "Descripccion": "P. Margarita",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "466",
+        "Producto": "P. Margarita Blue",
+        "Descripccion": "P. Margarita blue",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "467",
+        "Producto": "P. Margarita Frambuesa",
+        "Descripccion": "P. Marg Frambuesa",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "468",
+        "Producto": "P. Margarita Frutilla",
+        "Descripccion": "P. Marg Frutilla",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "469",
+        "Producto": "P. Margarita Spicy",
+        "Descripccion": "P. Margarita Spicy",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "470",
+        "Producto": "P. Margarita Spicy Blue",
+        "Descripccion": "P. Marg Spicy Blue",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "471",
+        "Producto": "P. Margarita Spicy Maracuya",
+        "Descripccion": "P. Marg Maracuya",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6849",
+        "Producto": "CORONA SUNRISE",
+        "Descripccion": "CORONA SUNRISE",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6850",
+        "Producto": "CORONA DEEP BLUE",
+        "Descripccion": "CORONA DEEP BLUE",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "6851",
+        "Producto": "CORONA TROPICAL",
+        "Descripccion": "CORONA TROPICAL",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "472",
+        "Producto": "WRAP DE POLLO",
+        "Descripccion": "WRAP DE POLLO",
+        "Precio_venta": "7500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "473",
+        "Producto": "WRAP DE MECHADA",
+        "Descripccion": "WRAP DE MECHADA",
+        "Precio_venta": "8100"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "474",
+        "Producto": "WRAP ACEVICHADO",
+        "Descripccion": "WRAP ACEVICHADO",
+        "Precio_venta": "8600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "475",
+        "Producto": "CHURRASCO MARINO",
+        "Descripccion": "CHURRASCO MARINO",
+        "Precio_venta": "7700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "476",
+        "Producto": "TECLADOS SMOKED",
+        "Descripccion": "TECLADOS SMOKED",
+        "Precio_venta": "7900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "477",
+        "Producto": "AROS DE CEBOLLA APANADO",
+        "Descripccion": "AROS DE CEBOLLA",
+        "Precio_venta": "5500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "478",
+        "Producto": "MOJITO CORONA 0.0",
+        "Descripccion": "MOJITO CORONA 0.0",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "479",
+        "Producto": "CORONA SUNRISE 0.0",
+        "Descripccion": "CORONA SUNRISE 0.0",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "480",
+        "Producto": "EXPRESSO MARTINI",
+        "Descripccion": "EXPRESSO MARTINI",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "481",
+        "Producto": "WRAP VEGGIE",
+        "Descripccion": "WRAP VEGGIE",
+        "Precio_venta": "6900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "482",
+        "Producto": "CORONA 0.0",
+        "Descripccion": "CORONA 0.0",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "483",
+        "Producto": "MARACUYA SOUR",
+        "Descripccion": "MARACUYA SOUR",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "484",
+        "Producto": "AJI VERDE SOUR",
+        "Descripccion": "AJI VERDE SOUR",
+        "Precio_venta": "4400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "485",
+        "Producto": "HALLOWEEN",
+        "Descripccion": "HALLOWEEN",
+        "Precio_venta": "0"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "486",
+        "Producto": "PUMPKIN",
+        "Descripccion": "PUMPKIN",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "487",
+        "Producto": "GHOST BLOOD",
+        "Descripccion": "GHOST BLOOD",
+        "Precio_venta": "3600"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "488",
+        "Producto": "MALEFICENT",
+        "Descripccion": "MALEFICENT",
+        "Precio_venta": "5900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "489",
+        "Producto": "SCHOP BECKER 2X1",
+        "Descripccion": "SCHOP NECKER 2X1",
+        "Precio_venta": "5800"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "490",
+        "Producto": "SCHOP BECKER MICHELADO 2X1",
+        "Descripccion": "BECKER MICHE 2X1",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "491",
+        "Producto": "KENTUCKY MULE",
+        "Descripccion": "KENTUCKY MULE",
+        "Precio_venta": "7000"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "492",
+        "Producto": "HH WHISKEY SOUR JOHNNIE ROJO",
+        "Descripccion": "WHISKEY SOUR JR",
+        "Precio_venta": "4300"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "493",
+        "Producto": "HH JOHNNIE ROJO GINGER",
+        "Descripccion": "JOHNNIE ROJO GINGR",
+        "Precio_venta": "3900"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "494",
+        "Producto": "HH JOHNNIE ROJO FRUITY",
+        "Descripccion": "JOHNNIE ROJO FRUTY",
+        "Precio_venta": "4700"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "495",
+        "Producto": "Camarones al Pil pil",
+        "Descripccion": "Camarones Pil Pil",
+        "Precio_venta": "6500"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "496",
+        "Producto": "RED BULL FRUTA DEL DRAGON",
+        "Descripccion": "RB FRUTA DEL DRAGN",
+        "Precio_venta": "3400"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "497",
+        "Producto": "DRAGON GIN",
+        "Descripccion": "DRAGON GIN",
+        "Precio_venta": "6200"
+    },
+    {
+        "Local": "T7",
+        "Codigo": "498",
+        "Producto": "GIN DE VERANO",
+        "Descripccion": "GIN DE VERANO",
+        "Precio_venta": "6200"
+    }
+]
